@@ -6,6 +6,7 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
+import About from './pages/About';
 import TrackingPage from './pages/Tracking';
 import Services from './pages/Services';
 import Contact from './pages/Contact';
@@ -16,6 +17,7 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
         <Route path="/rastreo" element={<TrackingPage />} />
         <Route path="/servicios" element={<Services />} />
         <Route path="/blog" element={<Blog />} />

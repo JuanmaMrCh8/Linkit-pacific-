@@ -1,38 +1,54 @@
-import React from 'react';
+import React, { useId } from 'react';
 
 export function Logo({ className = "w-10 h-10", color = "text-white" }: { className?: string, color?: string }) {
+  const patternId = useId();
+  const maskId = useId();
+
   return (
     <svg 
-      viewBox="0 0 100 100" 
+      viewBox="0 0 120 120" 
       fill="none" 
       xmlns="http://www.w3.org/2000/svg" 
-      className={className}
+      className={`${className} ${color}`}
     >
-      {/* Lower L shape */}
+      <defs>
+        {/* Pattern: White dots on transparent background */}
+        <pattern id={patternId} x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse">
+          <circle cx="4" cy="4" r="2.5" fill="white" />
+        </pattern>
+        
+        {/* Mask: White dots inside the chevron shape, black elsewhere */}
+        <mask id={maskId}>
+          <rect x="0" y="0" width="120" height="120" fill="black" />
+          <path 
+            d="M 15 25 L 60 70 L 105 25" 
+            stroke={`url(#${patternId})`} 
+            strokeWidth="32" 
+            strokeLinecap="square" 
+            strokeLinejoin="miter" 
+            fill="none"
+          />
+        </mask>
+      </defs>
+      
+      {/* Solid Chevron (Bottom) */}
       <path 
-        d="M30 70 L30 50 L50 30 L70 50 L50 70 L30 70 Z" 
-        fill="currentColor" 
-        className={color}
-        stroke="currentColor"
-        strokeWidth="8"
-        strokeLinejoin="round"
+        d="M 15 95 L 60 50 L 105 95" 
+        stroke="currentColor" 
+        strokeWidth="32" 
+        strokeLinecap="square" 
+        strokeLinejoin="miter" 
+        fill="none"
       />
-      {/* Upper L shape (simplified dot pattern representation as solid for scalability, or distinct path) */}
-      <path 
-        d="M70 30 L70 50 L50 70 L30 50 L50 30 L70 30 Z" 
+
+      {/* Dotted Chevron (Top) - Rect filled with currentColor, masked by dots */}
+      <rect 
+        x="0" 
+        y="0" 
+        width="120" 
+        height="120" 
         fill="currentColor" 
-        className={color}
-        stroke="currentColor"
-        strokeWidth="8"
-        strokeLinejoin="round"
-        opacity="0.5"
-      />
-      {/* Central connection */}
-      <path 
-        d="M40 60 L60 40" 
-        stroke="white" 
-        strokeWidth="4" 
-        strokeLinecap="round"
+        mask={`url(#${maskId})`} 
       />
     </svg>
   );
@@ -41,11 +57,8 @@ export function Logo({ className = "w-10 h-10", color = "text-white" }: { classN
 export function LogoText({ className = "", light = false }: { className?: string, light?: boolean }) {
   return (
     <div className={`flex items-center gap-3 ${className}`}>
-      <div className="relative w-10 h-10">
-        <div className="absolute inset-0 bg-gradient-to-tr from-primary to-accent rounded-lg transform rotate-45"></div>
-        <div className="absolute inset-0 flex items-center justify-center text-white font-bold text-xl transform -rotate-0">
-          L
-        </div>
+      <div className="relative w-12 h-12 flex items-center justify-center">
+        <Logo className="w-full h-full" color={light ? "text-white" : "text-primary"} />
       </div>
       <div className="flex flex-col">
         <span className={`font-bold text-xl leading-none tracking-tight ${light ? 'text-white' : 'text-gray-900'}`}>

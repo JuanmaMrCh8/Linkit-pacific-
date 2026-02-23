@@ -1,6 +1,6 @@
-import React from 'react';
+import { Link } from 'react-router-dom';
 import { motion } from 'motion/react';
-import { Search, ShieldCheck, Ship, FileCheck, PackageCheck } from 'lucide-react';
+import { Search, ShieldCheck, Ship, FileCheck, PackageCheck, ArrowRight } from 'lucide-react';
 
 const steps = [
   {
@@ -8,35 +8,40 @@ const steps = [
     title: "Sourcing",
     description: "Identificación de proveedores confiables y negociación.",
     icon: <Search className="w-6 h-6 text-white" />,
-    color: "bg-primary"
+    color: "bg-primary",
+    link: "/servicios#sourcing"
   },
   {
     id: 2,
     title: "Inspección",
     description: "Control de calidad y auditoría de fábrica.",
     icon: <ShieldCheck className="w-6 h-6 text-white" />,
-    color: "bg-accent"
+    color: "bg-accent",
+    link: "/servicios#inspeccion"
   },
   {
     id: 3,
     title: "Logística",
     description: "Transporte internacional (Marítimo/Aéreo).",
     icon: <Ship className="w-6 h-6 text-white" />,
-    color: "bg-primary-light"
+    color: "bg-primary-light",
+    link: "/servicios#logistica"
   },
   {
     id: 4,
     title: "Aduanas",
     description: "Gestión de trámites y liberación aduanal.",
     icon: <FileCheck className="w-6 h-6 text-white" />,
-    color: "bg-accent-light"
+    color: "bg-accent-light",
+    link: "/servicios#aduanas"
   },
   {
     id: 5,
     title: "Entrega",
     description: "Distribución final hasta su almacén.",
     icon: <PackageCheck className="w-6 h-6 text-white" />,
-    color: "bg-primary-dark"
+    color: "bg-primary-dark",
+    link: "/servicios#entrega"
   }
 ];
 
@@ -114,9 +119,15 @@ export function ImportProcessTimeline() {
                     0{step.id}
                   </div>
                   <h3 className="text-xl font-bold text-gray-900 mb-2">{step.title}</h3>
-                  <p className="text-sm text-gray-500 leading-relaxed">
+                  <p className="text-sm text-gray-500 leading-relaxed mb-4">
                     {step.description}
                   </p>
+                  <Link 
+                    to={step.link} 
+                    className="text-primary text-sm font-bold flex items-center justify-center gap-1 hover:gap-2 transition-all"
+                  >
+                    Leer más <ArrowRight size={14} />
+                  </Link>
                 </div>
               </motion.div>
             ))}
