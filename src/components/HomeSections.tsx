@@ -19,11 +19,11 @@ export function Hero() {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070&auto=format&fit=crop" 
-          alt="Modern Architecture" 
-          className="w-full h-full object-cover opacity-20 mix-blend-multiply"
+          src="https://images.unsplash.com/photo-1577149004698-1940d94a0a83?q=80&w=2070&auto=format&fit=crop" 
+          alt="Container Loading" 
+          className="w-full h-full object-cover opacity-60"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-white via-white/80 to-transparent"></div>
+        <div className="absolute inset-0 bg-white/80 backdrop-blur-sm"></div>
         <div className="absolute top-0 right-0 w-[800px] h-[800px] bg-gradient-to-b from-primary/10 to-accent/10 rounded-full blur-3xl opacity-40 -translate-y-1/2 translate-x-1/3" />
       </div>
       

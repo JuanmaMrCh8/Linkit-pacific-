@@ -4,7 +4,18 @@ import { motion, useScroll, useTransform, AnimatePresence } from 'motion/react';
 import { Search, ShieldCheck, Ship, TrendingUp, Check, ShoppingBag, ArrowRight, ChevronDown } from 'lucide-react';
 import { Logo } from '@/components/Logo';
 
-const services = [
+interface Service {
+  id: string;
+  title: string;
+  icon: React.ReactNode;
+  description: string;
+  features: string[];
+  image: string;
+  highlight?: boolean;
+  luxury?: boolean;
+}
+
+const services: Service[] = [
   {
     id: 'sourcing',
     title: 'Soluciones de Sourcing',
@@ -74,7 +85,7 @@ const services = [
   }
 ];
 
-function ServiceSection({ service, index }: { service: typeof services[0] & { luxury?: boolean }, index: number }) {
+const ServiceSection: React.FC<{ service: Service, index: number }> = ({ service, index }) => {
   const ref = useRef(null);
   const { scrollYProgress } = useScroll({
     target: ref,
