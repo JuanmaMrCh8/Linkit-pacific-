@@ -11,6 +11,7 @@ import TrackingPage from './pages/Tracking';
 import Services from './pages/Services';
 import Contact from './pages/Contact';
 import Blog from './pages/Blog';
+import { GlobalInteractive } from './components/Interactive/GlobalInteractive';
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
         <Route path="/blog" element={<Blog />} />
         <Route path="/contacto" element={<Contact />} />
       </Routes>
+      <GlobalInteractive />
     </BrowserRouter>
   );
 }
