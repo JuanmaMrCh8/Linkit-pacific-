@@ -57,7 +57,7 @@ export default function Contact() {
                   <h3 className="font-bold text-xl text-slate-900 mb-2">Oficinas Principales</h3>
                   <div className="space-y-4">
                     <p className="text-slate-600 leading-relaxed">
-                      <span className="font-semibold text-slate-900">Shanghai, China</span><br />
+                      <span className="font-semibold text-slate-900">Shenzhen, China</span><br />
                       No. 123, Nanjing Road, Huangpu District
                     </p>
                     <p className="text-slate-600 leading-relaxed">
@@ -74,8 +74,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-bold text-xl text-slate-900 mb-2">Correo Electrónico</h3>
-                  <p className="text-slate-600 text-lg">info@linkcontinents.com</p>
-                  <p className="text-slate-600 text-lg">ventas@linkcontinents.com</p>
+                  <p className="text-slate-600 text-lg">info@linkitpacific.com</p>
+                  <p className="text-slate-600 text-lg">ventas@linkitpacific.com</p>
                 </div>
               </div>
 
@@ -85,7 +85,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-bold text-xl text-slate-900 mb-2">Teléfono</h3>
-                  <p className="text-slate-600 text-lg">+86 21 1234 5678 (China)</p>
+                  <p className="text-slate-600 text-lg">+86 17813279893 (China)</p>
                   <p className="text-slate-600 text-lg">+593 2 123 4567 (Ecuador)</p>
                 </div>
               </div>

@@ -140,9 +140,9 @@ export function Footer() {
             <h3 className="text-lg font-bold mb-6 text-white">Contacto</h3>
             <ul className="space-y-3 text-sm text-gray-400">
               <li>info@linkitpacific.com</li>
-              <li>+86 21 1234 5678</li>
-              <li>Shanghai, China</li>
-              <li>Ciudad de México, México</li>
+              <li>+86 17813279893</li>
+              <li>Shenzhen, China</li>
+              <li>Quito, Ecuador</li>
             </ul>
           </div>
         </div>

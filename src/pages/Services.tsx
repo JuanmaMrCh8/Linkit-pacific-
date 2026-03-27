@@ -1,8 +1,7 @@
 import React, { useRef, useState } from 'react';
 import { Navbar, Footer } from '@/components/Layout';
 import { motion, useScroll, useTransform, AnimatePresence } from 'motion/react';
-import { Search, ShieldCheck, Ship, TrendingUp, Check, ShoppingBag, ArrowRight, ChevronDown } from 'lucide-react';
-import { Logo } from '@/components/Logo';
+import { Search, ShieldCheck, Ship, TrendingUp, Check, ShoppingBag, ArrowRight } from 'lucide-react';
 
 interface Service {
   id: string;
@@ -178,14 +177,14 @@ const ServiceSection: React.FC<{ service: Service, index: number }> = ({ service
 function CurvedTrace() {
   return (
     <div className="absolute left-0 top-0 bottom-0 w-full hidden lg:block pointer-events-none z-0 overflow-hidden">
-      <svg className="w-full h-full" preserveAspectRatio="none">
+      <svg className="w-full h-full" preserveAspectRatio="none" viewBox="0 0 1200 4000">
         <path
-          d="M 50% 0 
-             C 50% 200, 20% 400, 20% 800 
-             S 80% 1200, 80% 1600 
-             S 20% 2000, 20% 2400 
-             S 80% 2800, 80% 3200 
-             S 50% 3600, 50% 4000"
+          d="M 600 0 
+             C 600 200, 240 400, 240 800 
+             S 960 1200, 960 1600 
+             S 240 2000, 240 2400 
+             S 960 2800, 960 3200 
+             S 600 3600, 600 4000"
           stroke="#E5E7EB"
           strokeWidth="2"
           fill="none"

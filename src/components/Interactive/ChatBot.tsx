@@ -3,8 +3,6 @@ import { motion, AnimatePresence } from 'motion/react';
 import { MessageSquare, X, Send, Loader2, Bot, User } from 'lucide-react';
 import { GoogleGenAI } from "@google/genai";
 
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY || '' });
-
 interface Message {
   role: 'user' | 'model';
   text: string;
@@ -18,6 +16,13 @@ export function ChatBot() {
   ]);
   const [isLoading, setIsLoading] = useState(false);
   const scrollRef = useRef<HTMLDivElement>(null);
+  const aiRef = useRef<GoogleGenAI | null>(null);
+
+  useEffect(() => {
+    if (!aiRef.current) {
+      aiRef.current = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY || '' });
+    }
+  }, []);
 
   useEffect(() => {
     if (scrollRef.current) {
@@ -26,7 +31,7 @@ export function ChatBot() {
   }, [messages]);
 
   const handleSend = async () => {
-    if (!input.trim() || isLoading) return;
+    if (!input.trim() || isLoading || !aiRef.current) return;
 
     const userMessage = input.trim();
     setInput('');
@@ -34,7 +39,7 @@ export function ChatBot() {
     setIsLoading(true);
 
     try {
-      const response = await ai.models.generateContent({
+      const response = await aiRef.current.models.generateContent({
         model: "gemini-3.1-pro-preview",
         contents: [
           {
