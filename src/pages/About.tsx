@@ -52,7 +52,7 @@ export default function About() {
                 </h2>
                 <div className="space-y-6 text-lg text-slate-600 leading-relaxed">
                   <p>
-                    Somos un equipo integral, compuesto por personas en <span className="font-semibold text-primary">China (Shanghai y Shenzhen)</span>, además de sedes en <span className="font-semibold text-primary">Quito</span> y con socios estratégicos en toda <span className="font-semibold text-primary">Latinoamérica y España</span>.
+                    Somos un equipo integral, compuesto por personas en <span className="font-semibold text-primary">China (Shenzhen)</span>, además de sedes en <span className="font-semibold text-primary">Quito</span> y con socios estratégicos en toda <span className="font-semibold text-primary">Latinoamérica y España</span>.
                   </p>
                   <p>
                     Contamos con amplia experiencia en la creación de proyectos y en el sector de compras para industrias y emprendimientos. Nuestra presencia global nos permite entender y atender las necesidades específicas de cada mercado.
@@ -110,7 +110,7 @@ export default function About() {
                     <MapPin size={28} />
                   </div>
                   <h3 className="text-xl font-bold text-slate-900 mb-3">Ubicaciones Clave</h3>
-                  <p className="text-slate-500 leading-relaxed">Shanghai, Shenzhen, Quito.</p>
+                  <p className="text-slate-500 leading-relaxed">Shenzhen, Quito.</p>
                 </div>
               </motion.div>
             </div>

@@ -13,6 +13,7 @@ export function Navbar() {
     { name: 'Inicio', path: '/' },
     { name: 'Nosotros', path: '/about' },
     { name: 'Servicios', path: '/servicios' },
+    { name: 'Inspecciones', path: '/inspecciones' },
     { name: 'Rastreo', path: '/rastreo' },
     { name: 'Blog', path: '/blog' },
     { name: 'Contacto', path: '/contacto' },
@@ -120,7 +121,7 @@ export function Footer() {
             <h3 className="text-lg font-bold mb-6 text-white">Servicios</h3>
             <ul className="space-y-3 text-sm text-gray-400">
               <li><Link to="/servicios" className="hover:text-accent transition-colors">Sourcing & Compras</Link></li>
-              <li><Link to="/servicios" className="hover:text-accent transition-colors">Inspección de Calidad</Link></li>
+              <li><Link to="/inspecciones" className="hover:text-accent transition-colors">Inspección de Calidad</Link></li>
               <li><Link to="/servicios" className="hover:text-accent transition-colors">Logística Internacional</Link></li>
               <li><Link to="/servicios" className="hover:text-accent transition-colors">Entrada a China</Link></li>
             </ul>

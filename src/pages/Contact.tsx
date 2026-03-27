@@ -1,9 +1,77 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Navbar, Footer } from '@/components/Layout';
-import { motion } from 'motion/react';
-import { Mail, Phone, MapPin, Send } from 'lucide-react';
+import { motion, AnimatePresence } from 'motion/react';
+import { Mail, Phone, MapPin, Send, CheckCircle2, ShieldCheck } from 'lucide-react';
+
+const SERVICES = [
+  'Sourcing & Compras',
+  'Inspección de Calidad',
+  'Logística Internacional',
+  'Entrada al Mercado Chino',
+  'Otros'
+];
 
 export default function Contact() {
+  const [formState, setFormState] = useState({
+    nombre: '',
+    apellido: '',
+    empresa: '',
+    email: '',
+    servicio: '',
+    mensaje: '',
+    verification: ''
+  });
+
+  const [step, setStep] = useState(1); // 1: Form, 2: Verification
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [isSuccess, setIsSuccess] = useState(false);
+  const [mathProblem, setMathProblem] = useState({ a: 0, b: 0, result: 0 });
+
+  useEffect(() => {
+    const a = Math.floor(Math.random() * 10) + 1;
+    const b = Math.floor(Math.random() * 10) + 1;
+    setMathProblem({ a, b, result: a + b });
+  }, [step]);
+
+  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
+    const { name, value } = e.target;
+    setFormState(prev => ({ ...prev, [name]: value }));
+  };
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    
+    if (step === 1) {
+      setStep(2);
+      return;
+    }
+
+    if (parseInt(formState.verification) !== mathProblem.result) {
+      alert('Verificación incorrecta. Por favor, intente de nuevo.');
+      return;
+    }
+
+    setIsSubmitting(true);
+    
+    // Simulating API call to send emails to info@linkitpacific.com
+    console.log('Enviando datos a: info@linkitpacific.com', formState);
+    
+    await new Promise(resolve => setTimeout(resolve, 1500));
+    
+    setIsSubmitting(false);
+    setIsSuccess(true);
+    setFormState({
+      nombre: '',
+      apellido: '',
+      empresa: '',
+      email: '',
+      servicio: '',
+      mensaje: '',
+      verification: ''
+    });
+    setStep(1);
+  };
+
   return (
     <div className="min-h-screen flex flex-col bg-slate-50 overflow-hidden">
       <Navbar />
@@ -74,8 +142,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-bold text-xl text-slate-900 mb-2">Correo Electrónico</h3>
-                  <p className="text-slate-600 text-lg">info@linkitpacific.com</p>
-                  <p className="text-slate-600 text-lg">ventas@linkitpacific.com</p>
+                  <p className="text-slate-600 text-lg">info@linkitpacific.com (林肯i他)</p>
                 </div>
               </div>
 
@@ -102,41 +169,177 @@ export default function Contact() {
           >
             <div className="absolute top-0 right-10 w-20 h-20 bg-primary/5 rounded-full blur-2xl -translate-y-1/2" />
             
-            <h2 className="text-3xl font-bold text-slate-900 mb-8 tracking-tight">Envíenos un mensaje</h2>
-            <form className="space-y-8">
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                <div>
-                  <label className="block text-sm font-bold text-slate-700 mb-3 uppercase tracking-wider">Nombre</label>
-                  <input type="text" className="w-full px-6 py-4 rounded-2xl bg-slate-50 border border-slate-100 focus:bg-white focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all" placeholder="Su nombre" />
-                </div>
-                <div>
-                  <label className="block text-sm font-bold text-slate-700 mb-3 uppercase tracking-wider">Apellido</label>
-                  <input type="text" className="w-full px-6 py-4 rounded-2xl bg-slate-50 border border-slate-100 focus:bg-white focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all" placeholder="Su apellido" />
-                </div>
-              </div>
+            <AnimatePresence mode="wait">
+              {isSuccess ? (
+                <motion.div
+                  key="success"
+                  initial={{ opacity: 0, scale: 0.9 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                  className="text-center py-12"
+                >
+                  <div className="w-20 h-20 bg-green-100 text-green-600 rounded-full flex items-center justify-center mx-auto mb-6">
+                    <CheckCircle2 size={40} />
+                  </div>
+                  <h2 className="text-3xl font-bold text-slate-900 mb-4">¡Mensaje Enviado!</h2>
+                  <p className="text-slate-600 mb-8">Gracias por contactarnos. Le responderemos lo antes posible.</p>
+                  <button 
+                    onClick={() => setIsSuccess(false)}
+                    className="bg-slate-900 text-white px-8 py-3 rounded-xl font-bold hover:bg-primary transition-colors"
+                  >
+                    Enviar otro mensaje
+                  </button>
+                </motion.div>
+              ) : (
+                <motion.div key="form">
+                  <h2 className="text-3xl font-bold text-slate-900 mb-8 tracking-tight">
+                    {step === 1 ? 'Envíenos un mensaje' : 'Verificación de Seguridad'}
+                  </h2>
+                  
+                  <form onSubmit={handleSubmit} className="space-y-8">
+                    {step === 1 ? (
+                      <>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                          <div>
+                            <label className="block text-sm font-bold text-slate-700 mb-3 uppercase tracking-wider">Nombre</label>
+                            <input 
+                              required
+                              name="nombre"
+                              value={formState.nombre}
+                              onChange={handleInputChange}
+                              type="text" 
+                              className="w-full px-6 py-4 rounded-2xl bg-slate-50 border border-slate-100 focus:bg-white focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all" 
+                              placeholder="Su nombre" 
+                            />
+                          </div>
+                          <div>
+                            <label className="block text-sm font-bold text-slate-700 mb-3 uppercase tracking-wider">Apellido</label>
+                            <input 
+                              required
+                              name="apellido"
+                              value={formState.apellido}
+                              onChange={handleInputChange}
+                              type="text" 
+                              className="w-full px-6 py-4 rounded-2xl bg-slate-50 border border-slate-100 focus:bg-white focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all" 
+                              placeholder="Su apellido" 
+                            />
+                          </div>
+                        </div>
 
-              <div>
-                <label className="block text-sm font-bold text-slate-700 mb-3 uppercase tracking-wider">Empresa</label>
-                <input type="text" className="w-full px-6 py-4 rounded-2xl bg-slate-50 border border-slate-100 focus:bg-white focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all" placeholder="Nombre de su empresa" />
-              </div>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                          <div>
+                            <label className="block text-sm font-bold text-slate-700 mb-3 uppercase tracking-wider">Empresa</label>
+                            <input 
+                              name="empresa"
+                              value={formState.empresa}
+                              onChange={handleInputChange}
+                              type="text" 
+                              className="w-full px-6 py-4 rounded-2xl bg-slate-50 border border-slate-100 focus:bg-white focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all" 
+                              placeholder="Nombre de su empresa" 
+                            />
+                          </div>
+                          <div>
+                            <label className="block text-sm font-bold text-slate-700 mb-3 uppercase tracking-wider">Servicio de Interés</label>
+                            <select
+                              required
+                              name="servicio"
+                              value={formState.servicio}
+                              onChange={handleInputChange}
+                              className="w-full px-6 py-4 rounded-2xl bg-slate-50 border border-slate-100 focus:bg-white focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all appearance-none"
+                            >
+                              <option value="">Seleccione un servicio</option>
+                              {SERVICES.map(s => (
+                                <option key={s} value={s}>{s}</option>
+                              ))}
+                            </select>
+                          </div>
+                        </div>
 
-              <div>
-                <label className="block text-sm font-bold text-slate-700 mb-3 uppercase tracking-wider">Correo Electrónico</label>
-                <input type="email" className="w-full px-6 py-4 rounded-2xl bg-slate-50 border border-slate-100 focus:bg-white focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all" placeholder="correo@ejemplo.com" />
-              </div>
+                        <div>
+                          <label className="block text-sm font-bold text-slate-700 mb-3 uppercase tracking-wider">Correo Electrónico</label>
+                          <input 
+                            required
+                            name="email"
+                            value={formState.email}
+                            onChange={handleInputChange}
+                            type="email" 
+                            className="w-full px-6 py-4 rounded-2xl bg-slate-50 border border-slate-100 focus:bg-white focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all" 
+                            placeholder="correo@ejemplo.com" 
+                          />
+                        </div>
 
-              <div>
-                <label className="block text-sm font-bold text-slate-700 mb-3 uppercase tracking-wider">Mensaje</label>
-                <textarea rows={4} className="w-full px-6 py-4 rounded-2xl bg-slate-50 border border-slate-100 focus:bg-white focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all resize-none" placeholder="¿En qué podemos ayudarle?"></textarea>
-              </div>
+                        <div>
+                          <label className="block text-sm font-bold text-slate-700 mb-3 uppercase tracking-wider">Mensaje</label>
+                          <textarea 
+                            required
+                            name="mensaje"
+                            value={formState.mensaje}
+                            onChange={handleInputChange}
+                            rows={4} 
+                            className="w-full px-6 py-4 rounded-2xl bg-slate-50 border border-slate-100 focus:bg-white focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all resize-none" 
+                            placeholder="¿En qué podemos ayudarle?"
+                          ></textarea>
+                        </div>
 
-              <button type="submit" className="w-full bg-slate-900 text-white font-bold py-5 rounded-2xl hover:bg-primary transition-all duration-300 flex items-center justify-center gap-3 shadow-xl hover:shadow-primary/20 group">
-                Enviar Mensaje 
-                <div className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center group-hover:rotate-45 transition-transform">
-                  <Send size={16} />
-                </div>
-              </button>
-            </form>
+                        <button type="submit" className="w-full bg-slate-900 text-white font-bold py-5 rounded-2xl hover:bg-primary transition-all duration-300 flex items-center justify-center gap-3 shadow-xl hover:shadow-primary/20 group">
+                          Siguiente Paso
+                          <div className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center group-hover:translate-x-1 transition-transform">
+                            <Send size={16} />
+                          </div>
+                        </button>
+                      </>
+                    ) : (
+                      <motion.div
+                        initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        className="space-y-6"
+                      >
+                        <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 flex items-center gap-4">
+                          <div className="w-12 h-12 bg-primary/10 text-primary rounded-xl flex items-center justify-center">
+                            <ShieldCheck size={24} />
+                          </div>
+                          <div>
+                            <p className="text-sm text-slate-500 uppercase font-bold tracking-wider">Paso 2: Verificación Anti-Spam</p>
+                            <p className="text-slate-900 font-medium">Por favor resuelva la siguiente operación:</p>
+                          </div>
+                        </div>
+
+                        <div className="flex items-center gap-6 justify-center py-4">
+                          <span className="text-4xl font-bold text-slate-900">{mathProblem.a} + {mathProblem.b} =</span>
+                          <input 
+                            required
+                            autoFocus
+                            name="verification"
+                            value={formState.verification}
+                            onChange={handleInputChange}
+                            type="number" 
+                            className="w-24 px-4 py-4 rounded-2xl bg-slate-50 border border-slate-100 text-center text-2xl font-bold focus:bg-white focus:ring-4 focus:ring-primary/10 focus:border-primary outline-none transition-all" 
+                            placeholder="?" 
+                          />
+                        </div>
+
+                        <div className="flex gap-4">
+                          <button 
+                            type="button"
+                            onClick={() => setStep(1)}
+                            className="flex-1 bg-slate-100 text-slate-600 font-bold py-5 rounded-2xl hover:bg-slate-200 transition-all"
+                          >
+                            Atrás
+                          </button>
+                          <button 
+                            disabled={isSubmitting}
+                            type="submit" 
+                            className="flex-[2] bg-slate-900 text-white font-bold py-5 rounded-2xl hover:bg-primary transition-all duration-300 flex items-center justify-center gap-3 shadow-xl hover:shadow-primary/20 disabled:opacity-50"
+                          >
+                            {isSubmitting ? 'Enviando...' : 'Enviar Mensaje'}
+                            {!isSubmitting && <Send size={16} />}
+                          </button>
+                        </div>
+                      </motion.div>
+                    )}
+                  </form>
+                </motion.div>
+              )}
+            </AnimatePresence>
           </motion.div>
 
         </div>
