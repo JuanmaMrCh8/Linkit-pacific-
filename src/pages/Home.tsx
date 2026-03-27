@@ -1,9 +1,8 @@
 import React from 'react';
 import { Navbar, Footer } from '@/components/Layout';
-import { Hero, TrustIndicators } from '@/components/HomeSections';
+import { Hero, AboutSummary } from '@/components/HomeSections';
 import { BlogPreview } from '@/components/BlogPreview';
 import { ImportProcessTimeline } from '@/components/ImportProcessTimeline';
-import { TrackingWidget } from '@/components/TrackingWidget';
 
 export default function Home() {
   return (
@@ -11,11 +10,8 @@ export default function Home() {
       <Navbar />
       <main className="flex-grow">
         <Hero />
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-24 relative z-20 mb-20">
-          <TrackingWidget />
-        </div>
         <ImportProcessTimeline />
-        <TrustIndicators />
+        <AboutSummary />
         <BlogPreview />
       </main>
       <Footer />

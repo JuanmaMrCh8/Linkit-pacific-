@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { ArrowRight, CheckCircle2, TrendingUp, ShieldCheck, Ship, Search, Globe, Box, ShoppingBag, Zap, Users, BarChart3 } from 'lucide-react';
+import { ArrowRight, CheckCircle2, TrendingUp, ShieldCheck, Ship, Search, Globe, Box, ShoppingBag, Zap, Users, BarChart3, Award } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 export function Hero() {
-  const words = ["Sourcing", "Inspections", "Logistics", "Market"];
+  const words = ["Sourcing", "Inspecciones", "Control de calidad", "Logística"];
   const [index, setIndex] = useState(0);
 
   useEffect(() => {
@@ -15,85 +15,71 @@ export function Hero() {
   }, []);
 
   return (
-    <div className="relative min-h-[90vh] flex items-center overflow-hidden bg-gray-50">
-      {/* Background Image with Overlay */}
+    <div className="relative h-screen flex items-center justify-center overflow-hidden bg-black">
+      {/* Background Image with Duotone/Degrade Effect */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1577149004698-1940d94a0a83?q=80&w=2070&auto=format&fit=crop" 
-          alt="Container Loading" 
-          className="w-full h-full object-cover opacity-60"
+          src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop" 
+          alt="Logistics Containers" 
+          className="w-full h-full object-cover opacity-50 grayscale contrast-125"
         />
-        <div className="absolute inset-0 bg-white/80 backdrop-blur-sm"></div>
-        <div className="absolute top-0 right-0 w-[800px] h-[800px] bg-gradient-to-b from-primary/10 to-accent/10 rounded-full blur-3xl opacity-40 -translate-y-1/2 translate-x-1/3" />
+        {/* Dark Gradient Overlay */}
+        <div className="absolute inset-0 bg-gradient-to-b from-black/90 via-black/40 to-black/90"></div>
+        
+        {/* Animated Glow Accents */}
+        <div className="absolute top-1/4 left-1/4 w-[500px] h-[500px] bg-primary/20 rounded-full blur-[120px] animate-pulse" />
+        <div className="absolute bottom-1/4 right-1/4 w-[500px] h-[500px] bg-accent/10 rounded-full blur-[120px] animate-pulse delay-700" />
       </div>
       
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full relative z-10 py-32">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full relative z-10">
+        <div className="max-w-4xl mx-auto text-center">
           <motion.div
-            initial={{ opacity: 0, x: -50 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.8 }}
-            className="pt-20"
+            initial={{ opacity: 0, y: 30 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 1, ease: "easeOut" }}
           >
-            <h1 className="text-6xl md:text-7xl font-bold text-gray-900 leading-[1.1] mb-6 tracking-tight">
-              <div className="flex flex-col items-start">
-                <div className="relative h-[1.2em] w-full overflow-hidden">
-                  <AnimatePresence mode="wait">
-                    <motion.span
-                      key={words[index]}
-                      initial={{ y: 50, opacity: 0 }}
-                      animate={{ y: 0, opacity: 1 }}
-                      exit={{ y: -50, opacity: 0 }}
-                      transition={{ duration: 0.5, ease: "easeOut" }}
-                      className="absolute left-0 top-0 text-transparent bg-clip-text bg-gradient-to-r from-primary via-purple-600 to-accent whitespace-nowrap"
-                    >
-                      {words[index]}
-                    </motion.span>
-                  </AnimatePresence>
-                </div>
-                <span className="text-gray-900">Solutions</span>
+            <span className="inline-block px-4 py-1.5 rounded-full bg-primary/20 border border-primary/30 text-primary text-xs font-bold uppercase tracking-[0.3em] mb-8">
+              Linking continents linking the future
+            </span>
+            
+            <h1 className="text-5xl md:text-8xl font-bold text-white leading-[1.1] mb-8 tracking-tighter">
+              Expertos en <br />
+              <div className="relative h-[1.2em] w-full overflow-hidden flex justify-center">
+                <AnimatePresence mode="wait">
+                  <motion.span
+                    key={words[index]}
+                    initial={{ y: 50, opacity: 0 }}
+                    animate={{ y: 0, opacity: 1 }}
+                    exit={{ y: -50, opacity: 0 }}
+                    transition={{ duration: 0.5, ease: "easeOut" }}
+                    className="absolute text-transparent bg-clip-text bg-gradient-to-r from-white via-slate-300 to-slate-500 whitespace-nowrap"
+                  >
+                    {words[index]}
+                  </motion.span>
+                </AnimatePresence>
               </div>
             </h1>
 
-            <div className="mt-12 mb-12">
-              <p className="text-xl text-gray-600 mb-10 max-w-lg leading-relaxed">
-                Sourcing experto, logística sin fisuras y entrada estratégica al mercado. Somos el puente entre América Latina y China.
-              </p>
-            </div>
-          </motion.div>
+            <p className="text-lg md:text-xl text-slate-400 mb-12 max-w-2xl mx-auto leading-relaxed font-medium">
+              Seguridad, agilidad y certeza en cada embarque. Conectamos sus operaciones desde los principales puertos de Asia con soluciones integrales de inspección y transporte.
+            </p>
 
-          <motion.div
-            initial={{ opacity: 0, scale: 0.8, rotate: -5 }}
-            animate={{ opacity: 1, scale: 1, rotate: 0 }}
-            transition={{ duration: 1, ease: "easeOut" }}
-            className="relative hidden lg:block"
-          >
-            {/* Abstract 3D-like Visual */}
-            <div className="relative w-full aspect-square max-w-[600px] mx-auto">
-              <div className="absolute inset-0 bg-gradient-to-br from-primary to-accent rounded-[3rem] rotate-6 opacity-10 blur-xl" />
-              <div className="absolute inset-0 bg-white rounded-[3rem] shadow-2xl overflow-hidden border border-gray-100">
-                <img 
-                  src="https://images.unsplash.com/photo-1665686376173-ada7a0031a85?q=80&w=1000&auto=format&fit=crop" 
-                  alt="Logística Futurista" 
-                  className="w-full h-full object-cover"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-primary-dark/80 via-transparent to-transparent" />
-                
-                {/* Floating Cards */}
-                <motion.div 
-                  animate={{ y: [0, -10, 0] }}
-                  transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
-                  className="absolute bottom-8 left-8 right-8 bg-white/10 backdrop-blur-md border border-white/20 p-6 rounded-2xl text-white"
-                >
-                  <div className="flex justify-between items-end">
-                    <div>
-                      <p className="text-sm text-gray-300 mb-1">Envíos Activos</p>
-                      <h3 className="text-3xl font-bold">1,248</h3>
-                    </div>
-                    <div className="h-10 w-24 bg-gradient-to-r from-accent to-transparent rounded-full opacity-50" />
-                  </div>
-                </motion.div>
-              </div>
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
+              <Link 
+                to="/servicios"
+                className="group relative px-10 py-4 bg-white text-black font-bold rounded-full overflow-hidden transition-all hover:scale-105 active:scale-95"
+              >
+                <span className="relative z-10 flex items-center gap-2">
+                  Logistics Solutions <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
+                </span>
+              </Link>
+              
+              <Link 
+                to="/servicios"
+                className="group px-10 py-4 bg-transparent border border-white/30 text-white font-bold rounded-full hover:bg-white/10 transition-all hover:scale-105 active:scale-95"
+              >
+                Sourcing Solutions
+              </Link>
             </div>
           </motion.div>
         </div>
@@ -186,22 +172,79 @@ export function ServicesOverview() {
 }
 
 
-export function TrustIndicators() {
+export function AboutSummary() {
   return (
-    <section className="py-24 bg-gray-50">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-16">
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">Con la confianza de líderes de la industria</h2>
-          <p className="text-gray-500">Impulsando cadenas de suministro para empresas en toda América Latina.</p>
-        </div>
-        
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-8 opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
-          {/* Placeholder Logos */}
-          {[1, 2, 3, 4].map((i) => (
-            <div key={i} className="h-20 bg-white rounded-xl flex items-center justify-center shadow-sm border border-gray-100">
-              <span className="font-bold text-xl text-gray-400">SOCIO {i}</span>
+    <section className="py-24 bg-white relative overflow-hidden">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+          <motion.div
+            initial={{ opacity: 0, x: -30 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
+          >
+            <span className="text-accent font-bold tracking-wider uppercase text-sm mb-4 block">Sobre Nosotros</span>
+            <h2 className="text-4xl md:text-5xl font-bold text-slate-900 mb-8 tracking-tight">
+              Un Equipo Integral <br />
+              <span className="text-primary">Global</span>
+            </h2>
+            <div className="space-y-6 text-lg text-slate-600 leading-relaxed">
+              <p>
+                Somos un equipo integral con presencia directa en <span className="font-semibold text-primary">China (Shenzhen)</span> y sedes en <span className="font-semibold text-primary">Quito</span>, conectando a Latinoamérica y España con los mercados más dinámicos de Asia.
+              </p>
+              <p>
+                Nuestra experiencia abarca desde la creación de proyectos hasta el sector de compras para industrias y emprendimientos, garantizando calidad y eficiencia en cada paso.
+              </p>
+              <div className="pt-6">
+                <Link 
+                  to="/about" 
+                  className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all"
+                >
+                  Conoce más sobre nosotros <ArrowRight size={20} />
+                </Link>
+              </div>
             </div>
-          ))}
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, scale: 0.95 }}
+            whileInView={{ opacity: 1, scale: 1 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
+            className="grid grid-cols-2 gap-6"
+          >
+            <div className="bg-slate-50 p-8 rounded-3xl border border-slate-100 hover:shadow-xl transition-all group">
+              <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center text-primary mb-4 group-hover:scale-110 transition-transform">
+                <Globe size={24} />
+              </div>
+              <h3 className="font-bold text-slate-900 mb-2">Presencia</h3>
+              <p className="text-sm text-slate-500">China, Ecuador, Latam y España.</p>
+            </div>
+            
+            <div className="bg-slate-50 p-8 rounded-3xl border border-slate-100 hover:shadow-xl transition-all group">
+              <div className="w-12 h-12 bg-accent/10 rounded-xl flex items-center justify-center text-accent mb-4 group-hover:scale-110 transition-transform">
+                <Award size={24} />
+              </div>
+              <h3 className="font-bold text-slate-900 mb-2">Calidad</h3>
+              <p className="text-sm text-slate-500">Certificaciones ISO internacionales.</p>
+            </div>
+
+            <div className="bg-slate-50 p-8 rounded-3xl border border-slate-100 hover:shadow-xl transition-all group">
+              <div className="w-12 h-12 bg-purple-100 rounded-xl flex items-center justify-center text-purple-600 mb-4 group-hover:scale-110 transition-transform">
+                <Users size={24} />
+              </div>
+              <h3 className="font-bold text-slate-900 mb-2">Expertos</h3>
+              <p className="text-sm text-slate-500">Red de inspectores en toda China.</p>
+            </div>
+
+            <div className="bg-slate-50 p-8 rounded-3xl border border-slate-100 hover:shadow-xl transition-all group">
+              <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center text-blue-600 mb-4 group-hover:scale-110 transition-transform">
+                <TrendingUp size={24} />
+              </div>
+              <h3 className="font-bold text-slate-900 mb-2">Experiencia</h3>
+              <p className="text-sm text-slate-500">Años impulsando negocios globales.</p>
+            </div>
+          </motion.div>
         </div>
       </div>
     </section>

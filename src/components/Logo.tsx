@@ -6,48 +6,53 @@ export function Logo({ className = "w-10 h-10", color = "text-white" }: { classN
 
   return (
     <svg 
-      viewBox="0 0 120 120" 
+      viewBox="0 0 100 100" 
       fill="none" 
       xmlns="http://www.w3.org/2000/svg" 
       className={`${className} ${color}`}
     >
       <defs>
-        {/* Pattern: White dots on transparent background */}
-        <pattern id={patternId} x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse">
-          <circle cx="4" cy="4" r="2.5" fill="white" />
+        {/* Halftone Pattern */}
+        <pattern id={patternId} x="0" y="0" width="5" height="5" patternUnits="userSpaceOnUse">
+          <circle cx="2.5" cy="2.5" r="1.8" fill="white" />
         </pattern>
         
-        {/* Mask: White dots inside the chevron shape, black elsewhere */}
+        {/* Mask for the top part of the 'S' */}
         <mask id={maskId}>
-          <rect x="0" y="0" width="120" height="120" fill="black" />
           <path 
-            d="M 15 25 L 60 70 L 105 25" 
-            stroke={`url(#${patternId})`} 
-            strokeWidth="32" 
-            strokeLinecap="square" 
-            strokeLinejoin="miter" 
-            fill="none"
+            d="M 85 15 L 35 65 L 55 85 L 105 35 Z" 
+            fill="white" 
           />
+          {/* Gradient to simulate halftone fade */}
+          <rect x="0" y="0" width="100" height="100" fill="url(#fadeGradient)" />
         </mask>
+
+        <linearGradient id="fadeGradient" x1="1" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="white" />
+          <stop offset="70%" stopColor="black" />
+        </linearGradient>
       </defs>
       
-      {/* Solid Chevron (Bottom) */}
+      {/* Bottom Solid Part of the 'S' */}
       <path 
-        d="M 15 95 L 60 50 L 105 95" 
-        stroke="currentColor" 
-        strokeWidth="32" 
-        strokeLinecap="square" 
-        strokeLinejoin="miter" 
-        fill="none"
+        d="M 15 85 L 65 35 L 45 15 L -5 65 Z" 
+        fill="currentColor" 
       />
 
-      {/* Dotted Chevron (Top) - Rect filled with currentColor, masked by dots */}
+      {/* Top Dotted Part of the 'S' */}
+      <path 
+        d="M 85 15 L 35 65 L 55 85 L 105 35 Z" 
+        fill="currentColor" 
+        mask={`url(#${maskId})`}
+      />
+      
+      {/* Dots overlay */}
       <rect 
         x="0" 
         y="0" 
-        width="120" 
-        height="120" 
-        fill="currentColor" 
+        width="100" 
+        height="100" 
+        fill={`url(#${patternId})`} 
         mask={`url(#${maskId})`} 
       />
     </svg>

@@ -143,6 +143,7 @@ export default function Contact() {
                 <div>
                   <h3 className="font-bold text-xl text-slate-900 mb-2">Correo Electrónico</h3>
                   <p className="text-slate-600 text-lg">info@linkitpacific.com (林肯i他)</p>
+                  <p className="text-slate-600 text-lg">admin@linkitpacific.com</p>
                 </div>
               </div>
 

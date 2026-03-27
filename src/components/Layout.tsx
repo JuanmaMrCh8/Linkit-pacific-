@@ -7,25 +7,42 @@ import { LogoText } from '@/components/Logo';
 
 export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
+  const [isScrolled, setIsScrolled] = React.useState(false);
   const location = useLocation();
+
+  React.useEffect(() => {
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 50);
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  const isHome = location.pathname === '/';
 
   const links = [
     { name: 'Inicio', path: '/' },
     { name: 'Nosotros', path: '/about' },
     { name: 'Servicios', path: '/servicios' },
     { name: 'Inspecciones', path: '/inspecciones' },
-    { name: 'Rastreo', path: '/rastreo' },
     { name: 'Blog', path: '/blog' },
     { name: 'Contacto', path: '/contacto' },
   ];
 
+  const whatsappUrl = "https://wa.me/8617813279893?text=Hola%2C%20me%20gustar%C3%ADa%20recibir%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20servicios%20de%20importaci%C3%B3n%20desde%20China.";
+
   return (
-    <nav className="bg-white/80 backdrop-blur-md sticky top-0 z-50 border-b border-gray-100">
+    <nav className={cn(
+      "fixed top-0 left-0 right-0 z-50 transition-all duration-300 border-b",
+      isScrolled || !isHome 
+        ? "bg-white/90 backdrop-blur-md border-gray-100 py-4 shadow-sm" 
+        : "bg-transparent border-transparent py-6"
+    )}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between h-20">
+        <div className="flex justify-between items-center h-12">
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center gap-2">
-              <LogoText />
+              <LogoText light={isHome && !isScrolled} />
             </Link>
           </div>
           
@@ -35,22 +52,37 @@ export function Navbar() {
                 key={link.path}
                 to={link.path}
                 className={cn(
-                  "text-sm font-medium transition-colors hover:text-primary",
-                  location.pathname === link.path ? "text-primary font-bold" : "text-gray-600"
+                  "text-sm font-bold transition-all hover:text-primary tracking-tight",
+                  isHome && !isScrolled 
+                    ? (location.pathname === link.path ? "text-white" : "text-white/70")
+                    : (location.pathname === link.path ? "text-primary" : "text-gray-600")
                 )}
               >
                 {link.name}
               </Link>
             ))}
-            <button className="bg-gradient-to-r from-primary to-primary-light text-white px-6 py-2 rounded-full text-sm font-bold hover:shadow-lg hover:shadow-primary/30 transition-all transform hover:-translate-y-0.5">
+            <a 
+              href={whatsappUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={cn(
+                "px-6 py-2 rounded-full text-sm font-bold transition-all transform hover:-translate-y-0.5",
+                isHome && !isScrolled
+                  ? "bg-white text-black hover:shadow-lg hover:shadow-white/20"
+                  : "bg-primary text-white hover:shadow-lg hover:shadow-primary/30"
+              )}
+            >
               Cotizar Ahora
-            </button>
+            </a>
           </div>
 
           <div className="flex items-center md:hidden">
             <button
               onClick={() => setIsOpen(!isOpen)}
-              className="text-gray-600 hover:text-primary p-2"
+              className={cn(
+                "p-2 transition-colors",
+                isHome && !isScrolled ? "text-white" : "text-gray-600"
+              )}
             >
               {isOpen ? <X size={24} /> : <Menu size={24} />}
             </button>
@@ -81,9 +113,14 @@ export function Navbar() {
                 </Link>
               ))}
               <div className="pt-4">
-                <button className="w-full bg-primary text-white px-6 py-3 rounded-lg text-base font-medium hover:bg-primary-dark transition-colors">
+                <a 
+                  href={whatsappUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block w-full bg-primary text-white px-6 py-3 rounded-lg text-base font-medium hover:bg-primary-dark transition-colors text-center"
+                >
                   Cotizar Ahora
-                </button>
+                </a>
               </div>
             </div>
           </motion.div>
@@ -133,7 +170,6 @@ export function Footer() {
               <li><Link to="/about" className="hover:text-accent transition-colors">Sobre Nosotros</Link></li>
               <li><Link to="/blog" className="hover:text-accent transition-colors">Blog</Link></li>
               <li><Link to="/contacto" className="hover:text-accent transition-colors">Contacto</Link></li>
-              <li><Link to="/rastreo" className="hover:text-accent transition-colors">Rastreo de Envíos</Link></li>
             </ul>
           </div>
 
@@ -141,6 +177,7 @@ export function Footer() {
             <h3 className="text-lg font-bold mb-6 text-white">Contacto</h3>
             <ul className="space-y-3 text-sm text-gray-400">
               <li>info@linkitpacific.com</li>
+              <li>admin@linkitpacific.com</li>
               <li>+86 17813279893</li>
               <li>Shenzhen, China</li>
               <li>Quito, Ecuador</li>
