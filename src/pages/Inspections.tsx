@@ -98,33 +98,41 @@ export default function Inspections() {
       </section>
 
       {/* Why Inspections? */}
-      <section className="py-24 bg-slate-50">
+      <section className="py-12 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-3xl md:text-5xl font-bold text-slate-900 mb-8 tracking-tight">
-              ¿Por qué son vitales las inspecciones?
-            </h2>
-            <p className="text-xl text-slate-600 leading-relaxed mb-12">
-              Importar desde China y Asia ofrece grandes oportunidades, pero también riesgos significativos. Nuestras inspecciones actúan como sus ojos en la fábrica, garantizando que lo que usted paga sea exactamente lo que recibe.
-            </p>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="max-w-4xl mx-auto text-center">
+            <motion.div
+              initial={{ opacity: 0, y: 10 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.5 }}
+            >
+              <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4 tracking-tight">
+                ¿Por qué son vitales las inspecciones?
+              </h2>
+              <p className="text-base text-slate-600 leading-relaxed mb-10 max-w-2xl mx-auto">
+                Garantizamos que lo que usted paga sea exactamente lo que recibe, actuando como sus ojos en la fábrica para mitigar riesgos y asegurar la calidad.
+              </p>
+            </motion.div>
+            
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               {[
-                { icon: <AlertCircle className="text-red-500" />, text: 'Reducción de riesgos de productos defectuosos' },
-                { icon: <ClipboardCheck className="text-green-500" />, text: 'Cumplimiento estricto de especificaciones' },
-                { icon: <BarChart3 className="text-blue-500" />, text: 'Mejora continua de la cadena de suministro' }
+                { icon: <AlertCircle className="w-7 h-7 text-red-500" />, text: 'Reducción de riesgos de productos defectuosos' },
+                { icon: <ClipboardCheck className="w-7 h-7 text-green-500" />, text: 'Cumplimiento estricto de especificaciones' },
+                { icon: <BarChart3 className="w-7 h-7 text-blue-500" />, text: 'Mejora continua de la cadena de suministro' }
               ].map((item, i) => (
                 <motion.div 
                   key={i}
-                  initial={{ opacity: 0, scale: 0.9 }}
-                  whileInView={{ opacity: 1, scale: 1 }}
+                  initial={{ opacity: 0 }}
+                  whileInView={{ opacity: 1 }}
                   viewport={{ once: true }}
-                  transition={{ delay: i * 0.1 }}
-                  className="flex flex-col items-center gap-4 bg-white p-8 rounded-3xl shadow-xl shadow-slate-200/50 border border-slate-100"
+                  transition={{ delay: i * 0.15, duration: 0.6 }}
+                  className="flex flex-col items-center gap-3"
                 >
-                  <div className="w-12 h-12 bg-slate-50 rounded-xl flex items-center justify-center">
+                  <div className="w-14 h-14 bg-slate-50 rounded-xl flex items-center justify-center">
                     {item.icon}
                   </div>
-                  <span className="font-bold text-slate-800 text-center">{item.text}</span>
+                  <span className="font-semibold text-slate-800 text-center text-sm max-w-[180px]">{item.text}</span>
                 </motion.div>
               ))}
             </div>
