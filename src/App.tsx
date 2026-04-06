@@ -18,10 +18,12 @@ import ChinaEntry from './pages/services/ChinaEntry';
 import Shopping from './pages/services/Shopping';
 import Customs from './pages/services/Customs';
 import { GlobalInteractive } from './components/Interactive/GlobalInteractive';
+import ScrollToTop from './components/ScrollToTop';
 
 export default function App() {
   return (
     <BrowserRouter>
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
