@@ -1,7 +1,8 @@
-import React from 'react';
+import React, { useRef } from 'react';
 import { Navbar, Footer } from '@/components/Layout';
-import { motion } from 'motion/react';
-import { Calendar, User, ArrowRight } from 'lucide-react';
+import { motion, useScroll, useTransform } from 'motion/react';
+import { Calendar, User, ArrowRight, Tag } from 'lucide-react';
+import { cn } from '@/lib/utils';
 
 const posts = [
   {
@@ -61,41 +62,70 @@ const posts = [
 ];
 
 export default function Blog() {
+  const containerRef = useRef(null);
+  const { scrollY } = useScroll();
+  
+  // Horizontal parallax vectors
+  const xPos = useTransform(scrollY, [0, 1000], [0, 150]);
+  const xPosReverse = useTransform(scrollY, [0, 1000], [0, -150]);
+
   return (
-    <div className="min-h-screen flex flex-col bg-slate-50 overflow-hidden">
+    <div ref={containerRef} className="min-h-screen flex flex-col bg-white overflow-hidden">
       <Navbar />
       
-      {/* Integrated Header */}
-      <div className="relative pt-32 pb-10 overflow-hidden">
-        <div className="absolute inset-0 z-0">
-           <div className="absolute inset-0 bg-gradient-to-b from-slate-100 to-slate-50" />
-           <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-primary/5 rounded-full blur-[100px] -translate-y-1/2 translate-x-1/2" />
-           <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-accent/5 rounded-full blur-[100px] translate-y-1/2 -translate-x-1/2" />
+      {/* Header Section */}
+      <div className="relative pt-48 pb-32 overflow-hidden bg-[#0F0F11]">
+        <div className="absolute inset-0 z-0 opacity-30">
+          <img 
+            src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop" 
+            alt="Logistics background" 
+            className="w-full h-full object-cover grayscale"
+          />
+          <div className="absolute inset-0 bg-gradient-to-br from-[#0F0F11] via-transparent to-[#0F0F11]/80" />
         </div>
 
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
+        {/* Horizontal Parallax Vectors */}
+        <motion.div 
+          style={{ x: xPos }}
+          className="absolute top-1/4 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-primary/40 to-transparent z-10 pointer-events-none"
+        />
+        <motion.div 
+          style={{ x: xPosReverse }}
+          className="absolute bottom-1/4 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-accent/30 to-transparent z-10 pointer-events-none"
+        />
+
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8 }}
+            initial={{ opacity: 0, x: -50 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ duration: 1 }}
+            className="max-w-4xl"
           >
-            <span className="text-accent font-bold tracking-wider uppercase text-sm mb-4 block">Blog & Noticias</span>
-            <h1 className="text-6xl md:text-7xl font-bold text-slate-900 mb-8 tracking-tight">
+            <div className="flex items-center gap-4 mb-8">
+              <div className="w-12 h-[2px] bg-primary" />
+              <span className="text-[10px] font-black uppercase tracking-[0.5em] text-primary">Blog & Noticias</span>
+            </div>
+            <h1 className="text-6xl md:text-[8rem] font-black text-white leading-[0.85] mb-12 tracking-tighter uppercase italic">
               Insights <br />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary via-purple-600 to-accent">
-                Estratégicos
-              </span>
+              <span className="text-primary">Estratégicos</span>
             </h1>
-            <p className="text-xl text-gray-500 max-w-2xl mx-auto leading-relaxed">
+            <p className="text-xl text-slate-400 max-w-2xl leading-relaxed font-medium border-l-2 border-primary/30 pl-8">
               Descubra las últimas tendencias, guías y noticias sobre el comercio entre Asia y Latinoamérica.
             </p>
           </motion.div>
         </div>
+        
+        {/* Halftone accent */}
+        <div className="absolute bottom-10 right-10 w-48 h-48 bg-halftone opacity-10 rotate-12 pointer-events-none" />
       </div>
 
-      <main className="flex-grow py-24 px-4 relative">
-        <div className="max-w-7xl mx-auto">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+      <main className="flex-grow py-32 px-4 relative overflow-hidden">
+        {/* Decorative Background Elements */}
+        <div className="absolute top-0 right-0 w-1/2 h-full bg-slate-50 clip-angled-left z-0" />
+        <div className="absolute top-40 left-10 w-32 h-32 bg-halftone opacity-10 z-0" />
+
+        <div className="max-w-7xl mx-auto relative z-10">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {posts.map((post, index) => (
               <motion.article
                 key={post.id}
@@ -103,37 +133,54 @@ export default function Blog() {
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
                 transition={{ duration: 0.6, delay: index * 0.1 }}
-                className="bg-white rounded-[2rem] overflow-hidden shadow-xl shadow-slate-200/50 border border-slate-100 hover:shadow-2xl transition-all duration-500 group flex flex-col h-full"
+                whileHover={{ y: -10 }}
+                className="group cursor-pointer flex flex-col h-full bg-white border border-slate-100 hover:border-primary transition-all rounded-[2.5rem] overflow-hidden shadow-xl shadow-slate-200/20"
               >
-                <div className="h-64 overflow-hidden relative">
+                <div className="relative h-64 overflow-hidden">
                   <img 
                     src={post.image} 
                     alt={post.title} 
-                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
+                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 grayscale group-hover:grayscale-0"
                   />
-                  <div className="absolute top-6 left-6 bg-white/90 backdrop-blur-md px-4 py-1.5 rounded-full text-xs font-bold text-primary uppercase tracking-widest shadow-lg">
-                    {post.category}
+                  <div className="absolute inset-0 bg-gradient-to-t from-slate-900/80 via-transparent to-transparent opacity-60" />
+                  
+                  {/* Category Badge */}
+                  <div className="absolute top-6 left-6">
+                    <span className="px-4 py-2 bg-white/90 backdrop-blur-md text-slate-900 text-[10px] font-black uppercase tracking-widest inline-block border border-slate-100 rounded-full">
+                      {post.category}
+                    </span>
                   </div>
-                  <div className="absolute inset-0 bg-gradient-to-t from-slate-900/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                  
+                  {/* Date Badge */}
+                  <div className="absolute bottom-6 left-6">
+                    <span className="px-4 py-2 bg-primary text-white text-[10px] font-black uppercase tracking-widest inline-block rounded-full">
+                      {post.date}
+                    </span>
+                  </div>
                 </div>
-                <div className="p-8 flex flex-col flex-grow">
-                  <div className="flex items-center gap-6 text-xs text-slate-400 font-bold uppercase tracking-wider mb-4">
-                    <span className="flex items-center gap-2"><Calendar size={14} className="text-primary" /> {post.date}</span>
-                    <span className="flex items-center gap-2"><User size={14} className="text-accent" /> {post.author}</span>
+                
+                <div className="p-10 space-y-6 flex flex-col flex-grow relative">
+                  {/* Halftone accent on hover */}
+                  <div className="absolute top-0 right-0 w-16 h-16 bg-halftone opacity-0 group-hover:opacity-5 transition-opacity" />
+                  
+                  <div className="flex items-center gap-3 text-[10px] font-black text-primary uppercase tracking-widest italic">
+                    <User size={12} /> {post.author}
                   </div>
-                  <h3 className="text-2xl font-bold text-slate-900 mb-4 group-hover:text-primary transition-colors leading-tight tracking-tight">
+                  
+                  <h3 className="text-2xl font-black text-slate-900 uppercase tracking-tight italic group-hover:text-primary transition-colors leading-tight">
                     {post.title}
                   </h3>
-                  <p className="text-slate-500 leading-relaxed mb-8 line-clamp-3">
+                  
+                  <p className="text-slate-500 text-sm leading-relaxed font-medium line-clamp-3 flex-grow">
                     {post.excerpt}
                   </p>
-                  <div className="mt-auto pt-6 border-t border-slate-50">
-                    <span className="text-primary font-bold text-sm flex items-center gap-2 group/link">
-                      Leer artículo completo 
-                      <div className="w-8 h-8 rounded-full bg-primary/10 flex items-center justify-center group-hover/link:translate-x-2 transition-transform">
-                        <ArrowRight size={14} />
-                      </div>
-                    </span>
+                  
+                  <div className="pt-6 flex items-center justify-between">
+                    <div className="flex items-center gap-2 text-slate-900 font-black uppercase tracking-widest text-[10px] group-hover:text-primary transition-colors">
+                      Leer más <ArrowRight size={14} className="group-hover:translate-x-2 transition-transform" />
+                    </div>
+                    {/* Decorative Rhombus */}
+                    <div className="w-4 h-4 border border-slate-100 rotate-45 group-hover:bg-primary/10 group-hover:border-primary/20 transition-all" />
                   </div>
                 </div>
               </motion.article>

@@ -47,88 +47,83 @@ const steps = [
 
 export function ImportProcessTimeline() {
   return (
-    <section className="py-24 bg-white overflow-hidden relative">
-      <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-primary/5 via-white to-white opacity-50 pointer-events-none" />
+    <section className="py-32 bg-[#0F0F11] overflow-hidden relative">
+      {/* Background decoration - Diagonal lines */}
+      <div className="absolute inset-0 z-0 opacity-20">
+        <div className="absolute top-0 left-0 w-full h-full bg-halftone" />
+        <div className="absolute top-1/4 -left-20 w-[120%] h-[1px] bg-primary rotate-12" />
+        <div className="absolute top-3/4 -left-20 w-[120%] h-[1px] bg-accent -rotate-6" />
+      </div>
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-        <div className="text-center mb-20">
-          <motion.span 
-            initial={{ opacity: 0, y: 10 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            className="text-accent font-bold tracking-wider uppercase text-sm mb-2 block"
-          >
-            Proceso Simplificado
-          </motion.span>
+        <div className="text-center mb-24">
+          <div className="flex items-center justify-center gap-4 mb-6">
+            <div className="w-12 h-[2px] bg-accent" />
+            <span className="text-accent font-black tracking-[0.3em] uppercase text-xs">Proceso Simplificado</span>
+            <div className="w-12 h-[2px] bg-accent" />
+          </div>
           <motion.h2 
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.1 }}
-            className="text-5xl font-bold text-gray-900 mb-6"
+            className="text-6xl md:text-8xl font-black text-white mb-8 tracking-tighter uppercase italic"
           >
-            Soluciones Integrales
+            Soluciones <span className="text-primary">Integrales</span>
           </motion.h2>
           <motion.p 
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2 }}
-            className="text-gray-600 max-w-2xl mx-auto text-lg"
+            className="text-slate-400 max-w-2xl mx-auto text-lg font-medium border-l-2 border-primary/30 pl-6 text-left"
           >
             Gestionamos cada etapa de su cadena de suministro, desde la fábrica en China hasta su puerta en Latinoamérica.
           </motion.p>
         </div>
 
         <div className="relative">
-          {/* Curved Line Background - Desktop */}
-          <div className="hidden lg:block absolute top-1/2 left-0 w-full -translate-y-1/2 h-32 pointer-events-none">
-            <svg className="w-full h-full" viewBox="0 0 1200 100" preserveAspectRatio="none">
-              <path 
-                d="M0,50 C200,50 300,20 400,20 C500,20 600,80 700,80 C800,80 900,50 1200,50" 
-                fill="none" 
-                stroke="#E5E7EB" 
-                strokeWidth="4" 
-                strokeDasharray="10 10"
-              />
-            </svg>
-          </div>
+          {/* Diagonal Connector Line - Desktop */}
+          <div className="hidden lg:block absolute top-1/2 left-0 w-full h-[2px] bg-gradient-to-r from-transparent via-white/10 to-transparent -rotate-3 pointer-events-none" />
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 relative">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4 relative">
             {steps.map((step, index) => (
               <motion.div
                 key={step.id}
                 initial={{ opacity: 0, y: 50 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
-                transition={{ delay: index * 0.15 }}
-                className={`relative flex flex-col items-center text-center group ${index % 2 === 0 ? 'lg:mt-0' : 'lg:mt-16'}`}
+                transition={{ delay: index * 0.1 }}
+                className={`relative flex flex-col group ${index % 2 === 0 ? 'lg:mt-0' : 'lg:mt-12'}`}
               >
-                {/* Connector Line Mobile */}
-                {index !== steps.length - 1 && (
-                  <div className="lg:hidden absolute bottom-0 left-1/2 w-0.5 h-8 bg-gray-200 -mb-8 transform -translate-x-1/2" />
-                )}
-
-                <div className="relative mb-6">
-                  <div className={`w-16 h-16 rounded-2xl ${step.color} shadow-lg shadow-purple-500/20 flex items-center justify-center transform group-hover:scale-110 transition-transform duration-300 z-10 relative`}>
-                    {step.icon}
-                  </div>
-                  {/* Glow effect */}
-                  <div className={`absolute inset-0 ${step.color} blur-xl opacity-40 group-hover:opacity-60 transition-opacity duration-300`} />
-                </div>
-
-                <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 hover:shadow-xl transition-all duration-300 w-full relative z-10">
-                  <div className="absolute -top-3 left-1/2 transform -translate-x-1/2 bg-gray-900 text-white text-xs font-bold px-3 py-1 rounded-full">
+                <motion.div 
+                  whileHover={{ scale: 1.02, y: -5 }}
+                  className="glass-panel p-8 relative overflow-hidden transition-all hover:border-primary duration-300 rounded-2xl h-full flex flex-col"
+                >
+                  {/* Step Number - Angular */}
+                  <div className="absolute top-0 right-0 w-12 h-12 bg-primary/10 flex items-center justify-center text-primary font-black italic text-xl clip-angled-right">
                     0{step.id}
                   </div>
-                  <h3 className="text-xl font-bold text-gray-900 mb-2">{step.title}</h3>
-                  <p className="text-sm text-gray-500 leading-relaxed mb-4">
+                  
+                  {/* Halftone accent */}
+                  <div className="absolute bottom-0 right-0 w-16 h-16 bg-halftone opacity-0 group-hover:opacity-10 transition-opacity" />
+
+                  <div className="relative mb-8">
+                    <div className={`w-14 h-14 ${step.color} flex items-center justify-center transform group-hover:rotate-12 transition-transform duration-500 z-10 relative rounded-xl`}>
+                      {step.icon}
+                    </div>
+                  </div>
+
+                  <h3 className="text-xl font-black text-white mb-4 uppercase tracking-tight italic">{step.title}</h3>
+                  <p className="text-sm text-slate-400 leading-relaxed mb-8 font-medium flex-grow">
                     {step.description}
                   </p>
+                  
                   <Link 
                     to={step.link} 
-                    className="text-primary text-sm font-bold flex items-center justify-center gap-1 hover:gap-2 transition-all"
+                    className="group inline-flex items-center gap-3 text-primary text-[10px] font-black uppercase tracking-widest hover:gap-5 transition-all mt-auto"
                   >
                     Leer más <ArrowRight size={14} />
                   </Link>
-                </div>
+                </motion.div>
               </motion.div>
             ))}
           </div>
