@@ -70,7 +70,6 @@ export function Navbar() {
         },
       ]
     },
-    { name: 'Blog', path: '/blog' },
     { name: 'Contacto', path: '/contacto' },
   ];
 
@@ -290,7 +289,6 @@ export function Footer() {
             </h3>
             <ul className="space-y-4 text-sm text-gray-400">
               <li><Link to="/about" className="hover:text-accent transition-colors flex items-center gap-2 group"><span className="w-0 h-[1px] bg-accent group-hover:w-3 transition-all" /> Sobre Nosotros</Link></li>
-              <li><Link to="/blog" className="hover:text-accent transition-colors flex items-center gap-2 group"><span className="w-0 h-[1px] bg-accent group-hover:w-3 transition-all" /> Blog</Link></li>
               <li><Link to="/contacto" className="hover:text-accent transition-colors flex items-center gap-2 group"><span className="w-0 h-[1px] bg-accent group-hover:w-3 transition-all" /> Contacto</Link></li>
             </ul>
           </div>

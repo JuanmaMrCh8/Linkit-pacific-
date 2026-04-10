@@ -1,8 +1,8 @@
 import React from 'react';
 import { Navbar, Footer } from '@/components/Layout';
 import { Hero, AboutSummary } from '@/components/HomeSections';
-import { BlogPreview } from '@/components/BlogPreview';
 import { ImportProcessTimeline } from '@/components/ImportProcessTimeline';
+import { FAQ } from '@/components/FAQ';
 
 export default function Home() {
   return (
@@ -12,7 +12,7 @@ export default function Home() {
         <Hero />
         <ImportProcessTimeline />
         <AboutSummary />
-        <BlogPreview />
+        <FAQ />
       </main>
       <Footer />
     </div>

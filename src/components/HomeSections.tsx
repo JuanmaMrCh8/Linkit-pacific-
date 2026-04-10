@@ -7,6 +7,15 @@ export function Hero() {
   const words = ["Sourcing", "Inspecciones", "Control de calidad", "Logística"];
   const [index, setIndex] = useState(0);
   const containerRef = useRef(null);
+  const { scrollYProgress } = useScroll({
+    target: containerRef,
+    offset: ["start start", "end start"]
+  });
+  
+  // Parallax for background image
+  const yBg = useTransform(scrollYProgress, [0, 1], ["0%", "20%"]);
+  const scaleBg = useTransform(scrollYProgress, [0, 1], [1, 1.1]);
+
   const { scrollY } = useScroll();
   
   // Horizontal parallax vector
@@ -24,9 +33,7 @@ export function Hero() {
     <div ref={containerRef} className="relative h-screen flex items-center justify-center overflow-hidden bg-[#0F0F11]">
       {/* Background Image with Parallax and Angular Mask */}
       <motion.div 
-        initial={{ scale: 1.1 }}
-        animate={{ scale: 1 }}
-        transition={{ duration: 10, repeat: Infinity, repeatType: "reverse" }}
+        style={{ y: yBg, scale: scaleBg }}
         className="absolute inset-0 z-0"
       >
         <img 

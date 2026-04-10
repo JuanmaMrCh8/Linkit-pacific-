@@ -8,7 +8,6 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
-import Blog from './pages/Blog';
 import Inspections from './pages/Inspections';
 import Sourcing from './pages/services/Sourcing';
 import Logistics from './pages/services/Logistics';
@@ -34,7 +33,6 @@ export default function App() {
         <Route path="/servicios/entrada-china" element={<ChinaEntry />} />
         <Route path="/servicios/visita-fabricas" element={<FactoryVisits />} />
         <Route path="/servicios/ferias" element={<FairAccompaniment />} />
-        <Route path="/blog" element={<Blog />} />
         <Route path="/contacto" element={<Contact />} />
         <Route path="/inspecciones" element={<Inspections />} />
       </Routes>
