@@ -25,6 +25,7 @@ export default function Contact() {
     apellido: '',
     empresa: '',
     email: '',
+    telefono: '',
     servicio: '',
     mensaje: '',
     verification: ''
@@ -61,23 +62,47 @@ export default function Contact() {
 
     setIsSubmitting(true);
     
-    // Simulating API call to send emails to info@linkitpacific.com
-    console.log('Enviando datos a: info@linkitpacific.com', formState);
-    
-    await new Promise(resolve => setTimeout(resolve, 1500));
-    
-    setIsSubmitting(false);
-    setIsSuccess(true);
-    setFormState({
-      nombre: '',
-      apellido: '',
-      empresa: '',
-      email: '',
-      servicio: '',
-      mensaje: '',
-      verification: ''
-    });
-    setStep(1);
+    try {
+      const subject = `[${formState.servicio}] Request + [${formState.empresa || formState.nombre}]`;
+      
+      const response = await fetch('https://formspree.io/f/xjgpqjnl', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        },
+        body: JSON.stringify({
+          ...formState,
+          _subject: subject
+        })
+      });
+
+      if (response.ok) {
+        setIsSuccess(true);
+        setFormState({
+          nombre: '',
+          apellido: '',
+          empresa: '',
+          email: '',
+          telefono: '',
+          servicio: '',
+          mensaje: '',
+          verification: ''
+        });
+        setStep(1);
+      } else {
+        const data = await response.json();
+        if (Object.hasOwn(data, 'errors')) {
+          alert(data['errors'].map((error: any) => error['message']).join(', '));
+        } else {
+          alert('Hubo un error al enviar el mensaje. Por favor, intente de nuevo.');
+        }
+      }
+    } catch (error) {
+      alert('Error de conexión. Por favor, verifique su internet e intente de nuevo.');
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   return (
@@ -301,17 +326,31 @@ export default function Contact() {
                           </div>
                         </div>
 
-                        <div>
-                          <label className="block text-[10px] font-black text-slate-900 uppercase tracking-[0.2em] mb-3 italic">Email</label>
-                          <input 
-                            required
-                            name="email"
-                            value={formState.email}
-                            onChange={handleInputChange}
-                            type="email" 
-                            className="w-full px-8 py-5 rounded-2xl bg-white/50 border border-slate-200 focus:bg-white focus:ring-4 focus:ring-primary/5 focus:border-primary outline-none transition-all font-medium" 
-                            placeholder="correo@ejemplo.com" 
-                          />
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                          <div>
+                            <label className="block text-[10px] font-black text-slate-900 uppercase tracking-[0.2em] mb-3 italic">Email</label>
+                            <input 
+                              required
+                              name="email"
+                              value={formState.email}
+                              onChange={handleInputChange}
+                              type="email" 
+                              className="w-full px-8 py-5 rounded-2xl bg-white/50 border border-slate-200 focus:bg-white focus:ring-4 focus:ring-primary/5 focus:border-primary outline-none transition-all font-medium" 
+                              placeholder="correo@ejemplo.com" 
+                            />
+                          </div>
+                          <div>
+                            <label className="block text-[10px] font-black text-slate-900 uppercase tracking-[0.2em] mb-3 italic">Teléfono</label>
+                            <input 
+                              required
+                              name="telefono"
+                              value={formState.telefono}
+                              onChange={handleInputChange}
+                              type="tel" 
+                              className="w-full px-8 py-5 rounded-2xl bg-white/50 border border-slate-200 focus:bg-white focus:ring-4 focus:ring-primary/5 focus:border-primary outline-none transition-all font-medium" 
+                              placeholder="+593 ..." 
+                            />
+                          </div>
                         </div>
 
                         <div>
