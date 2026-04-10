@@ -16,8 +16,8 @@ const faqs = [
     answer: "Absolutamente. Ofrecemos servicios de consolidación de carga (LCL) y asesoría en sourcing para pequeñas cantidades, permitiendo que emprendedores accedan a precios de fábrica sin necesidad de importar contenedores completos."
   },
   {
-    question: "¿Qué sucede si el producto llega dañado?",
-    answer: "Contamos con seguros de transporte internacional y realizamos inspecciones pre-embarque (PSI) para minimizar este riesgo. En caso de incidencias, gestionamos las reclamaciones directamente con los proveedores y aseguradoras."
+    question: "¿Cómo puedo viajar a China para visitar proveedores?",
+    answer: "Ofrecemos servicios de acompañamiento integral que incluyen gestión de visados, reserva de hoteles, servicios de traducción y logística de transporte interno. Además, organizamos visitas personalizadas a fábricas y ferias comerciales como la Feria de Cantón."
   },
   {
     question: "¿Cómo se manejan los pagos a los proveedores?",
