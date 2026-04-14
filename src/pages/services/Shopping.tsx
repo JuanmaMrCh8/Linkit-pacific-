@@ -1,7 +1,7 @@
 import React, { useRef } from 'react';
 import { Navbar, Footer } from '@/components/Layout';
 import { motion, useScroll, useTransform } from 'motion/react';
-import { ShoppingBag, Search, Ship, CheckCircle2, ArrowRight, Heart, Star, Zap } from 'lucide-react';
+import { ShoppingBag, Search, Ship, CheckCircle2, ArrowRight, Heart, Star, Zap, TrendingUp, Camera, Globe } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { cn } from '@/lib/utils';
 
@@ -156,6 +156,140 @@ export default function Shopping() {
                 <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity" />
               </div>
               <div className="absolute -bottom-10 -left-10 w-32 h-32 bg-halftone text-primary/20" />
+            </motion.div>
+          </div>
+        </div>
+      </section>
+
+      {/* E-commerce & Trends Section */}
+      <section className="py-32 bg-slate-50 relative overflow-hidden">
+        <div className="absolute top-0 right-0 w-1/2 h-full bg-white clip-angled-left z-0" />
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-24 items-center">
+            <motion.div
+              initial={{ opacity: 0, scale: 0.95 }}
+              whileInView={{ opacity: 1, scale: 1 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.8 }}
+              className="relative order-2 lg:order-1"
+            >
+              <div className="absolute -inset-10 bg-accent/5 skew-x-12 blur-3xl" />
+              <div className="relative rounded-[3rem] overflow-hidden shadow-2xl group">
+                <img 
+                  src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2070&auto=format&fit=crop" 
+                  alt="E-commerce trends" 
+                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                />
+                <div className="absolute inset-0 bg-accent/10 opacity-0 group-hover:opacity-100 transition-opacity" />
+              </div>
+              <div className="absolute -top-10 -right-10 w-32 h-32 bg-halftone text-accent/20" />
+            </motion.div>
+
+            <motion.div
+              initial={{ opacity: 0, x: 30 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.8 }}
+              className="order-1 lg:order-2"
+            >
+              <div className="flex items-center gap-4 mb-6">
+                <div className="w-12 h-[2px] bg-accent" />
+                <span className="text-accent font-black tracking-[0.3em] uppercase text-xs">E-commerce Pro</span>
+              </div>
+              <h2 className="text-5xl md:text-7xl font-black text-slate-900 uppercase tracking-tighter italic leading-none mb-12">
+                Búsqueda de <br />
+                <span className="text-accent">Tendencias</span>
+              </h2>
+              <div className="space-y-8 text-lg text-slate-500 leading-relaxed font-medium relative">
+                <div className="absolute -left-8 top-0 w-[1px] h-full bg-slate-200" />
+                <p className="pl-8">
+                  No solo compramos, analizamos. Identificamos los productos con mayor potencial de venta en plataformas globales para que su tienda esté siempre un paso adelante de la competencia.
+                </p>
+                <div className="pl-8 space-y-6">
+                  {[
+                    "Análisis de nichos rentables", 
+                    "Identificación de productos virales", 
+                    "Reportes de mercado en tiempo real", 
+                    "Estrategia de catálogo dinámico"
+                  ].map((item, i) => (
+                    <div key={i} className="flex items-center gap-4 group">
+                      <div className="w-8 h-[2px] bg-primary group-hover:w-12 transition-all duration-300" />
+                      <span className="text-slate-900 font-black uppercase tracking-widest text-xs italic">{item}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </motion.div>
+          </div>
+        </div>
+      </section>
+
+      {/* Product Photography Section */}
+      <section className="py-32 bg-white relative overflow-hidden">
+        <div className="absolute bottom-0 left-0 w-1/2 h-full bg-slate-50 clip-angled-right z-0" />
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-24 items-center">
+            <motion.div
+              initial={{ opacity: 0, x: -30 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.8 }}
+            >
+              <div className="flex items-center gap-4 mb-6">
+                <div className="w-12 h-[2px] bg-primary" />
+                <span className="text-primary font-black tracking-[0.3em] uppercase text-xs">Acelera tus Ventas</span>
+              </div>
+              <h2 className="text-5xl md:text-7xl font-black text-slate-900 uppercase tracking-tighter italic leading-none mb-12">
+                Vende Antes <br />
+                <span className="text-primary">de que Llegue</span>
+              </h2>
+              <div className="space-y-8 text-lg text-slate-500 leading-relaxed font-medium relative">
+                <div className="absolute -left-8 top-0 w-[1px] h-full bg-slate-200" />
+                <p className="pl-8">
+                  Optimizamos su flujo de caja. Con nuestro servicio de fotografía y video profesional en China, usted recibe el material visual de sus productos antes de que salgan del puerto.
+                </p>
+                <div className="pl-8 space-y-6">
+                  {[
+                    "Fotografía de estudio profesional", 
+                    "Videos de producto para Ads", 
+                    "Contenido listo para redes sociales", 
+                    "Infografías técnicas de producto"
+                  ].map((item, i) => (
+                    <div key={i} className="flex items-center gap-4 group">
+                      <div className="w-8 h-[2px] bg-accent group-hover:w-12 transition-all duration-300" />
+                      <span className="text-slate-900 font-black uppercase tracking-widest text-xs italic">{item}</span>
+                    </div>
+                  ))}
+                </div>
+                <div className="pt-8 pl-8">
+                  <div className="inline-flex items-center gap-3 px-6 py-3 bg-primary/5 rounded-2xl border border-primary/10">
+                    <Camera className="text-primary" size={20} />
+                    <span className="text-primary font-black uppercase tracking-widest text-[10px]">Material visual en 48h</span>
+                  </div>
+                </div>
+              </div>
+            </motion.div>
+
+            <motion.div
+              initial={{ opacity: 0, scale: 0.95 }}
+              whileInView={{ opacity: 1, scale: 1 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.8 }}
+              className="relative"
+            >
+              <div className="absolute -inset-10 bg-primary/5 -skew-x-12 blur-3xl" />
+              <div className="relative rounded-[3rem] overflow-hidden shadow-2xl group">
+                <img 
+                  src="https://images.unsplash.com/photo-1542744094-24638eff58bb?q=80&w=2071&auto=format&fit=crop" 
+                  alt="Product photography" 
+                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                />
+                <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity" />
+                <div className="absolute bottom-10 left-10 right-10 p-8 glass-panel rounded-3xl border border-white/20 translate-y-20 group-hover:translate-y-0 transition-transform duration-500">
+                  <p className="text-white font-black uppercase tracking-tighter italic text-xl">Vende tu producto antes que llegue de China</p>
+                </div>
+              </div>
+              <div className="absolute -bottom-10 -right-10 w-32 h-32 bg-halftone text-primary/20" />
             </motion.div>
           </div>
         </div>
