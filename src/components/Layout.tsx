@@ -73,7 +73,7 @@ export function Navbar() {
     { name: 'Contacto', path: '/contacto' },
   ];
 
-  const whatsappUrl = "https://wa.me/8617813279893?text=Hola%2C%20me%20gustar%C3%ADa%20recibir%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20servicios%20de%20importaci%C3%B3n%20desde%20China.";
+  const whatsappUrl = "https://wa.me/593984178610?text=Hola%2C%20me%20gustar%C3%ADa%20recibir%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20servicios%20de%20importaci%C3%B3n%20desde%20China.";
 
   return (
     <nav className={cn(
@@ -300,9 +300,9 @@ export function Footer() {
             <ul className="space-y-4 text-sm text-gray-400">
               <li className="flex items-center gap-3"><span className="w-1 h-1 bg-primary" /> info@linkitpacific.com</li>
               <li className="flex items-center gap-3"><span className="w-1 h-1 bg-primary" /> admin@linkitpacific.com</li>
-              <li className="flex items-center gap-3"><span className="w-1 h-1 bg-primary" /> +86 17813279893</li>
-              <li className="flex items-center gap-3"><span className="w-1 h-1 bg-primary" /> Shenzhen, China</li>
-              <li className="flex items-center gap-3"><span className="w-1 h-1 bg-primary" /> Quito, Ecuador</li>
+              <li className="flex items-center gap-3"><span className="w-1 h-1 bg-primary" /> +86 17813279893 (China)</li>
+              <li className="flex items-center gap-3"><span className="w-1 h-1 bg-primary" /> +593 98 417 8610 (Ecuador)</li>
+              <li className="flex items-center gap-3"><span className="w-1 h-1 bg-primary" /> Shenzhen, China / Quito, Ecuador</li>
             </ul>
           </div>
         </div>

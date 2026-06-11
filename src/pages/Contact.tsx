@@ -219,7 +219,7 @@ export default function Contact() {
                 <div>
                   <h3 className="text-2xl font-black text-slate-900 uppercase tracking-tight italic mb-4">Teléfono</h3>
                   <p className="text-slate-500 font-medium text-lg">+86 17813279893 (China)</p>
-                  <p className="text-slate-500 font-medium text-lg">+593 2 123 4567 (Ecuador)</p>
+                  <p className="text-slate-500 font-medium text-lg">+593 98 417 8610 (Ecuador)</p>
                 </div>
               </div>
             </div>
