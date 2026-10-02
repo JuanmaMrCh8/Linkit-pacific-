@@ -1,61 +1,15 @@
-import React, { useId } from 'react';
+import React from 'react';
 
-export function Logo({ className = "w-10 h-10", color = "text-white" }: { className?: string, color?: string }) {
-  const patternId = useId();
-  const maskId = useId();
-
+// Símbolo oficial de Linkit Pacific (degradado verde #00D26A → morado #6236FF),
+// exportado del archivo de marca y guardado en public/logo-mark.svg.
+export function Logo({ className = "w-10 h-10" }: { className?: string; color?: string }) {
   return (
-    <svg 
-      viewBox="0 0 100 100" 
-      fill="none" 
-      xmlns="http://www.w3.org/2000/svg" 
-      className={`${className} ${color}`}
-    >
-      <defs>
-        {/* Halftone Pattern */}
-        <pattern id={patternId} x="0" y="0" width="5" height="5" patternUnits="userSpaceOnUse">
-          <circle cx="2.5" cy="2.5" r="1.8" fill="white" />
-        </pattern>
-        
-        {/* Mask for the top part of the 'S' */}
-        <mask id={maskId}>
-          <path 
-            d="M 85 15 L 35 65 L 55 85 L 105 35 Z" 
-            fill="white" 
-          />
-          {/* Gradient to simulate halftone fade */}
-          <rect x="0" y="0" width="100" height="100" fill="url(#fadeGradient)" />
-        </mask>
-
-        <linearGradient id="fadeGradient" x1="1" y1="0" x2="0" y2="1">
-          <stop offset="0%" stopColor="white" />
-          <stop offset="70%" stopColor="black" />
-        </linearGradient>
-      </defs>
-      
-      {/* Bottom Solid Part of the 'S' */}
-      <path 
-        d="M 15 85 L 65 35 L 45 15 L -5 65 Z" 
-        fill="currentColor" 
-      />
-
-      {/* Top Dotted Part of the 'S' */}
-      <path 
-        d="M 85 15 L 35 65 L 55 85 L 105 35 Z" 
-        fill="currentColor" 
-        mask={`url(#${maskId})`}
-      />
-      
-      {/* Dots overlay */}
-      <rect 
-        x="0" 
-        y="0" 
-        width="100" 
-        height="100" 
-        fill={`url(#${patternId})`} 
-        mask={`url(#${maskId})`} 
-      />
-    </svg>
+    <img
+      src="/logo-mark.svg"
+      alt="Linkit Pacific"
+      className={`${className} object-contain`}
+      draggable={false}
+    />
   );
 }
 
