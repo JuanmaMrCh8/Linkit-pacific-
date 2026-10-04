@@ -44,8 +44,8 @@ export default function Shopping() {
       <section className="relative pt-48 pb-32 bg-[#0F0F11] overflow-hidden">
         <div className="absolute inset-0 z-0 opacity-30">
           <img 
-            src="https://images.unsplash.com/photo-1473186578172-c141e6798cf4?q=80&w=2070&auto=format&fit=crop" 
-            alt="Luxury shopping China" 
+            src="https://images.unsplash.com/photo-1770013413878-2530e2c3d82b?q=80&w=2070&auto=format&fit=crop" 
+            alt="Agente de compras revisando paquetes y pedidos" 
             className="w-full h-full object-cover grayscale"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#0F0F11] via-transparent to-[#0F0F11]/80" />
@@ -280,8 +280,8 @@ export default function Shopping() {
               <div className="absolute -inset-10 bg-primary/5 -skew-x-12 blur-3xl" />
               <div className="relative rounded-[3rem] overflow-hidden shadow-2xl group">
                 <img 
-                  src="https://images.unsplash.com/photo-1542744094-24638eff58bb?q=80&w=2071&auto=format&fit=crop" 
-                  alt="Product photography" 
+                  src="https://images.unsplash.com/photo-1545242640-7c9e9cc07d23?q=80&w=2071&auto=format&fit=crop" 
+                  alt="Estudio de fotografía de producto" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                 />
                 <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity" />

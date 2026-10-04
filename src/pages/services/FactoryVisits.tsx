@@ -49,8 +49,8 @@ export default function FactoryVisits() {
       <section className="relative pt-48 pb-32 bg-[#0F0F11] overflow-hidden">
         <div className="absolute inset-0 z-0 opacity-30">
           <img 
-            src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070&auto=format&fit=crop" 
-            alt="Business travel China" 
+            src="https://images.unsplash.com/photo-1598299803204-b73796f43289?q=80&w=2070&auto=format&fit=crop" 
+            alt="Visita a una fábrica en China" 
             className="w-full h-full object-cover grayscale"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#0F0F11] via-transparent to-[#0F0F11]/80" />
@@ -163,8 +163,8 @@ export default function FactoryVisits() {
               <div className="absolute -inset-10 bg-primary/5 -skew-x-12 blur-3xl" />
               <div className="relative rounded-[3rem] overflow-hidden shadow-2xl group">
                 <img 
-                  src="https://images.unsplash.com/photo-1556761175-b413da4baf72?q=80&w=2074&auto=format&fit=crop" 
-                  alt="Business meeting" 
+                  src="https://images.unsplash.com/photo-1748347084012-075796185d56?q=80&w=2074&auto=format&fit=crop" 
+                  alt="Inspección de equipos y procesos en la fábrica" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                 />
                 <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity" />

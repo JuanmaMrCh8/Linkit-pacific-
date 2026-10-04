@@ -28,7 +28,7 @@ const INSPECTION_TYPES = [
       'Control de sellado y precintado de seguridad',
       'Registro fotográfico del proceso de cierre'
     ],
-    image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1700716465891-9e5e9f501d7d?q=80&w=2070&auto=format&fit=crop'
   },
   {
     title: 'Inspección Pre-Embarque (PSI)',
@@ -40,7 +40,7 @@ const INSPECTION_TYPES = [
       'Pruebas de funcionamiento in-situ',
       'Evita el envío de productos defectuosos'
     ],
-    image: 'https://images.unsplash.com/photo-1565034946487-077786996e27?q=80&w=2070&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1769355104335-acef3aa4c9b6?q=80&w=2070&auto=format&fit=crop'
   },
   {
     title: 'Control de Calidad (QC)',
@@ -52,7 +52,7 @@ const INSPECTION_TYPES = [
       'Reportes fotográficos detallados',
       'Certificación de cumplimiento normativo'
     ],
-    image: 'https://images.unsplash.com/photo-1530124566582-a618bc2615ad?q=80&w=2070&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1748255882537-cbe88b145305?q=80&w=2070&auto=format&fit=crop'
   }
 ];
 

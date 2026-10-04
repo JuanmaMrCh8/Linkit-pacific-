@@ -62,8 +62,8 @@ export default function FairAccompaniment() {
       <section className="relative pt-48 pb-32 bg-[#0F0F11] overflow-hidden">
         <div className="absolute inset-0 z-0 opacity-30">
           <img 
-            src="https://images.unsplash.com/photo-1540575861501-7cf05a4b125a?q=80&w=2070&auto=format&fit=crop" 
-            alt="Trade fair China" 
+            src="https://images.unsplash.com/photo-1752155222944-675c2c3bfafd?q=80&w=2070&auto=format&fit=crop" 
+            alt="Pabellón de una feria comercial con stands de proveedores" 
             className="w-full h-full object-cover grayscale"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#0F0F11] via-transparent to-[#0F0F11]/80" />

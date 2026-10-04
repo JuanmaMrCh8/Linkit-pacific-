@@ -44,7 +44,7 @@ export default function Sourcing() {
       <section className="relative pt-48 pb-32 bg-[#0F0F11] overflow-hidden">
         <div className="absolute inset-0 z-0 opacity-30">
           <img 
-            src="https://images.unsplash.com/photo-1566576912902-48f6d932843c?q=80&w=2070&auto=format&fit=crop" 
+            src="https://images.unsplash.com/photo-1700727448686-b314cb5f9948?q=80&w=2070&auto=format&fit=crop" 
             alt="Sourcing China" 
             className="w-full h-full object-cover grayscale"
           />
