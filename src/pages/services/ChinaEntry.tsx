@@ -44,8 +44,8 @@ export default function ChinaEntry() {
       <section className="relative pt-48 pb-32 overflow-hidden">
         <div className="absolute inset-0 z-0 opacity-30">
           <img 
-            src="https://images.unsplash.com/photo-1512358958014-b651a7ee1773?q=80&w=2070&auto=format&fit=crop" 
-            alt="China market entry" 
+            src="https://images.unsplash.com/photo-1545893835-abaa50cbe628?q=80&w=2070&auto=format&fit=crop" 
+            alt="Horizonte de Shanghái" 
             className="w-full h-full object-cover grayscale"
           />
           <div className="absolute inset-0 bg-gradient-to-br from-[#0F0F11] via-transparent to-[#0F0F11]/80" />
@@ -149,8 +149,8 @@ export default function ChinaEntry() {
               <div className="absolute -inset-10 bg-primary/5 -skew-x-12 blur-3xl" />
               <div className="relative rounded-[3rem] overflow-hidden shadow-2xl group">
                 <img 
-                  src="https://images.unsplash.com/photo-1547949003-9792a18a2601?q=80&w=2070&auto=format&fit=crop" 
-                  alt="China business" 
+                  src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2070&auto=format&fit=crop" 
+                  alt="Acuerdo comercial con un socio en China" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                 />
                 <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity" />

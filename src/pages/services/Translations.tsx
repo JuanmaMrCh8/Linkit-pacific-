@@ -149,7 +149,7 @@ export default function Translations() {
               <div className="absolute -inset-10 bg-primary/5 -skew-x-12 blur-3xl" />
               <div className="relative rounded-[3rem] overflow-hidden shadow-2xl group">
                 <img 
-                  src="https://images.unsplash.com/photo-1523240715630-9917c1ad6028?q=80&w=2070&auto=format&fit=crop" 
+                  src="https://images.unsplash.com/photo-1551135049-8a33b5883817?q=80&w=2070&auto=format&fit=crop" 
                   alt="Cultural approach" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                 />

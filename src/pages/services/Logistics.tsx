@@ -44,7 +44,7 @@ export default function Logistics() {
       <section className="relative pt-48 pb-32 bg-[#0F0F11] overflow-hidden">
         <div className="absolute inset-0 z-0 opacity-30">
           <img 
-            src="https://images.unsplash.com/photo-1494412574643-35d324698428?q=80&w=2070&auto=format&fit=crop" 
+            src="https://images.unsplash.com/photo-1745956983820-6e960f7e8472?q=80&w=2070&auto=format&fit=crop" 
             alt="Logistics China" 
             className="w-full h-full object-cover grayscale"
           />
