@@ -280,8 +280,8 @@ export default function Shopping() {
               <div className="absolute -inset-10 bg-primary/5 -skew-x-12 blur-3xl" />
               <div className="relative rounded-[3rem] overflow-hidden shadow-2xl group">
                 <img 
-                  src="https://images.unsplash.com/photo-1545242640-7c9e9cc07d23?q=80&w=2071&auto=format&fit=crop" 
-                  alt="Estudio de fotografía de producto" 
+                  src="https://images.unsplash.com/photo-1761948710743-226105bf9c7f?q=80&w=2071&auto=format&fit=crop" 
+                  alt="Fotógrafo grabando foto y video de producto en una mesa de estudio" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                 />
                 <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity" />
