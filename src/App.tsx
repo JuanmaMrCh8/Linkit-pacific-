@@ -9,6 +9,8 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Inspections from './pages/Inspections';
+import Blog from './pages/Blog';
+import BlogPost from './pages/BlogPost';
 import Sourcing from './pages/services/Sourcing';
 import Logistics from './pages/services/Logistics';
 import FactoryVisits from './pages/services/FactoryVisits';
@@ -35,6 +37,8 @@ export default function App() {
         <Route path="/servicios/ferias" element={<FairAccompaniment />} />
         <Route path="/contacto" element={<Contact />} />
         <Route path="/inspecciones" element={<Inspections />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/blog/:slug" element={<BlogPost />} />
       </Routes>
       <GlobalInteractive />
     </BrowserRouter>
