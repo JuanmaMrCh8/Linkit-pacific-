@@ -20,11 +20,13 @@ import Shopping from './pages/services/Shopping';
 import Customs from './pages/services/Customs';
 import { GlobalInteractive } from './components/Interactive/GlobalInteractive';
 import ScrollToTop from './components/ScrollToTop';
+import RouteMeta from './components/RouteMeta';
 
 export default function App() {
   return (
     <BrowserRouter>
       <ScrollToTop />
+      <RouteMeta />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
