@@ -148,5 +148,80 @@
     },
     "tema": "logistica",
     "tituloSeo": "Ruta directa o trasbordo desde China: qué comparar"
+  },
+  {
+    "slug": "aranceles-mexico-1463-fracciones-como-revisar-antes-de-importar-de-china",
+    "titulo": "México mantiene aranceles de 5% a 50% a 1.463 fracciones: cómo revisar tu producto antes de importar",
+    "tituloCorto": "Aranceles de México a 1.463 fracciones",
+    "fecha": "2026-10-05",
+    "categoria": "Regulatorio",
+    "extracto": "Desde el 1 de enero de 2026 México aplica aranceles de 5% a 50% a 1.463 fracciones de países sin tratado comercial, con China como principal afectado. Revisar la fracción antes de cotizar evita sorpresas en el costo final.",
+    "descripcionSeo": "México aplica aranceles de 5% a 50% a 1.463 fracciones de países sin TLC. Cómo revisar tu fracción arancelaria y calcular el costo puesto en destino antes de comprar.",
+    "palabrasClave": [
+      "aranceles México China",
+      "fracción arancelaria",
+      "importar de China a México",
+      "costo puesto en destino"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1590497008432-598f04441de8?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Puerto con contenedores apilados y grúas bajo un cielo nublado"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1678182451047-196f22a4143e?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Gran cantidad de contenedores apilados en un puerto de carga"
+    },
+    "cuerpo": [
+      "Desde el 1 de enero de 2026 México aplica aranceles de 5% a 50% a 1.463 fracciones arancelarias de países con los que no tiene tratado comercial, y China es el principal afectado, según Reporte Asia. La medida llega mientras la presidenta Claudia Sheinbaum prepara su viaje a Shenzhen para la cumbre APEC del 18 y 19 de noviembre, en medio de la disputa arancelaria entre ambos países.",
+      "El efecto ya se nota en algunos sectores: las importaciones de vehículos chinos a México cayeron 31,1% interanual en el primer semestre de 2026, hasta 158.571 unidades. China, por su parte, respondió en agosto con cuotas compensatorias de hasta 51,6% a la nuez pecana mexicana.",
+      "Para el importador, el mensaje es práctico: el precio FOB ya no basta para saber si un producto es rentable. La fracción arancelaria, las cuotas compensatorias vigentes y el costo puesto en destino deben revisarse antes de pedir una cotización o pagar un anticipo."
+    ],
+    "guia": {
+      "titulo": "Tres pasos para revisar tu producto antes de cotizar",
+      "items": [
+        {
+          "titulo": "Confirma tu fracción arancelaria",
+          "texto": "Identifica la fracción exacta de tu producto y verifica si está entre las 1.463 con arancel de 5% a 50%. Una clasificación incorrecta puede cambiar el costo final."
+        },
+        {
+          "titulo": "Revisa cuotas compensatorias",
+          "texto": "Algunos productos tienen cuotas adicionales, como el acero laminado en caliente chino, con cuotas definitivas desde el 4 de septiembre de 2026. Consúltalas antes de comprar."
+        },
+        {
+          "titulo": "Calcula el costo puesto en destino",
+          "texto": "Suma flete, seguro, aranceles, impuestos y gastos aduanales al precio de fábrica, y compáralo con tu precio de venta antes de confirmar el pedido."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Aranceles de 5% a 50% sobre 1.463 fracciones arancelarias de países sin TLC, vigentes desde el 1-01-2026",
+        "fuente": "Reporte Asia, 30-09-2026"
+      },
+      {
+        "dato": "Importaciones de vehículos chinos a México: -31,1% interanual en el 1.er semestre de 2026 (158.571 unidades)",
+        "fuente": "Reporte Asia, 30-09-2026"
+      },
+      {
+        "dato": "China impuso en agosto cuotas compensatorias de hasta 51,6% a la nuez pecana mexicana",
+        "fuente": "Reporte Asia, 30-09-2026"
+      },
+      {
+        "dato": "Cuotas compensatorias definitivas al acero laminado en caliente chino: US$0,3050-0,3087/kg desde el 4-09-2026",
+        "fuente": "Reporte Asia, 05-09-2026"
+      }
+    ],
+    "impacto": "Un importador que no revisa su fracción arancelaria puede ver desaparecer su margen por un arancel de hasta 50% o una cuota compensatoria.",
+    "servicio": {
+      "nombre": "Logística internacional y aduanas",
+      "ruta": "/servicios/logistica",
+      "texto": "Nuestro servicio de logística y desaduanización te ayuda a clasificar correctamente tu producto y a calcular el costo puesto en destino antes de comprar."
+    },
+    "fuente": {
+      "medio": "Reporte Asia",
+      "url": "https://reporteasia.com/america/mexico/2026/09/30/sheinbaum-viajara-china-cumbre-apec-medio-disputa-arancelaria-ambos-paises/"
+    },
+    "tema": "aduanas",
+    "tituloSeo": "Aranceles de México a 1.463 fracciones: guía"
   }
 ]
