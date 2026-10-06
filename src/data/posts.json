@@ -223,5 +223,80 @@
     },
     "tema": "aduanas",
     "tituloSeo": "Aranceles de México a 1.463 fracciones: guía"
+  },
+  {
+    "slug": "china-arancel-55-carne-brasil-cuota-agotada-leccion-exportadores",
+    "titulo": "China aplica un arancel adicional de 55% a la carne vacuna de Brasil: la lección para quien exporta a China",
+    "tituloCorto": "Arancel de 55% a la carne de Brasil en China",
+    "fecha": "2026-10-06",
+    "categoria": "Exportación",
+    "extracto": "Brasil agotó el 30 de septiembre su cuota anual de carne vacuna en China y, desde el 1 de octubre, sus envíos adicionales pagan 55% más. El caso muestra que el acceso al mercado chino se gestiona: depende de cuotas, reglas sanitarias y registros.",
+    "descripcionSeo": "China aplica 55% adicional a la carne vacuna de Brasil tras agotar su cuota anual. Qué enseña a los exportadores latinoamericanos sobre cuotas, registros y acceso.",
+    "palabrasClave": [
+      "exportar a China",
+      "arancel carne Brasil China",
+      "cuota de importación China",
+      "registro GACC"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1665105519765-a0ec8e027100?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Ganado vacuno pastando en una pradera abierta bajo un cielo con nubes"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1670121180583-39ab653a071c?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Buque portacontenedores en una terminal portuaria listo para zarpar"
+    },
+    "cuerpo": [
+      "Brasil completó el 30 de septiembre su cuota anual de carne vacuna en China, y desde el 1 de octubre sus envíos adicionales pagan un arancel extra de 55%, según China las Américas con información de Reuters. Con el arancel base de 12%, el total llega a 67%. La cuota anual de Brasil es de 1,1 millones de toneladas.",
+      "Pekín tampoco aprobó que Brasil use la cuota no utilizada de Uruguay. Las proyecciones apuntan a una caída de 10% interanual en las exportaciones brasileñas de carne a China en 2026, y los datos de Secex muestran que en las dos primeras semanas de septiembre el promedio diario de exportaciones de carne vacuna de Brasil bajó 30,3% frente al mismo periodo de 2025.",
+      "La señal va más allá de la carne: el acceso al mercado chino depende de reglas sanitarias, cuotas y registros, y no solo de la demanda. Una empresa que concentra sus ventas en un solo producto o en un acceso que puede cerrarse por cuota queda expuesta a un cambio de condiciones de un día para otro. Para las marcas con categorías diferenciadas y el registro en regla, en cambio, es una razón para prepararse antes de escalar."
+    ],
+    "guia": {
+      "titulo": "Tres puntos para exportar a China con las reglas claras",
+      "items": [
+        {
+          "titulo": "Revisa si tu producto está sujeto a cuotas",
+          "texto": "Antes de planificar volúmenes, confirma si tu categoría tiene cuota de importación en China y cuánto margen queda. Una cuota agotada cambia el costo de entrada."
+        },
+        {
+          "titulo": "Asegura registros y requisitos sanitarios",
+          "texto": "El registro ante la aduana china (GACC) y el cumplimiento de las reglas sanitarias y de etiquetado son condiciones de acceso, no trámites opcionales. Empieza por ahí."
+        },
+        {
+          "titulo": "Diversifica categorías y canales",
+          "texto": "Depender de un solo producto expone tu negocio a cambios de reglas. Evalúa categorías diferenciadas y más de un canal de venta en el mercado chino."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Arancel adicional de 55% desde el 1-10-2026; total 67% (55% + 12% base)",
+        "fuente": "China las Américas, 30-09-2026"
+      },
+      {
+        "dato": "Cuota anual de Brasil: 1,1 millones de toneladas",
+        "fuente": "China las Américas, 30-09-2026"
+      },
+      {
+        "dato": "Proyección: exportaciones brasileñas de carne a China -10% interanual en 2026",
+        "fuente": "China las Américas, 30-09-2026"
+      },
+      {
+        "dato": "Exportaciones de carne vacuna de Brasil, primeras dos semanas de septiembre: promedio diario -30,3% interanual",
+        "fuente": "Secex vía Gazeta Mercantil, 16-09-2026"
+      }
+    ],
+    "impacto": "Depender de un solo producto o de un acceso que puede cerrarse por cuota deja a un exportador sin margen de maniobra; entender las reglas antes de escalar es parte de la estrategia.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Con nuestro servicio Growth Partner te acompañamos en la inteligencia de mercado y el registro GACC para diversificar categorías y entender las reglas de acceso antes de escalar en China."
+    },
+    "fuente": {
+      "medio": "China las Américas (con Reuters)",
+      "url": "https://chinalasamericas.com/2026/09/30/china-aplica-un-arancel-del-55-a-la-carne-vacuna-de-brasil-al-alcanzar-las-importaciones-su-cuota/"
+    },
+    "tema": "exportacion",
+    "tituloSeo": "Arancel de 55% a la carne de Brasil en China"
   }
 ]
