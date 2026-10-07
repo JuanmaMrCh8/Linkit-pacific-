@@ -298,5 +298,80 @@
     },
     "tema": "exportacion",
     "tituloSeo": "Arancel de 55% a la carne de Brasil en China"
+  },
+  {
+    "slug": "yuan-nivel-mas-fuerte-desde-2022-como-proteger-costo-importacion-china",
+    "titulo": "El yuan toca su nivel más fuerte desde 2022: cómo proteger tu costo al importar de China",
+    "tituloCorto": "El yuan, en su nivel más fuerte desde 2022",
+    "fecha": "2026-10-07",
+    "categoria": "Importación",
+    "extracto": "El yuan llegó a 6,6853 por dólar el 18 de septiembre, su nivel más fuerte desde junio de 2022. Para el importador, el riesgo está en lo que se pacta entre la proforma y el pago del saldo.",
+    "descripcionSeo": "El yuan marca su nivel más fuerte desde junio de 2022. Qué fijar con tu proveedor en China: moneda, plazos de pago y vigencia de la cotización.",
+    "palabrasClave": [
+      "yuan dólar",
+      "importar de China",
+      "tipo de cambio yuan",
+      "cotización proveedor China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1572791035467-379a14a6dafd?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Billetes de yuan chino y de dólar estadounidense dispuestos uno junto al otro"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1769144256181-698b8f807066?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Buque portacontenedores cargado de contenedores de colores en un puerto"
+    },
+    "cuerpo": [
+      "El yuan se apreció hasta 6,6853 por dólar el 18 de septiembre de 2026, su nivel más fuerte desde junio de 2022, según Caixin Global. El movimiento se explica por el superávit comercial de China, que superó los US$800.000 millones en los primeros ocho meses del año, por la venta estacional de dólares de los exportadores y por una tasa de referencia del Banco Popular de China (PBOC) más fuerte durante ocho días seguidos.",
+      "Un yuan más fuerte encarece, en dólares, lo que se compra a proveedores que cotizan en yuanes, y presiona a las fábricas a renegociar precios. Caixin señala además que el diferencial de tasas entre Estados Unidos y China, cercano a 330 puntos básicos, podría frenar la apreciación; es decir, el rumbo de la moneda sigue siendo incierto.",
+      "Para el importador latinoamericano, el riesgo no está solo en el nivel del tipo de cambio, sino en el tiempo: una cotización en yuanes, o ajustada al tipo de cambio, puede subir en dólares entre la proforma y el pago del saldo. Quien no fija condiciones con el proveedor termina absorbiendo esa diferencia en su margen."
+    ],
+    "guia": {
+      "titulo": "Tres puntos para cuidar tu costo frente al tipo de cambio",
+      "items": [
+        {
+          "titulo": "Define la moneda de la cotización",
+          "texto": "Acuerda por escrito si el precio está en dólares o en yuanes y si se ajusta al tipo de cambio. Una cotización ambigua es la que más se renegocia después."
+        },
+        {
+          "titulo": "Fija la vigencia de la proforma",
+          "texto": "Indica hasta qué fecha se mantiene el precio. Sin vigencia, el proveedor puede actualizar la cotización cuando el tipo de cambio se mueve."
+        },
+        {
+          "titulo": "Ordena los plazos de pago",
+          "texto": "Revisa cuánto tiempo transcurre entre el anticipo y el pago del saldo, y cuándo conviene cerrar cada uno, para reducir el tiempo expuesto a la variación."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Yuan a 6,6853 por dólar el 18-09-2026, el más fuerte desde junio de 2022",
+        "fuente": "Caixin Global, 18-09-2026"
+      },
+      {
+        "dato": "Superávit comercial de China: más de US$800.000 millones en los primeros ocho meses de 2026",
+        "fuente": "Caixin Global, 18-09-2026"
+      },
+      {
+        "dato": "El PBOC fijó la tasa de referencia más fuerte durante 8 días seguidos",
+        "fuente": "Caixin Global, 18-09-2026"
+      },
+      {
+        "dato": "Diferencial de tasas EE.UU.-China cercano a 330 puntos básicos podría frenar la apreciación",
+        "fuente": "Caixin Global, 18-09-2026"
+      }
+    ],
+    "impacto": "Las cotizaciones en yuanes o ajustadas al tipo de cambio pueden subir en dólares entre la proforma y el pago del saldo; el importador que no fija las condiciones absorbe la diferencia.",
+    "servicio": {
+      "nombre": "Sourcing y agencia de compras",
+      "ruta": "/servicios/sourcing",
+      "texto": "Con nuestro servicio de Sourcing y agencia de compras negociamos con el proveedor la moneda, los plazos de pago y la vigencia de las cotizaciones, para que tu costo quede claro antes de comprar."
+    },
+    "fuente": {
+      "medio": "Caixin Global",
+      "url": "https://www.caixinglobal.com/2026-09-18/yuan-surges-past-67-per-dollar-to-three-year-high-102486356.html"
+    },
+    "tema": "importacion",
+    "tituloSeo": "El yuan, en su nivel más fuerte desde 2022"
   }
 ]
