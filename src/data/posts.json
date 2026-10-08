@@ -373,5 +373,81 @@
     },
     "tema": "importacion",
     "tituloSeo": "El yuan, en su nivel más fuerte desde 2022"
+  },
+  {
+    "slug": "navieras-suben-hasta-us-3000-por-contenedor-planifica-carga-fin-de-ano",
+    "titulo": "Navieras anuncian alzas de hasta US$3.000 por contenedor: cómo planificar tu carga de fin de año",
+    "tituloCorto": "Navieras suben hasta US$3.000 por contenedor",
+    "fecha": "2026-10-09",
+    "categoria": "Importación",
+    "extracto": "El 1 de octubre llegó una nueva ronda de aumentos generales de tarifa de entre US$2.000 y US$3.000 por contenedor de 40 pies, según la naviera. Para el importador, el riesgo está en confirmar la producción sin confirmar el espacio en el buque.",
+    "descripcionSeo": "Navieras aplican aumentos de US$2.000 a US$3.000 por contenedor desde octubre. Cómo planificar reservas y fechas para que tu carga de fin de año llegue a tiempo.",
+    "palabrasClave": [
+      "alza de fletes",
+      "GRI navieras",
+      "flete marítimo China",
+      "reserva de contenedor",
+      "carga de fin de año"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1706499856012-14f062c72b49?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Grúas pórtico y contenedores de colores apilados en una terminal portuaria"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1784915480055-165550a35b9c?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Contenedores azules y rojos apilados sobre un buque portacontenedores"
+    },
+    "cuerpo": [
+      "The Loadstar informó el 25 de septiembre de 2026 que el 1 de octubre llegaría una nueva ronda de aumentos generales de tarifa (GRI) de entre US$2.000 y US$3.000 por contenedor de 40 pies, según la naviera. El mismo reporte recoge el testimonio de un transitario de la costa oeste de Estados Unidos, que señala que las navieras reprograman reservas o cancelan espacios ya confirmados por limitaciones de espacio y peso en los buques.",
+      "El momento agrava la presión: el aumento coincide con la Semana Dorada de China, del 1 al 7 de octubre, cuando fábricas y operaciones trabajan a medio ritmo; DSV estima que la actividad vuelve a la normalidad hacia el 10 de octubre. Las tarifas citadas en el reporte corresponden a rutas desde Asia hacia Estados Unidos y Europa, y sirven como referencia de la presión general sobre la capacidad; no son un índice publicado para Asia-Latinoamérica.",
+      "Para el importador latinoamericano, el riesgo no está solo en el precio del flete, sino en el calendario. Los pedidos de fin de año que salen de fábrica después de la Semana Dorada pueden encontrar fletes más altos, reservas desplazadas y una llegada tardía para la temporada."
+    ],
+    "guia": {
+      "titulo": "Tres puntos para que tu carga de fin de año llegue a tiempo",
+      "items": [
+        {
+          "titulo": "Confirma el espacio en el buque antes de cerrar la producción",
+          "texto": "Un pedido listo en fábrica no garantiza lugar a bordo. Reserva y confirma el espacio con la naviera o tu agente de carga antes de comprometer la fecha de salida."
+        },
+        {
+          "titulo": "Arma el calendario hacia atrás desde tu fecha de llegada",
+          "texto": "Parte de la fecha en que necesitas la mercancía y descuenta tránsito, trámites de salida y margen para demoras. Como referencia, DSV recomendó asegurar el espacio con al menos 3 a 6 semanas de anticipación a la Semana Dorada."
+        },
+        {
+          "titulo": "Pide por escrito qué tarifa y qué vigencia aplican",
+          "texto": "Aclara si el flete cotizado incluye el aumento general, hasta qué fecha se mantiene y qué pasa si la reserva se desplaza, para que el costo final no te sorprenda."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Nueva ronda de GRI el 1-10-2026: de US$2.000 a US$3.000 por contenedor de 40 pies, según la naviera",
+        "fuente": "The Loadstar, 25-09-2026"
+      },
+      {
+        "dato": "Shanghái-Los Ángeles: US$7.838/FEU (+2% semanal); Shanghái-Nueva York: US$10.373/FEU",
+        "fuente": "The Loadstar (Drewry WCI), 25-09-2026"
+      },
+      {
+        "dato": "Siete salidas canceladas (blank sailings) en Asia-Europa la semana siguiente, frente a tres la semana del reporte",
+        "fuente": "The Loadstar, 25-09-2026"
+      },
+      {
+        "dato": "Semana Dorada 2026: 1 al 7 de octubre; normalización estimada hacia el 10 de octubre",
+        "fuente": "DSV, 08-09-2026"
+      }
+    ],
+    "impacto": "Los pedidos de fin de año que salen después de la Semana Dorada pueden encontrar fletes más altos y reservas desplazadas; quien confirma la producción sin confirmar el espacio en el buque arriesga llegar tarde a la temporada.",
+    "servicio": {
+      "nombre": "Logística internacional y aduanas",
+      "ruta": "/servicios/logistica",
+      "texto": "Con nuestro servicio de Logística internacional y aduanas planificamos las reservas y damos seguimiento al embarque desde origen, para que tu carga salga y llegue en las fechas que necesitas."
+    },
+    "fuente": {
+      "medio": "The Loadstar",
+      "url": "https://theloadstar.com/shippers-face-rate-hikes-and-a-classic-supply-demand-mismatch-in-q4/"
+    },
+    "tema": "importacion",
+    "tituloSeo": "Navieras suben hasta US$3.000 por contenedor"
   }
 ]
