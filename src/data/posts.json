@@ -449,5 +449,78 @@
     },
     "tema": "importacion",
     "tituloSeo": "Navieras suben hasta US$3.000 por contenedor"
+  },
+  {
+    "slug": "ecuador-china-protocolo-arandano-fresco-pasos-para-exportar",
+    "titulo": "Ecuador firma con China el protocolo para exportar arándano fresco: los pasos hasta el primer contenedor",
+    "tituloCorto": "Ecuador firma protocolo con China para arándano fresco",
+    "fecha": "2026-10-10",
+    "categoria": "Exportación",
+    "extracto": "Agrocalidad y la aduana china (GACC) firmaron el protocolo fitosanitario para el arándano fresco ecuatoriano. Abre la puerta al mercado, pero aún faltan fases técnicas antes de los primeros envíos.",
+    "descripcionSeo": "Ecuador y China firmaron el protocolo fitosanitario del arándano fresco. Qué exige y qué pasos faltan para que tu primer contenedor llegue a China.",
+    "palabrasClave": [
+      "exportar arándano a China",
+      "protocolo fitosanitario China",
+      "GACC registro",
+      "Ecuador China exportaciones",
+      "exportar fruta fresca a China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1628104017776-50e38eb63041?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Arándanos azules maduros colgando entre hojas verdes en la planta"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1689809056564-edca1d3f3817?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Cestas blancas llenas de arándanos frescos recién cosechados"
+    },
+    "cuerpo": [
+      "Agrocalidad, la agencia fitosanitaria de Ecuador, y la Administración General de Aduanas de China (GACC) firmaron el protocolo que fija los requisitos para exportar arándano fresco ecuatoriano a China, según informó El Universo el 22 de septiembre de 2026. La firma abre la puerta formal al mercado, pero no equivale a un primer envío: la propia Agrocalidad indica que debe continuar la coordinación con la GACC para cumplir las fases técnicas correspondientes.",
+      "El protocolo exige registro y aprobación de los sitios de producción e instalaciones vinculadas, manejo fitosanitario del cultivo, vigilancia, monitoreo y control de plagas de interés cuarentenario, condiciones de procesamiento, empaque, almacenamiento y transporte, e inspección y certificación fitosanitaria. La nota no fija plazos para los primeros envíos ni indica si el registro y la aprobación de sitios ya se completaron.",
+      "El arándano ecuatoriano parte de una base pequeña, pero en alza: según el Ministerio de Desarrollo Económico y Productivo, las exportaciones crecieron 359% en el primer semestre de 2026, de US$108.000 a US$495.000 frente al mismo periodo de 2025.",
+      "Para un exportador latinoamericano, la lección es que un protocolo firmado es el inicio del trabajo, no el final. Quien llegue con el sitio registrado, la cadena de empaque y transporte documentada y el producto preparado para el mercado chino estará mejor posicionado cuando se habiliten los envíos."
+    ],
+    "guia": {
+      "titulo": "Tres pasos desde el protocolo hasta el primer contenedor",
+      "items": [
+        {
+          "titulo": "Confirma el estatus de tu sitio de producción",
+          "texto": "Verifica con la autoridad fitosanitaria de tu país si tu huerto y tus instalaciones de empaque están registrados y aprobados; el protocolo lo exige y es el punto de partida."
+        },
+        {
+          "titulo": "Documenta plagas, empaque y transporte",
+          "texto": "Ordena el registro del manejo fitosanitario, el monitoreo de plagas de interés cuarentenario y las condiciones de procesamiento, almacenamiento y transporte que pide el protocolo."
+        },
+        {
+          "titulo": "Prepara el lado chino antes del embarque",
+          "texto": "Define tu canal de venta en China, el etiquetado y la logística en destino, para que cuando se habiliten los envíos el contenedor no quede esperando en puerto."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Exportaciones de arándano de Ecuador, enero-junio de 2026: US$495.000 frente a US$108.000 en el mismo periodo de 2025 (+359%)",
+        "fuente": "El Universo, 22-09-2026 (Ministerio de Desarrollo Económico y Productivo)"
+      },
+      {
+        "dato": "Protocolo firmado por Agrocalidad (Ecuador) y la GACC (China); exige registro y aprobación de sitios de producción, monitoreo de plagas, y condiciones de empaque, almacenamiento, transporte e inspección",
+        "fuente": "El Universo, 22-09-2026"
+      },
+      {
+        "dato": "Exportaciones de Ecuador a China en el primer semestre de 2026: US$3.644 millones (+23%)",
+        "fuente": "Primicias, 18-08-2026"
+      }
+    ],
+    "impacto": "Un protocolo firmado abre la puerta, pero no garantiza el primer envío: sin sitios registrados y una cadena documentada, el exportador no entra aunque la demanda china exista.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Con nuestro servicio Growth Partner acompañamos a marcas latinoamericanas en el registro ante la GACC, el etiquetado GB, la logística en China y la ejecución en canal, para que tu producto llegue al consumidor chino."
+    },
+    "fuente": {
+      "medio": "El Universo",
+      "url": "https://www.eluniverso.com/noticias/economia/ecuador-firma-protocolo-con-china-para-abrir-mercado-al-arandano-fresco-nota/"
+    },
+    "tema": "exportacion",
+    "tituloSeo": "Protocolo Ecuador-China: arándano fresco a China"
   }
 ]
