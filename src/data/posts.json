@@ -522,5 +522,82 @@
     },
     "tema": "exportacion",
     "tituloSeo": "Protocolo Ecuador-China: arándano fresco a China"
+  },
+  {
+    "slug": "hapag-lloyd-cma-cgm-recargo-1000-contenedor-asia-latinoamerica",
+    "titulo": "Hapag-Lloyd y CMA CGM suben US$1.000 por contenedor de Asia a Latinoamérica desde el 15 de octubre",
+    "tituloCorto": "Recargo de US$1.000 por contenedor de Asia a Latinoamérica",
+    "fecha": "2026-10-11",
+    "categoria": "Importación",
+    "extracto": "Hapag-Lloyd y CMA CGM anunciaron un aumento de US$1.000 por contenedor desde puertos asiáticos hacia Latinoamérica a partir del 15 de octubre, mientras el índice global de fletes sigue bajando.",
+    "descripcionSeo": "Hapag-Lloyd y CMA CGM suben US$1.000 por contenedor de Asia a Latinoamérica desde el 15 de octubre. Qué pedir en la cotización y cómo planificar.",
+    "palabrasClave": [
+      "recargo flete Asia Latinoamérica",
+      "Hapag-Lloyd CMA CGM",
+      "costo de importar desde China",
+      "cotización de flete marítimo",
+      "flete por contenedor"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1590496793907-4d66e2994b4d?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Buque portacontenedores cargado por grúas en un puerto industrial al atardecer"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1790714224317-f8efd918caa2?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Vista aérea de contenedores de colores apilados en hileras en un puerto"
+    },
+    "cuerpo": [
+      "Hapag-Lloyd y CMA CGM anunciaron un aumento de US$1.000 por contenedor en sus servicios desde Asia hacia Latinoamérica, con vigencia desde el 15 de octubre de 2026, según informó MundoMarítimo el 5 de octubre. En el caso de Hapag-Lloyd, el aumento aplica a contenedores dry de 20 y 40 pies y a reefer de 40 pies, desde el Lejano Oriente hacia la costa este y oeste de Sudamérica, la costa oeste de México, Centroamérica y el Caribe. CMA CGM lo aplica a contenedores dry, reefer, fuera de gálibo y vacíos sujetos al pago de flete, desde todos los puertos asiáticos hacia ambas costas de Sudamérica, Centroamérica, México y el Caribe, según la fecha de embarque.",
+      "El aviso llega en contraste con la tendencia global. Según Prensa Latina, que cita a Drewry, el World Container Index se ubicó en US$4.434 por contenedor de 40 pies al 1 de octubre, con una baja de 1%, y las rutas Shanghái-Róterdam (US$3.399) y Shanghái-Génova (US$3.702) acumulan doce semanas seguidas de descensos. Es decir, que los fletes bajen en las rutas principales no garantiza que lo hagan en la ruta hacia Latinoamérica.",
+      "Las fuentes no precisan en qué porcentaje queda el flete base de cada ruta ni hasta cuándo se mantendría el recargo, y se trata de un anuncio de las navieras, cuya aplicación efectiva puede variar. Para un importador, el punto práctico es que un embarque que zarpe desde el 15 de octubre puede costar US$1.000 más por contenedor si el recargo se aplica, un monto que no estaba en una cotización hecha con tarifas anteriores.",
+      "El impacto por unidad de producto depende de cuántas unidades carga el contenedor: a mayor volumen por contenedor, menor el efecto por unidad. Por eso conviene revisar la cotización completa y no solo el flete base."
+    ],
+    "guia": {
+      "titulo": "Tres puntos para revisar tu cotización de flete",
+      "items": [
+        {
+          "titulo": "Confirma la vigencia y la fecha de referencia",
+          "texto": "Pregunta si la tarifa cotizada aplica según la fecha de embarque y hasta cuándo es válida; CMA CGM aplica el recargo según la fecha de embarque."
+        },
+        {
+          "titulo": "Pide el desglose de recargos",
+          "texto": "Solicita que la cotización separe el flete base de los recargos y aclare si el aumento de US$1.000 por contenedor ya está incluido."
+        },
+        {
+          "titulo": "Planifica la fecha de zarpe y el tipo de contenedor",
+          "texto": "Revisa si tu carga zarpa antes o después del 15 de octubre y qué tipo de contenedor usas, ya que el aumento se anunció para dry, reefer y otros tipos según la naviera."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Hapag-Lloyd: +US$1.000 por contenedor de 20 y 40 pies dry y de 40 pies reefer NOR, del Lejano Oriente a la costa este y oeste de Sudamérica, costa oeste de México, Centroamérica y el Caribe, desde el 15 de octubre de 2026",
+        "fuente": "MundoMarítimo, 05-10-2026"
+      },
+      {
+        "dato": "CMA CGM: +US$1.000 por contenedor (dry, reefer, fuera de gálibo y vacíos con flete) desde puertos asiáticos a ambas costas de Sudamérica, Centroamérica, México y el Caribe, desde el 15 de octubre de 2026 según fecha de embarque",
+        "fuente": "MundoMarítimo, 05-10-2026"
+      },
+      {
+        "dato": "Drewry World Container Index al 1 de octubre de 2026: US$4.434 por contenedor de 40 pies, -1%",
+        "fuente": "Prensa Latina (cita a Drewry), 07-10-2026"
+      },
+      {
+        "dato": "Shanghái-Róterdam: US$3.399 (-2%); Shanghái-Génova: US$3.702 (-3%); doce semanas seguidas de descensos en ambas rutas",
+        "fuente": "Prensa Latina (cita a Drewry), 07-10-2026"
+      }
+    ],
+    "impacto": "Un recargo de US$1.000 por contenedor puede cambiar el costo final de una importación desde Asia aunque el índice global de fletes esté bajando; revisar vigencia y recargos antes de reservar evita sorpresas en el presupuesto.",
+    "servicio": {
+      "nombre": "Logística internacional y aduanas",
+      "ruta": "/servicios/logistica",
+      "texto": "Con nuestro servicio de Logística internacional y aduanas te ayudamos a revisar la cotización de flete, planificar la fecha de embarque y dar seguimiento a la carga desde origen hasta tu almacén en Latinoamérica."
+    },
+    "fuente": {
+      "medio": "MundoMarítimo",
+      "url": "https://www.mundomaritimo.cl/noticias/navieras-anuncian-alzas-de-fletes-hacia-latinoamerica-aunque-en-las-principales-rutas-globales-apuntan-a-la-baja"
+    },
+    "tema": "importacion",
+    "tituloSeo": "Recargo de US$1.000 por contenedor Asia-Latinoamérica"
   }
 ]
