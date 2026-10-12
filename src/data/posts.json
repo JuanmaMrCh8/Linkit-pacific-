@@ -599,5 +599,82 @@
     },
     "tema": "importacion",
     "tituloSeo": "Recargo de US$1.000 por contenedor Asia-Latinoamérica"
+  },
+  {
+    "slug": "colombia-importaciones-china-30-por-ciento-como-verificar-proveedor",
+    "titulo": "Colombia importa 22,9% más en julio y China ya aporta el 30,3% de sus compras",
+    "tituloCorto": "Colombia: China ya aporta el 30,3% de las importaciones",
+    "fecha": "2026-10-12",
+    "categoria": "Importación",
+    "extracto": "Las importaciones de Colombia crecieron 22,9% en julio de 2026 y China ya representa el 30,3% del total. Qué significa depender más de un solo origen y cómo verificar a un proveedor antes del primer pago.",
+    "descripcionSeo": "Las importaciones de Colombia crecieron 22,9% en julio y China ya concentra el 30,3%. Qué implica para el importador y cómo verificar a tu proveedor.",
+    "palabrasClave": [
+      "importaciones Colombia China",
+      "verificar proveedor en China",
+      "diversificar proveedores",
+      "importar desde China",
+      "DANE importaciones julio 2026"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1562892302-97faedd66f1c?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Vista aérea de contenedores de carga apilados en una terminal portuaria"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1580901368919-7738efb0f87e?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Excavadora amarilla y verde sobre terreno rocoso, un tipo de maquinaria que Colombia importa desde China"
+    },
+    "cuerpo": [
+      "Según datos del DANE reportados por Infobae el 21 de septiembre de 2026, Colombia importó US$7.968,1 millones en julio de 2026, un 22,9% más que en julio de 2025. China fue el principal origen de esas compras, con el 30,3% del total, y lo que Colombia le compró a China creció 32,6% frente a julio del año anterior.",
+      "Entre los principales productos que llegan desde China figuran vehículos para transporte de personas, vagones de ferrocarril o tranvía, maquinaria de excavación y motocicletas. El déficit comercial de julio fue de US$2.797,8 millones, frente a US$1.694,2 millones en julio de 2025.",
+      "Son cifras de un solo mes y no permiten proyectar el comportamiento de todo el año. Aun así, muestran una tendencia que el importador debe tener presente: cuanto más depende una compra de un solo proveedor o de una sola ruta, mayor es el riesgo si ese proveedor falla o si la logística se complica.",
+      "Para quien importa desde China, la lectura práctica es doble. Crecer en volumen exige verificar con más cuidado a quién se le compra, y planificar la compra y el transporte con anticipación en lugar de concentrar todo en un único proveedor."
+    ],
+    "guia": {
+      "titulo": "Tres criterios para verificar un proveedor antes del primer pago",
+      "items": [
+        {
+          "titulo": "Confirma si es fábrica o intermediario",
+          "texto": "Pregunta directamente quién produce y dónde, y pide fotos o un video de la planta; no te quedes solo con el catálogo."
+        },
+        {
+          "titulo": "Valida sus datos de registro",
+          "texto": "Solicita el nombre legal de la empresa y su licencia comercial, y comprueba que coincidan con los datos de la cuenta bancaria a la que pagarás."
+        },
+        {
+          "titulo": "Pide muestras o una inspección antes de saldar",
+          "texto": "Revisa una muestra o programa una inspección antes de liberar el pago final, y evita depender de un solo proveedor para toda la compra."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Importaciones de Colombia en julio de 2026: US$7.968,1 millones, +22,9% frente a julio de 2025",
+        "fuente": "DANE, vía Infobae, 21-09-2026"
+      },
+      {
+        "dato": "China representó el 30,3% del total importado en julio de 2026; las compras a China crecieron 32,6% frente a julio de 2025",
+        "fuente": "DANE, vía Infobae, 21-09-2026"
+      },
+      {
+        "dato": "Déficit comercial de julio de 2026: US$2.797,8 millones, frente a US$1.694,2 millones en julio de 2025",
+        "fuente": "DANE, vía Infobae, 21-09-2026"
+      },
+      {
+        "dato": "Principales productos importados desde China: vehículos para transporte de personas, vagones de ferrocarril o tranvía, maquinaria de excavación y motocicletas",
+        "fuente": "DANE, vía Infobae, 21-09-2026"
+      }
+    ],
+    "impacto": "Si cada vez más compradores importan desde China, verificar al proveedor y diversificar la compra y la ruta reduce el riesgo de quedar expuesto a un solo punto de falla. Son cifras de julio de 2026 y deben leerse como tal.",
+    "servicio": {
+      "nombre": "Sourcing y agencia de compras",
+      "ruta": "/servicios/sourcing",
+      "texto": "Con nuestro servicio de Sourcing y agencia de compras te ayudamos a identificar proveedores en China, verificarlos antes del primer pago y coordinar la inspección y la logística hasta tu destino."
+    },
+    "fuente": {
+      "medio": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/09/21/colombia-dispara-sus-compras-al-exterior-importaciones-crecieron-229-y-china-ya-concentra-el-303/"
+    },
+    "tema": "importacion",
+    "tituloSeo": "Colombia: China ya aporta el 30,3% de importaciones"
   }
 ]
