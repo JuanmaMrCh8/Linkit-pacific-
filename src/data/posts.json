@@ -676,5 +676,86 @@
     },
     "tema": "importacion",
     "tituloSeo": "Colombia: China ya aporta el 30,3% de importaciones"
+  },
+  {
+    "slug": "peru-agroexportaciones-1-9-por-ciento-depender-de-pocos-productos",
+    "titulo": "Las agroexportaciones de Perú crecen solo 1,9% hasta agosto, tras avanzar 21% y 20% en los dos años previos",
+    "tituloCorto": "Perú: las agroexportaciones crecen solo 1,9% hasta agosto",
+    "fecha": "2026-10-13",
+    "categoria": "Exportación",
+    "extracto": "Las agroexportaciones peruanas sumaron US$8.005 millones entre enero y agosto de 2026, apenas 1,9% más que un año antes. Qué enseña depender de pocos productos y de un solo mercado, y tres pasos para sumar un segundo producto o canal en China.",
+    "descripcionSeo": "Las agroexportaciones de Perú crecieron solo 1,9% hasta agosto de 2026. Qué enseña depender de pocos productos y cómo sumar un segundo canal en China.",
+    "palabrasClave": [
+      "agroexportaciones Perú",
+      "exportar a China",
+      "diversificar mercados",
+      "exportadores latinoamericanos",
+      "ADEX agroexportaciones 2026"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1789989472854-717199062a5f?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Cajas de cartón con nectarinas y ciruelas frescas listas para su venta"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1693942276719-8eb2b97ecce1?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Montón de paltas verdes, uno de los productos agroexportables de Perú"
+    },
+    "cuerpo": [
+      "Según datos de la Asociación de Exportadores (ADEX) reportados por Infobae el 8 de octubre de 2026, las agroexportaciones peruanas sumaron US$8.005 millones entre enero y agosto de este año, un 1,9% más que en el mismo periodo de 2025. Es un crecimiento muy inferior al de los dos años previos, cuando el sector había avanzado 21% y 20%.",
+      "El freno no es parejo. Las frutas, con US$4.561 millones, crecieron 16,1%, impulsadas por los arándanos (+47,9%), las uvas (+17,6%) y las paltas (+8,3%). En cambio, las legumbres bajaron 9,9% y las hortalizas y otros vegetales, 1,8%. Según el comité de café y cacao de ADEX, la producción de cacao cayó entre 15% y 30%.",
+      "Infobae también recoge una cifra sobre China: las compras de ese país de los productos agroexportados bajaron 8%. El artículo no precisa el periodo de comparación, así que conviene leerla como una referencia de contexto y no extrapolarla.",
+      "La lectura para un exportador latinoamericano es práctica: cuando el resultado depende de pocos productos y de un solo destino, un mal año en uno de ellos pesa en toda la facturación. Sumar un segundo producto o un segundo canal reduce esa exposición, y China, por su tamaño, es un mercado que vale la pena evaluar con método."
+    ],
+    "guia": {
+      "titulo": "Tres pasos para sumar un segundo producto o canal en China",
+      "items": [
+        {
+          "titulo": "Elige un producto complementario",
+          "texto": "Identifica un segundo producto de tu catálogo con demanda en China y con condiciones sanitarias y de registro que puedas cumplir, en lugar de apostar todo a uno solo."
+        },
+        {
+          "titulo": "Define un canal de entrada",
+          "texto": "Decide si entrarás con un distribuidor, una plataforma en línea o una relación directa con un comprador, y valida requisitos de registro y etiquetado antes de enviar."
+        },
+        {
+          "titulo": "Empieza con un envío piloto",
+          "texto": "Prueba con un volumen pequeño para medir tiempos, costos y aceptación antes de comprometer más producción."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Agroexportaciones de Perú, enero-agosto de 2026: US$8.005 millones, +1,9% frente al mismo periodo de 2025; en 2025 y 2024 habían crecido 21% y 20%",
+        "fuente": "ADEX, vía Infobae, 08-10-2026"
+      },
+      {
+        "dato": "Frutas: US$4.561 millones, +16,1%; arándanos +47,9%, uvas +17,6% y paltas +8,3%",
+        "fuente": "ADEX, vía Infobae, 08-10-2026"
+      },
+      {
+        "dato": "Legumbres −9,9%; hortalizas y otros vegetales −1,8%",
+        "fuente": "ADEX, vía Infobae, 08-10-2026"
+      },
+      {
+        "dato": "Producción de cacao: caída de entre 15% y 30%, según el comité de café y cacao de ADEX",
+        "fuente": "ADEX, vía Infobae, 08-10-2026"
+      },
+      {
+        "dato": "Compras de China de productos agroexportados: −8% (el artículo no precisa el periodo de comparación)",
+        "fuente": "ADEX, vía Infobae, 08-10-2026"
+      }
+    ],
+    "impacto": "Un exportador que depende de un solo producto o de un solo destino queda expuesto cuando el clima o la demanda cambian. Son cifras de enero a agosto de 2026 y de un gremio (ADEX); deben leerse como tal, sin extrapolarlas al resto del año.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Con nuestro servicio Growth Partner acompañamos a marcas latinoamericanas que quieren vender en China: inteligencia de mercado, registro, etiquetado y ejecución en canal."
+    },
+    "fuente": {
+      "medio": "Infobae",
+      "url": "https://www.infobae.com/peru/2026/10/08/negro-amanecer-para-las-agroexportaciones-peruanas-crecen-apenas-19-hasta-agosto-y-cacao-mango-y-esparragos-se-desploman/"
+    },
+    "tema": "exportacion",
+    "tituloSeo": "Perú: agroexportaciones crecen solo 1,9% hasta agosto"
   }
 ]
