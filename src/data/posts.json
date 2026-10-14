@@ -757,5 +757,86 @@
     },
     "tema": "exportacion",
     "tituloSeo": "Perú: agroexportaciones crecen solo 1,9% hasta agosto"
+  },
+  {
+    "slug": "eeuu-china-rebajan-aranceles-60000-millones-que-cambia-para-latam",
+    "titulo": "EE.UU. y China rebajan aranceles sobre US$60.000 millones y extienden la tregua hasta enero de 2027",
+    "tituloCorto": "EE.UU. y China rebajan aranceles y extienden la tregua",
+    "fecha": "2026-10-14",
+    "categoria": "Regulatorio",
+    "extracto": "Washington y Pekín publicaron listas recíprocas de productos con rebajas arancelarias por US$30.000 millones cada una y alargaron la tregua hasta el 10 de enero de 2027. Qué cambia para el importador latinoamericano y cómo revisar tu costo total.",
+    "descripcionSeo": "EE.UU. y China rebajan aranceles sobre US$60.000 millones y extienden la tregua hasta enero de 2027. Qué cambia para el importador latinoamericano.",
+    "palabrasClave": [
+      "aranceles EE.UU. China",
+      "tregua comercial 2027",
+      "importar desde China",
+      "costo total de importación",
+      "importadores latinoamericanos"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1673896493356-6684ede37a7d?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Puerto lleno de grúas de carga y contenedores"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1703226741497-6de4f67c6e11?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Buque de carga guiado por un remolcador junto a grúas rojas y pilas de contenedores"
+    },
+    "cuerpo": [
+      "Según Portafolio (28 de septiembre de 2026), Washington y Pekín publicaron listas recíprocas de productos con rebajas arancelarias: US$30.000 millones por cada parte, es decir, US$60.000 millones en total. Además, ambos países extendieron la tregua comercial hasta el 10 de enero de 2027; antes vencía el 10 de noviembre de 2026.",
+      "Del lado estadounidense, la rebaja alcanza 77 líneas arancelarias de productos chinos e incluye juguetes y electrodomésticos. China, por su parte, incorpora 1.619 líneas de productos de EE.UU., entre ellas carne de vacuno y de cerdo, aves, maíz, trigo y frutas. Según Portafolio, China no incluyó la principal partida de soja en grano.",
+      "La nota aclara que más del 90% de los bienes incluidos quedarán sin aranceles adicionales cuando ambos países completen sus trámites internos. Es decir, las rebajas todavía no están en vigor. Además, se creará un Consejo de Comercio bilateral y un grupo de trabajo agrícola, con una primera reunión prevista antes de que termine 2026.",
+      "Para un importador latinoamericano que compra juguetes, electrodomésticos o menaje a China, la noticia es una señal sobre el rumbo de la relación entre sus dos mayores socios, no un cambio inmediato en su costo. Conviene seguir cómo se implementa y revisar el costo total de cada compra con los aranceles que efectivamente apliquen en tu país de destino."
+    ],
+    "guia": {
+      "titulo": "Tres pasos para revisar tu costo cuando cambian los aranceles de terceros",
+      "items": [
+        {
+          "titulo": "Separa lo que es noticia de lo que está en vigor",
+          "texto": "Confirma con fuentes oficiales qué medidas ya se aplican. Las rebajas anunciadas por EE.UU. y China aún dependen de trámites internos y no deben darse por hechas en tu cotización."
+        },
+        {
+          "titulo": "Calcula tu costo total puesto en destino",
+          "texto": "Suma precio del producto, flete, seguro, aranceles e impuestos de tu país y gastos de desaduanamiento, y recalcúlalo cada vez que cambie alguno de esos componentes."
+        },
+        {
+          "titulo": "Pide cotizaciones con vigencia y condiciones claras",
+          "texto": "Acuerda con el proveedor moneda, plazos de pago y fecha límite de la cotización, para que un cambio de contexto no te sorprenda con la carga ya comprometida."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Rebajas arancelarias recíprocas: US$60.000 millones en total, US$30.000 millones por cada parte",
+        "fuente": "Portafolio, 28-09-2026 (Portafolio)"
+      },
+      {
+        "dato": "EE.UU. reduce 77 líneas arancelarias de productos chinos; China incorpora 1.619 líneas de productos estadounidenses",
+        "fuente": "Portafolio, 28-09-2026 (Portafolio)"
+      },
+      {
+        "dato": "Tregua comercial extendida hasta el 10-01-2027; antes vencía el 10-11-2026",
+        "fuente": "Portafolio, 28-09-2026 (Portafolio)"
+      },
+      {
+        "dato": "Más del 90% de los bienes incluidos quedarán sin aranceles adicionales cuando ambos países completen sus trámites internos",
+        "fuente": "Portafolio, 28-09-2026 (Portafolio)"
+      },
+      {
+        "dato": "China no incluyó la principal partida de soja en grano; se creará un Consejo de Comercio bilateral y un grupo de trabajo agrícola",
+        "fuente": "Portafolio, 28-09-2026 (Portafolio)"
+      }
+    ],
+    "impacto": "Las rebajas anunciadas aún no están en vigor y dependen de trámites internos de cada país. Para el importador latinoamericano, la señal es de contexto: conviene seguir la implementación y recalcular el costo total con los aranceles que realmente apliquen en su país.",
+    "servicio": {
+      "nombre": "Logística internacional y aduanas",
+      "ruta": "/servicios/logistica",
+      "texto": "Con nuestro servicio de Logística internacional y aduanas te ayudamos a calcular el costo total de tu importación y a planificar el despacho, para que los cambios en aranceles y reglas no te tomen por sorpresa."
+    },
+    "fuente": {
+      "medio": "Portafolio",
+      "url": "https://www.portafolio.co/internacional/china-y-ee-uu-recortan-aranceles-sobre-us-60-000-millones-y-extienden-la-tregua-comercial-hasta-enero-de-503396"
+    },
+    "tema": "aduanas",
+    "tituloSeo": "EE.UU. y China rebajan aranceles: qué cambia"
   }
 ]
