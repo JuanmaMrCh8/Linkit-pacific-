@@ -838,5 +838,86 @@
     },
     "tema": "aduanas",
     "tituloSeo": "EE.UU. y China rebajan aranceles: qué cambia"
+  },
+  {
+    "slug": "banano-ecuatoriano-china-12-millones-cajas-2026",
+    "titulo": "Banano ecuatoriano a China crece 11,84%: 12,14 millones de cajas entre enero y agosto de 2026",
+    "tituloCorto": "Banano ecuatoriano a China crece 11,84%",
+    "fecha": "2026-10-15",
+    "categoria": "Exportación",
+    "extracto": "Ecuador envió 12,14 millones de cajas de banano a China entre enero y agosto de 2026, un 11,84% más que un año antes. China ya es el sexto destino de la fruta: hay espacio para crecer, pero solo con registro y requisitos sanitarios al día.",
+    "descripcionSeo": "Ecuador exportó 12,14 millones de cajas de banano a China entre enero y agosto de 2026 (+11,84%). Qué significa para quien quiere vender en China.",
+    "palabrasClave": [
+      "banano Ecuador China",
+      "exportar banano a China",
+      "registro GACC",
+      "exportaciones Ecuador China 2026",
+      "entrada al mercado chino"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1762512216868-3e7dae3beee5?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Trabajadores cargando racimos de banano en un camión dentro de una plantación"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Contenedores de carga apilados en un buque amarrado en el muelle"
+    },
+    "cuerpo": [
+      "Según OnData, que cita a la Asociación de Exportadores de Banano del Ecuador (Acorbanec) y a la agencia Xinhua (1 de octubre de 2026), Ecuador envió 12,14 millones de cajas de banano a China entre enero y agosto de 2026. Es un 11,84% más que en el mismo periodo de 2025.",
+      "Aun así, China pesa poco en el total: representa el 4,30% de lo que Ecuador exporta de banano y es su sexto destino. En el acumulado del año, las exportaciones totales de la fruta suman 282,27 millones de cajas, con un alza de 9,64%. Es decir, el mercado chino crece más rápido que el promedio, pero parte de una base pequeña.",
+      "El contexto comercial también se mueve. Según AgroLatam, que cita al Banco Central del Ecuador (18 de agosto de 2026), en el primer semestre Ecuador exportó US$3.644 millones a China (+23%) e importó US$4.472 millones (+28%), con un déficit de US$828 millones. Esa misma nota recuerda que el camarón, con US$1.917 millones, es más de la mitad de lo vendido a ese país, y que la aduana china suspendió a varios exportadores por incumplimientos sanitarios: el 17 de agosto se levantó la suspensión de ocho y seis seguían inhabilitados.",
+      "Para un exportador latinoamericano, el mensaje es doble. La demanda china existe y hay margen para ganar participación, pero el acceso depende de cumplir el registro y los requisitos sanitarios de la aduana china: un incumplimiento en una planta puede frenar embarques. Linkit no controla las decisiones de la aduana china."
+    ],
+    "guia": {
+      "titulo": "Tres pasos para pasar de \"me interesa China\" a \"tengo un embarque\"",
+      "items": [
+        {
+          "titulo": "Verifica tu registro y requisitos antes de ofertar",
+          "texto": "Confirma que tu planta y tu producto cumplen el registro ante la aduana china (GACC) y los requisitos sanitarios. Sin ese paso, la mejor oferta comercial no se puede embarcar."
+        },
+        {
+          "titulo": "Define el canal y el comprador antes de producir para China",
+          "texto": "Decide si venderás a un importador, distribuidor o plataforma, y valida sus condiciones de pago, etiquetado en chino (GB) y logística de destino."
+        },
+        {
+          "titulo": "Empieza con un envío piloto y mide",
+          "texto": "Un primer embarque acotado permite comprobar tiempos, documentos y aceptación del producto antes de comprometer más volumen."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Banano ecuatoriano exportado a China, enero–agosto 2026: 12,14 millones de cajas, +11,84% interanual.",
+        "fuente": "OnData, citando a Acorbanec y Xinhua (1 de octubre de 2026)"
+      },
+      {
+        "dato": "Exportaciones totales de banano de Ecuador, enero–agosto 2026: 282,27 millones de cajas, +9,64%.",
+        "fuente": "OnData, citando a Acorbanec"
+      },
+      {
+        "dato": "China representa el 4,30% del banano exportado por Ecuador y es su sexto destino.",
+        "fuente": "OnData, citando a Acorbanec"
+      },
+      {
+        "dato": "Comercio Ecuador–China, primer semestre de 2026: exportaciones US$3.644 millones (+23%), importaciones US$4.472 millones (+28%), déficit US$828 millones.",
+        "fuente": "AgroLatam, citando al Banco Central del Ecuador (18 de agosto de 2026)"
+      },
+      {
+        "dato": "Camarón a China, primer semestre de 2026: US$1.917 millones, más de la mitad de lo vendido a ese país.",
+        "fuente": "AgroLatam, citando al Banco Central del Ecuador (18 de agosto de 2026)"
+      }
+    ],
+    "impacto": "China compra cada vez más banano ecuatoriano, pero con solo el 4,30% del total aún hay espacio para crecer; el riesgo está en el cumplimiento sanitario y de registro, no en la demanda.",
+    "servicio": {
+      "nombre": "Growth Partner",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Te acompañamos en el registro GACC, la inteligencia de mercado, la logística en China y la ejecución en canal para que tu primer embarque llegue y se venda."
+    },
+    "fuente": {
+      "medio": "OnData",
+      "url": "https://www.ondata.com.ec/banano-ecuatoriano-china-2026/"
+    },
+    "tema": "exportacion",
+    "tituloSeo": "Banano ecuatoriano a China: +11,84% en 2026"
   }
 ]
