@@ -919,5 +919,82 @@
     },
     "tema": "exportacion",
     "tituloSeo": "Banano ecuatoriano a China: +11,84% en 2026"
+  },
+  {
+    "slug": "brasil-importa-china-7-06-mil-millones-septiembre-2026",
+    "titulo": "Brasil importó US$7,06 mil millones de China en septiembre de 2026 mientras sus ventas a ese mercado bajaron a US$7,89 mil millones",
+    "tituloCorto": "Brasil compra más a China y le vende menos",
+    "fecha": "2026-10-16",
+    "categoria": "Importación",
+    "extracto": "Brasil importó US$7,06 mil millones de China en septiembre de 2026, frente a US$6,377 mil millones un año antes, mientras sus exportaciones a ese mercado bajaron de US$8,69 a US$7,89 mil millones. Qué enseña para el importador y el exportador latinoamericano.",
+    "descripcionSeo": "Brasil importó US$7,06 mil millones de China en septiembre de 2026 y exportó US$7,89 mil millones. Qué significa para importar desde China en Latinoamérica.",
+    "palabrasClave": [
+      "importar desde China",
+      "Brasil China comercio 2026",
+      "importaciones Latinoamérica",
+      "verificar proveedores China",
+      "dependencia de un solo producto"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1494412519320-aa613dfb7738?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Vista aérea de un patio de contenedores de carga en un puerto"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1606964212858-c215029db704?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Contenedores de carga rojos y azules apilados en una terminal"
+    },
+    "cuerpo": [
+      "Según CNN Brasil, que cita datos de la Secretaría de Comercio Exterior (Secex) del Ministerio de Desarrollo, Industria, Comercio y Servicios (MDIC) (6 de octubre de 2026), Brasil importó US$7,06 mil millones de China en septiembre de 2026, frente a US$6,377 mil millones en septiembre de 2025.",
+      "En sentido contrario, las exportaciones brasileñas a China fueron de US$7,89 mil millones, frente a US$8,69 mil millones un año antes. La carne bovina cayó 93,5% en septiembre por el agotamiento de la cuota china, y en 2025 China había comprado el 53% de la carne brasileña exportada.",
+      "Las cifras muestran cuánto depende de China el mayor mercado de la región: las compras crecen mientras las ventas se frenan. Para el importador latinoamericano, una demanda regional más fuerte puede significar más competencia por espacio y por plazos de entrega. Para el exportador, el caso de la carne muestra el riesgo de depender de un solo producto.",
+      "Linkit no controla cuotas ni aranceles, pero sí puede ayudarte a ordenar lo que depende de ti: proveedores verificados, planificación de la carga y alternativas si un canal se cierra."
+    ],
+    "guia": {
+      "titulo": "Tres decisiones para importar desde China cuando la demanda regional crece",
+      "items": [
+        {
+          "titulo": "Planifica la carga con anticipación",
+          "texto": "Pide la cotización con fecha límite de zarpe y confirma los plazos de producción y de entrega antes de comprometer el pedido."
+        },
+        {
+          "titulo": "Verifica y diversifica proveedores",
+          "texto": "Comprueba la fábrica antes del primer pago y mantén al menos un proveedor alternativo para los productos críticos."
+        },
+        {
+          "titulo": "No dependas de un solo producto o canal",
+          "texto": "El caso de la carne bovina muestra que una cuota agotada puede frenar casi por completo un flujo comercial; revisa qué parte de tu negocio depende de una sola fuente."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Importaciones de Brasil desde China en septiembre de 2026: US$7,06 mil millones, frente a US$6,377 mil millones en septiembre de 2025.",
+        "fuente": "Secex/MDIC, vía CNN Brasil (6 de octubre de 2026)"
+      },
+      {
+        "dato": "Exportaciones de Brasil a China en septiembre de 2026: US$7,89 mil millones, frente a US$8,69 mil millones un año antes.",
+        "fuente": "Secex/MDIC, vía CNN Brasil (6 de octubre de 2026)"
+      },
+      {
+        "dato": "Carne bovina brasileña a China: caída de 93,5% en septiembre por el agotamiento de la cuota china.",
+        "fuente": "CNN Brasil (6 de octubre de 2026)"
+      },
+      {
+        "dato": "En 2025, China compró el 53% de la carne brasileña exportada.",
+        "fuente": "CNN Brasil (6 de octubre de 2026)"
+      }
+    ],
+    "impacto": "Brasil le compra más a China que hace un año y le vende menos: el comercio con China premia a quien planifica y diversifica, y castiga a quien depende de un solo producto.",
+    "servicio": {
+      "nombre": "Sourcing y agencia de compras",
+      "ruta": "/servicios/sourcing",
+      "texto": "Con nuestro servicio de Sourcing y agencia de compras te ayudamos a identificar proveedores en China, verificarlos antes del primer pago y coordinar la inspección y la logística hasta tu destino."
+    },
+    "fuente": {
+      "medio": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/exportacoes-brasileiras-a-china-tem-queda-de-76-em-setembro/"
+    },
+    "tema": "importacion",
+    "tituloSeo": "Brasil importó US$7,06 mil millones de China"
   }
 ]
