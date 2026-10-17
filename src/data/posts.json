@@ -996,5 +996,82 @@
     },
     "tema": "importacion",
     "tituloSeo": "Brasil importó US$7,06 mil millones de China"
+  },
+  {
+    "slug": "peru-sunat-procedimiento-unico-preferencias-arancelarias-tratados",
+    "titulo": "Perú: la Sunat propone un procedimiento único para aplicar las preferencias arancelarias de los tratados comerciales",
+    "tituloCorto": "Sunat propone un procedimiento único de preferencias arancelarias",
+    "fecha": "2026-10-17",
+    "categoria": "Regulatorio",
+    "extracto": "La Sunat publicó para consulta un proyecto que unifica en un solo procedimiento las reglas para pedir rebajas de arancel al amparo de los tratados comerciales de Perú. Aún no está vigente: qué conviene revisar desde ahora si importas.",
+    "descripcionSeo": "La Sunat propone un procedimiento único para aplicar preferencias arancelarias de los tratados comerciales de Perú. Qué es, qué no cambia y qué revisar antes de importar.",
+    "palabrasClave": [
+      "Sunat preferencias arancelarias",
+      "importar a Perú",
+      "reglas de origen",
+      "aduanas Perú 2026",
+      "costo puesto en destino"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1759272548449-7b689a81c8fb?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Dos trabajadores con casco conversan sobre planos junto a contenedores de carga"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1790685570073-f034e63ed42d?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Trabajadores con chaleco reflectante en un patio de contenedores"
+    },
+    "cuerpo": [
+      "Según Infobae (14 de octubre de 2026), la aduana peruana publicó para consulta un proyecto de procedimiento, identificado como DESPA-PE.01.39, titulado «Aplicación de preferencias arancelarias al amparo de los acuerdos comerciales suscritos por el Perú». La propuesta se difundió con la Resolución de Superintendencia N.° 000198-2026/SUNAT.",
+      "El proyecto reemplazaría 19 procedimientos específicos, cada uno ligado a un acuerdo comercial distinto, por una sola regla para solicitar el beneficio. Según la nota, no crea nuevas preferencias arancelarias ni modifica los tratados: lo que ordena es cómo se pide la rebaja de arancel, con foco en las reglas de origen. Las preferencias pueden reducir el arancel o llevarlo a 0% cuando la mercancía cumple esas reglas.",
+      "Es importante distinguir el estado de la medida: se trata de un proyecto en consulta pública de 15 días calendario y su fecha de vigencia aún no está definida. Por eso no es una norma vigente ni cambia hoy las condiciones de una importación. Tampoco la nota detalla qué acuerdos ni qué porcentajes de rebaja abarca, así que no corresponde asumir cómo afectará a un producto concreto.",
+      "Linkit no define las reglas de la aduana ni garantiza que un producto califique a una preferencia. Lo que sí puedes hacer desde ahora es ordenar lo que depende de ti: confirmar la clasificación arancelaria de tu mercancía, revisar qué documentos de origen te entrega el proveedor y calcular el costo puesto en destino antes de comprar."
+    ],
+    "guia": {
+      "titulo": "Tres revisiones antes de importar mientras se define el nuevo procedimiento",
+      "items": [
+        {
+          "titulo": "Confirma la clasificación arancelaria",
+          "texto": "Pregunta a tu agente de aduanas cuál es la partida de tu producto y qué arancel general le corresponde, antes de dar por hecho cualquier rebaja."
+        },
+        {
+          "titulo": "Pide al proveedor los documentos de origen",
+          "texto": "Consulta con anticipación qué certificado o declaración de origen puede entregarte y verifica que los datos coincidan con los de la factura y la mercancía."
+        },
+        {
+          "titulo": "Calcula el costo con y sin preferencia",
+          "texto": "Cotiza el costo puesto en destino con el arancel general como base y trata cualquier rebaja como un posible ahorro, no como un hecho, hasta confirmar que tu producto cumple las reglas de origen."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Proyecto de procedimiento DESPA-PE.01.39 «Aplicación de preferencias arancelarias al amparo de los acuerdos comerciales suscritos por el Perú», difundido con la Resolución de Superintendencia N.° 000198-2026/SUNAT.",
+        "fuente": "Infobae (14 de octubre de 2026)"
+      },
+      {
+        "dato": "Reemplazaría 19 procedimientos específicos, cada uno ligado a un acuerdo comercial distinto.",
+        "fuente": "Infobae (14 de octubre de 2026)"
+      },
+      {
+        "dato": "No crea nuevas preferencias arancelarias ni modifica los tratados; las preferencias pueden reducir el arancel o llevarlo a 0% si la mercancía cumple las reglas de origen.",
+        "fuente": "Infobae (14 de octubre de 2026)"
+      },
+      {
+        "dato": "Consulta pública de 15 días calendario; la fecha de vigencia aún no está definida.",
+        "fuente": "Infobae (14 de octubre de 2026)"
+      }
+    ],
+    "impacto": "Un solo procedimiento podría ordenar cómo se pide la rebaja de arancel, pero todavía es un proyecto: conviene revisar clasificación y documentos de origen desde ahora, sin asumir un ahorro que aún no está confirmado.",
+    "servicio": {
+      "nombre": "Logística internacional y aduanas",
+      "ruta": "/servicios/logistica",
+      "texto": "Con nuestro servicio de Logística internacional y aduanas te ayudamos a clasificar correctamente tu producto, revisar la documentación y calcular el costo puesto en destino antes de comprar."
+    },
+    "fuente": {
+      "medio": "Infobae",
+      "url": "https://www.infobae.com/peru/2026/10/14/sunat-alista-reglas-unicas-para-que-importadores-accedan-a-rebajas-de-aranceles-afectara-envios-por-temu-o-aliexpress/"
+    },
+    "tema": "regulatorio",
+    "tituloSeo": "Sunat propone procedimiento único de aranceles"
   }
 ]
