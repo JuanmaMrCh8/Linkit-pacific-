@@ -1073,5 +1073,82 @@
     },
     "tema": "regulatorio",
     "tituloSeo": "Sunat propone procedimiento único de aranceles"
+  },
+  {
+    "slug": "china-comercio-5-billones-yuanes-septiembre-como-negociar-con-fabricas",
+    "titulo": "China supera los 5 billones de yuanes de comercio en un solo mes: qué cambia al negociar con fábricas",
+    "tituloCorto": "China supera 5 billones de yuanes de comercio en un mes",
+    "fecha": "2026-10-18",
+    "categoria": "Importación",
+    "extracto": "Las aduanas de China informaron que el comercio exterior de septiembre superó por primera vez los 5 billones de yuanes en un solo mes. Qué dicen las cifras y qué conviene cuidar al negociar con fábricas en un mercado que se mueve rápido.",
+    "descripcionSeo": "El comercio exterior de China superó los 5 billones de yuanes en septiembre de 2026. Qué dicen las cifras y qué cuidar al cotizar y negociar con fábricas.",
+    "palabrasClave": [
+      "comercio exterior de China",
+      "exportaciones de China septiembre 2026",
+      "negociar con fábricas en China",
+      "cotizar con vigencia",
+      "verificar proveedor"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Buque de carga junto a una grúa portuaria"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1647427060118-4911c9821b82?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Brazos robóticos naranjas en una línea de producción industrial"
+    },
+    "cuerpo": [
+      "Según datos de la Administración General de Aduanas de China difundidos por EFE y Xinhua el 14 de octubre de 2026, el comercio exterior del país sumó 5,16 billones de yuanes en septiembre, un 27,5% más que un año antes. Es la primera vez que el comercio mensual supera los 5 billones de yuanes.",
+      "Las exportaciones fueron de 3,03 billones de yuanes, un 29,6% más en términos interanuales; medidas en dólares, sumaron US$447.180 millones, con un alza de 36,3%. Las importaciones crecieron 24,6% en yuanes (2,13 billones) y 31% en dólares (US$313.650 millones). Los porcentajes en yuanes y en dólares difieren, por lo que conviene citar siempre la moneda.",
+      "La nota de EFE, que cita a Capital Economics, aclara que parte del aumento se explica por precios y no solo por volumen: el volumen de chips creció apenas 1%, mientras que las exportaciones de automóviles subieron 56,3% en volumen. Además, se trata de cifras de China en su conjunto: ninguna de las fuentes consultadas detalla el comercio con América Latina, así que no corresponde atribuirles un efecto regional concreto.",
+      "Linkit no controla los precios de fábrica ni la demanda global. Lo que sí puedes hacer es negociar con más orden: pide cotizaciones con fecha de vigencia, verifica que el proveedor sea una fábrica y no un intermediario, y deja margen en tu calendario para plazos de producción y de embarque."
+    ],
+    "guia": {
+      "titulo": "Tres cuidados al negociar con fábricas cuando el mercado se mueve rápido",
+      "items": [
+        {
+          "titulo": "Pide cotizaciones con fecha de vigencia",
+          "texto": "Una cotización sin fecha límite te expone a que las condiciones cambien entre la oferta y la orden de compra. Indica por escrito hasta cuándo se mantiene el precio y qué incluye."
+        },
+        {
+          "titulo": "Verifica al proveedor antes de pagar",
+          "texto": "Confirma licencia comercial, dirección de la planta y capacidad real, y solicita una inspección antes del embarque si el pedido es relevante."
+        },
+        {
+          "titulo": "Planifica plazos de producción y de flete",
+          "texto": "Acuerda fechas de entrega por escrito y reserva con anticipación el espacio de carga con tu agente logístico, sin asumir que los plazos de otros meses se repetirán."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Septiembre de 2026: exportaciones de China por 3,03 billones de yuanes (+29,6% interanual); en dólares, US$447.180 millones (+36,3%).",
+        "fuente": "Aduanas de China, vía EFE/Infobae (14 de octubre de 2026)"
+      },
+      {
+        "dato": "Importaciones de septiembre: 2,13 billones de yuanes (+24,6%); en dólares, US$313.650 millones (+31%).",
+        "fuente": "Aduanas de China, vía EFE/Infobae (14 de octubre de 2026)"
+      },
+      {
+        "dato": "Comercio total del mes: 5,16 billones de yuanes (+27,5%), la primera vez que supera los 5 billones en un solo mes.",
+        "fuente": "Xinhua / EFE (14 de octubre de 2026)"
+      },
+      {
+        "dato": "El volumen de chips creció solo 1%, por lo que el alza se explica sobre todo por precios; las exportaciones de automóviles subieron 56,3% en volumen.",
+        "fuente": "EFE/Infobae, citando a Capital Economics (14 de octubre de 2026)"
+      }
+    ],
+    "impacto": "Las cifras muestran un comercio chino muy activo, pero son datos generales de China y parte del alza es precio. Para quien importa, la señal práctica es cotizar con vigencia, verificar al proveedor y planificar plazos con margen.",
+    "servicio": {
+      "nombre": "Sourcing y agencia de compras",
+      "ruta": "/servicios/sourcing",
+      "texto": "Con nuestro servicio de Sourcing y agencia de compras te ayudamos a verificar proveedores, negociar con fábricas y coordinar inspección preembarque desde nuestras oficinas en China."
+    },
+    "fuente": {
+      "medio": "Infobae/EFE",
+      "url": "https://www.infobae.com/america/agencias/2026/10/14/las-exportaciones-chinas-crecen-el-296-interanual-en-septiembre-impulsadas-por-chips/"
+    },
+    "tema": "importacion",
+    "tituloSeo": "China supera 5 billones de yuanes en un mes"
   }
 ]
