@@ -1150,5 +1150,86 @@
     },
     "tema": "importacion",
     "tituloSeo": "China supera 5 billones de yuanes en un mes"
+  },
+  {
+    "slug": "chile-exportaciones-90-mil-millones-china-33-por-ciento-vender-a-china",
+    "titulo": "Chile supera por primera vez los US$90 mil millones en exportaciones y China concentra un tercio: qué aprende una marca que quiere vender allí",
+    "tituloCorto": "Chile exporta US$93.837 millones y 1 de cada 3 dólares va a China",
+    "fecha": "2026-10-19",
+    "categoria": "Exportación",
+    "extracto": "Entre enero y septiembre de 2026 Chile exportó US$93.837 millones y China fue el destino de un 33,1%. Qué dicen las cifras y cómo puede una marca latinoamericana prepararse para su primer embarque a China.",
+    "descripcionSeo": "Chile exportó US$93.837 millones entre enero y septiembre de 2026 y China compró el 33,1%. Qué dicen los datos y cómo preparar un primer embarque a China.",
+    "palabrasClave": [
+      "exportaciones de Chile 2026",
+      "vender a China",
+      "exportar a China desde Latinoamérica",
+      "registro GACC",
+      "primer embarque a China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1601311852860-1d8f42381551?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Buque portacontenedores azul y rojo navegando en el mar"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1684695749267-233af13276d0?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Almacén con pilas de cajas y mercadería lista para despacho"
+    },
+    "cuerpo": [
+      "Según datos de la Subsecretaría de Relaciones Económicas Internacionales (Subrei) difundidos por Diario Financiero el 15 de octubre de 2026, Chile exportó bienes por US$93.837 millones entre enero y septiembre, un 18,5% más que en el mismo período de 2025. Es la primera vez que las exportaciones chilenas superan los US$90 mil millones y el superávit comercial, de US$25.721 millones, es el mayor de su historia.",
+      "China es el principal destino: compró US$31.089 millones, el 33,1% del total, es decir, aproximadamente uno de cada tres dólares que exporta Chile. Le sigue Estados Unidos, con US$15.967 millones (17%). Entre los productos enviados a China figuran litio, hierro, molibdeno, metanol, oro, salmónidos refrigerados, carne bovina, jibias, avellanas y paltas.",
+      "El dato también tiene un lado menos conocido: la minería explica US$58.873 millones, el 62,7% del total, pero el número de empresas exportadoras llegó a 8.029, 232 más que un año antes. Los alimentos sumaron US$10.712 millones (+5,2%), un máximo histórico, y el salmón representa el 45% de ese monto. Es decir, Chile crece vendiendo más productos a más empresas, no solo cobre.",
+      "Conviene leer estas cifras con cuidado. Chile tiene un tratado de libre comercio con China y una escala exportadora que otros países de la región no tienen, así que sus resultados no garantizan lo mismo para una marca que recién empieza. Linkit no controla la demanda china ni las decisiones de la aduana: lo que sí hacemos es ayudarte a llegar preparado."
+    ],
+    "guia": {
+      "titulo": "Tres pasos para pasar de “me interesa China” a tu primer embarque",
+      "items": [
+        {
+          "titulo": "Confirma que tu producto puede entrar",
+          "texto": "Antes de buscar compradores, revisa los requisitos de acceso de tu categoría, incluido el registro del fabricante y la documentación sanitaria si exportas alimentos."
+        },
+        {
+          "titulo": "Adapta etiqueta y presentación al mercado",
+          "texto": "Un producto de consumo necesita etiquetado en chino conforme a la norma aplicable. Resolverlo antes del embarque evita retrasos y costos en destino."
+        },
+        {
+          "titulo": "Define el canal y el volumen del primer envío",
+          "texto": "Decide si venderás por distribuidor, retail o canales digitales, y empieza con un embarque que puedas sostener, con un plan de reposición por escrito."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Exportaciones de bienes de Chile, enero–septiembre de 2026: US$93.837 millones (+18,5%), la primera vez que superan los US$90 mil millones.",
+        "fuente": "Subrei, vía Diario Financiero (15 de octubre de 2026)"
+      },
+      {
+        "dato": "Superávit comercial del período: US$25.721 millones, el mayor de la historia.",
+        "fuente": "Subrei, vía Diario Financiero (15 de octubre de 2026)"
+      },
+      {
+        "dato": "China, principal destino: US$31.089 millones (33,1% del total); Estados Unidos, segundo: US$15.967 millones (17%).",
+        "fuente": "Subrei, vía Diario Financiero (15 de octubre de 2026)"
+      },
+      {
+        "dato": "Empresas exportadoras: 8.029, frente a 7.797 un año antes (232 más).",
+        "fuente": "Subrei, vía Diario Financiero (15 de octubre de 2026)"
+      },
+      {
+        "dato": "Minería: US$58.873 millones (62,7% del total). Alimentos: US$10.712 millones (+5,2%), con el salmón como 45% de ese monto.",
+        "fuente": "Subrei, vía Diario Financiero (15 de octubre de 2026)"
+      }
+    ],
+    "impacto": "Que un tercio de las exportaciones de un país vaya a China muestra la oportunidad, pero también la dependencia. Para una marca latinoamericana mediana, entrar a China exige cumplir registro, etiquetado y canal; las cifras de un país grande no garantizan resultados para un exportador nuevo.",
+    "servicio": {
+      "nombre": "Growth Partner: de tu marca a China",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Con nuestro servicio Growth Partner te acompañamos en inteligencia de mercado, registro GACC, etiquetado GB y ejecución en canal para que tu marca llegue a China con un plan claro desde nuestras oficinas en China y Ecuador."
+    },
+    "fuente": {
+      "medio": "Diario Financiero (datos de Subrei)",
+      "url": "https://www.df.cl/economia-y-politica/comercio-exterior/exportaciones-chilenas-superan-por-primera-vez-los-us-90-mil-millones"
+    },
+    "tema": "exportacion",
+    "tituloSeo": "Chile exporta US$93.837 millones: 1 de 3 va a China"
   }
 ]
