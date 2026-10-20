@@ -1231,5 +1231,86 @@
     },
     "tema": "exportacion",
     "tituloSeo": "Chile exporta US$93.837 millones: 1 de 3 va a China"
+  },
+  {
+    "slug": "hapag-lloyd-sale-vsa-msc-one-asia-sudamerica-flete-global-no-baja",
+    "titulo": "Hapag-Lloyd sale del acuerdo VSA y MSC y ONE sostienen el servicio entre Asia y la costa este de Sudamérica: por qué un flete global a la baja no garantiza el tuyo",
+    "tituloCorto": "Hapag-Lloyd sale del VSA: por qué el flete global a la baja no es tu flete",
+    "fecha": "2026-10-20",
+    "categoria": "Importación",
+    "extracto": "El índice Drewry bajó 2% hasta US$4.351 por contenedor de 40 pies, pero en la ruta de Asia a Sudamérica cambian los servicios: Hapag-Lloyd sale del acuerdo VSA y se anticipan 34 cancelaciones de zarpes. Qué preguntar antes de confirmar tu embarque.",
+    "descripcionSeo": "El índice Drewry bajó 2% a US$4.351 por contenedor, pero Hapag-Lloyd sale del acuerdo VSA y habrá cancelaciones de zarpes. Qué confirmar antes de embarcar.",
+    "palabrasClave": [
+      "flete marítimo China Sudamérica",
+      "Hapag-Lloyd VSA",
+      "Drewry WCI",
+      "cancelación de zarpes",
+      "importar desde China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1605745341112-85968b19335b?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Buque de carga azul y rojo navegando en el mar durante el día"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1759272840538-ae4b07214c71?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Contenedores apilados en un puerto concurrido al atardecer"
+    },
+    "cuerpo": [
+      "Según MundoMarítimo, que cita al índice Drewry, el World Container Index cayó 2% el 8 de octubre de 2026 y se ubicó en US$4.351 por contenedor de 40 pies. Parte de la baja se atribuye a la menor demanda durante la Semana Dorada en China. La nota recoge que la ruta Shanghái–Róterdam acumula trece semanas seguidas de descenso y que la ruta Shanghái–Los Ángeles bajó 3%, hasta US$7.624.",
+      "Sin embargo, esos números son referencias globales: la nota no da un dato para la ruta de Asia a Sudamérica. Y en esa ruta lo que cambia es la organización de los servicios. Hapag-Lloyd sale del acuerdo de intercambio de espacios VSA, y MSC y ONE mantendrán el servicio entre Asia y la costa este de Sudamérica, con buques adicionales de MSC, según el análisis de Lars Jensen citado por el medio.",
+      "A esto se suman las cancelaciones. Drewry prevé 34 cancelaciones de zarpes entre el 12 de octubre y el 15 de noviembre, sobre 713 salidas programadas (5%), y advierte que la congestión y los ajustes de redes pueden sostener tarifas altas en algunas rutas. Para un importador latinoamericano, la lectura práctica es que un índice global a la baja no asegura una tarifa más baja ni una fecha de zarpe estable en su corredor.",
+      "Conviene tomar estos datos con cautela: son de una sola semana y de rutas distintas a la tuya. Linkit no fija tarifas ni controla a las navieras; lo que sí hacemos es ayudarte a cotizar con vigencia y a planificar el zarpe con información de tu ruta real."
+    ],
+    "guia": {
+      "titulo": "Qué preguntar a tu agente de carga antes de confirmar un zarpe",
+      "items": [
+        {
+          "titulo": "¿Qué naviera y qué servicio llevan mi contenedor?",
+          "texto": "Pide que te confirmen por escrito la naviera y el servicio asignados, porque un cambio en los acuerdos de ruta puede modificar la salida o el tránsito previsto."
+        },
+        {
+          "titulo": "¿Hasta cuándo es válida la cotización?",
+          "texto": "Solicita una tarifa con fecha de vigencia y con el detalle de recargos aplicables, para no depender de lo que marque el índice global el día de la reserva."
+        },
+        {
+          "titulo": "¿Cuál es la fecha límite y qué pasa si cancelan el zarpe?",
+          "texto": "Acuerda con anticipación la fecha límite de entrega de carga y la alternativa si la salida se cancela, para que tu fábrica y tu almacén ajusten sus plazos."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Drewry World Container Index al 8 de octubre de 2026: US$4.351 por contenedor de 40 pies, 2% menos que la semana anterior.",
+        "fuente": "MundoMarítimo, citando a Drewry y Lars Jensen (13 de octubre de 2026)"
+      },
+      {
+        "dato": "Referencias globales: Shanghái–Róterdam US$3.337 (−2%, trece semanas seguidas de caída) y Shanghái–Los Ángeles US$7.624 (−3%). La nota no incluye un dato para Asia–Sudamérica.",
+        "fuente": "MundoMarítimo, citando a Drewry y Lars Jensen (13 de octubre de 2026)"
+      },
+      {
+        "dato": "Hapag-Lloyd sale del acuerdo VSA; MSC y ONE mantendrán el servicio entre Asia y la costa este de Sudamérica, con buques adicionales de MSC.",
+        "fuente": "MundoMarítimo, citando a Drewry y Lars Jensen (13 de octubre de 2026)"
+      },
+      {
+        "dato": "Cancelaciones previstas: 34 zarpes entre el 12 de octubre y el 15 de noviembre, sobre 713 programados (5%).",
+        "fuente": "MundoMarítimo, citando a Drewry (13 de octubre de 2026)"
+      },
+      {
+        "dato": "Drewry advierte que la congestión y los ajustes de redes pueden sostener tarifas altas en algunas rutas.",
+        "fuente": "MundoMarítimo, citando a Drewry (13 de octubre de 2026)"
+      }
+    ],
+    "impacto": "Quien supone que si el índice global baja su flete también baja puede equivocarse: las rutas a Latinoamérica se mueven con reglas propias, cambian los servicios y se cancelan salidas. Sin cotizar con vigencia y sin planificar el zarpe, el costo y el plazo se descontrolan.",
+    "servicio": {
+      "nombre": "Logística internacional y aduanas",
+      "ruta": "/servicios/logistica",
+      "texto": "Cotizamos el flete con vigencia, planificamos el zarpe y coordinamos la consolidación y la desaduanización de tu carga desde China hasta tu almacén en Latinoamérica."
+    },
+    "fuente": {
+      "medio": "MundoMarítimo (citando a Drewry, Xeneta y CTS)",
+      "url": "https://www.mundomaritimo.cl/noticias/friend/57504"
+    },
+    "tema": "logistica",
+    "tituloSeo": "Hapag-Lloyd sale del VSA: qué hacer con tu flete"
   }
 ]
