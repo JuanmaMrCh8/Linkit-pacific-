@@ -1312,5 +1312,82 @@
     },
     "tema": "logistica",
     "tituloSeo": "Hapag-Lloyd sale del VSA: qué hacer con tu flete"
+  },
+  {
+    "slug": "feria-de-canton-fase-2-que-visitar-del-23-al-27-de-octubre",
+    "titulo": "Feria de Cantón, fase 2 (23 al 27 de octubre): qué productos se ven y cómo preparar la visita para no perder el viaje",
+    "tituloCorto": "Feria de Cantón fase 2: qué ver y cómo prepararte",
+    "fecha": "2026-10-21",
+    "categoria": "Importación",
+    "extracto": "La fase 2 de la 140.ª Feria de Cantón, del 23 al 27 de octubre, reúne bienes de consumo, hogar, cerámica, muebles y materiales de construcción. Qué fase te corresponde y qué verificar antes de pagar un anticipo.",
+    "descripcionSeo": "Feria de Cantón 2026, fase 2 (23-27 oct): qué productos incluye, cuándo es la fase 3 y 4 cosas que verificar antes de pagar un anticipo a un proveedor.",
+    "palabrasClave": [
+      "Feria de Cantón fase 2",
+      "Feria de Cantón 2026",
+      "verificar proveedores en China",
+      "fábrica o trading",
+      "importar desde China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1771830938984-9d1d7a15219c?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Estantes con cerámica, vajilla de vidrio y objetos decorativos en un espacio de exhibición"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1761195689615-9469b65dac01?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Visitantes conversando junto a un stand en una feria comercial"
+    },
+    "cuerpo": [
+      "La 140.ª Feria de Cantón abrió el 15 de octubre de 2026, con la presencia del primer ministro Li Qiang y una carta de felicitación del presidente Xi Jinping, según informó CGTN en español. La feria se organiza por fases según la categoría de producto, y la segunda, del 23 al 27 de octubre, reúne bienes de consumo, hogar, cerámica, muebles y materiales de construcción, de acuerdo con la guía de Sino Business Partner.",
+      "La tercera fase, del 31 de octubre al 4 de noviembre, se dedica a juguetes, textiles, calzado, artículos de oficina y alimentos. Por eso la primera pregunta útil no es si ir a la feria, sino a cuál fase: quien llega a la fase equivocada no encuentra a los proveedores de su producto y pierde días de viaje. Conviene confirmar fechas y categorías con los organizadores antes de reservar.",
+      "La escala también importa. Antes de la apertura, Infobae y PR Newswire informaron de más de 220.000 compradores extranjeros preinscritos, de 197 países y regiones, y de más de 32.000 expositores. Aún no hay cifras de asistencia real. Con tantos compradores frente a los mismos proveedores, la diferencia la hace llegar con una lista corta de empresas preseleccionadas y con preguntas preparadas.",
+      "Después de la feria viene el riesgo menos visible: cerrar con un intermediario que se presentó como fábrica, o pagar un anticipo a un proveedor que conociste en el stand sin verificarlo. Linkit no garantiza resultados de negociación con terceros, pero sí puede ayudarte a preseleccionar y verificar proveedores antes y después de tu visita."
+    ],
+    "guia": {
+      "titulo": "4 cosas a verificar antes de pagar el anticipo a un proveedor conocido en la feria",
+      "items": [
+        {
+          "titulo": "¿Es fábrica o es un trading?",
+          "texto": "Pide la licencia comercial y comprueba que el nombre de la empresa del contrato sea el mismo que el de quien fabrica, y pregunta qué procesos hace en planta y cuáles terceriza."
+        },
+        {
+          "titulo": "¿Coincide la muestra con lo cotizado?",
+          "texto": "Deja por escrito las especificaciones, materiales y empaque de la muestra que viste en el stand y exige que la producción en serie se ajuste a ese documento."
+        },
+        {
+          "titulo": "¿La cotización tiene vigencia y condiciones claras?",
+          "texto": "Confirma por escrito la fecha de validez de la oferta, la cantidad mínima, el plazo de producción y los términos de entrega, para que lo hablado en el stand quede en el contrato."
+        },
+        {
+          "titulo": "¿Quién revisa la mercancía antes del embarque?",
+          "texto": "Acuerda una inspección preembarque independiente antes de pagar el saldo, para comparar lo producido con lo pactado."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "La 140.ª Feria de Cantón abrió el 15 de octubre de 2026 con la intervención del primer ministro Li Qiang y una carta de felicitación de Xi Jinping.",
+        "fuente": "CGTN en español, 15 de octubre de 2026"
+      },
+      {
+        "dato": "Fase 2: 23 al 27 de octubre (bienes de consumo, hogar, cerámica, muebles y materiales de construcción). Fase 3: 31 de octubre al 4 de noviembre (juguetes, textiles, calzado, oficina y alimentos).",
+        "fuente": "Sino Business Partner, guía Canton Fair 2026"
+      },
+      {
+        "dato": "Más de 220.000 compradores extranjeros preinscritos, de 197 países y regiones, y más de 32.000 expositores antes de la apertura.",
+        "fuente": "Infobae / PR Newswire, 22 de septiembre de 2026"
+      }
+    ],
+    "impacto": "Ir a la fase equivocada, o llegar sin proveedores preseleccionados, hace perder el viaje; y pagar un anticipo sin verificar si el proveedor es fábrica o intermediario traslada el riesgo al después de la feria.",
+    "servicio": {
+      "nombre": "Acompañamiento en ferias y verificación de proveedores",
+      "ruta": "/servicios/ferias",
+      "texto": "Desde nuestras oficinas en China preseleccionamos y verificamos proveedores antes y después de la feria: visita a planta, documentos, muestras e inspección preembarque."
+    },
+    "fuente": {
+      "medio": "CGTN en español",
+      "url": "https://espanol.cgtn.com/2026/10/15/ARTI1791946094459790"
+    },
+    "tema": "ferias",
+    "tituloSeo": "Feria de Cantón fase 2: guía para tu visita"
   }
 ]
