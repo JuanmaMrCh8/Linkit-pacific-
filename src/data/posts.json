@@ -1389,5 +1389,82 @@
     },
     "tema": "ferias",
     "tituloSeo": "Feria de Cantón fase 2: guía para tu visita"
+  },
+  {
+    "slug": "cepal-exportaciones-latam-20-por-ciento-2026-china-19-por-ciento",
+    "titulo": "CEPAL: las exportaciones de América Latina crecerían 20% en 2026 y las dirigidas a China, 19%: qué significa para tu categoría",
+    "tituloCorto": "CEPAL: exportaciones de LatAm +20% y China +19%",
+    "fecha": "2026-10-22",
+    "categoria": "Exportación",
+    "extracto": "La CEPAL proyecta que las exportaciones de bienes de la región crecerán 20% en 2026 y las dirigidas a China 19%. Parte del alza viene de precios de minerales y metales, no de todas las categorías: cómo saber si la tuya crece.",
+    "descripcionSeo": "La CEPAL proyecta que las exportaciones de bienes de América Latina crecerán 20% en 2026 y las dirigidas a China 19%. Cómo saber si tu categoría crece.",
+    "palabrasClave": [
+      "CEPAL exportaciones 2026",
+      "exportar a China desde Latinoamérica",
+      "comercio exterior América Latina",
+      "diversificar mercados de exportación",
+      "Growth Partner China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1690897606066-0aa88b849203?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Mina a cielo abierto con una montaña al fondo, un tipo de actividad vinculada a los precios de minerales y metales"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1791533958626-08dbd3ef4722?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Apilador de contenedores levantando un contenedor amarillo sobre un camión en una terminal portuaria"
+    },
+    "cuerpo": [
+      "El informe «Perspectivas del Comercio Internacional de América Latina y el Caribe, 2026», de la CEPAL, proyecta que el valor de las exportaciones regionales de bienes crecerá 20% este año, según informó Infobae a partir de EFE el 15 de octubre de 2026. Del total, 11 puntos corresponden a precios y 9 a volumen.",
+      "Por destino, la CEPAL estima que las exportaciones hacia Asia sin China crecerían 32%, hacia Estados Unidos 24%, hacia la Unión Europea 20% y hacia China 19%. Es decir, China sigue creciendo, pero entre los destinos citados es el que menos sube. Por país, Perú (30%), México (26%) y Bolivia (23%) encabezan las proyecciones; 28 de los 33 países de la región aumentarían sus ventas y 16 lo harían a dos dígitos.",
+      "Hay un matiz que conviene leer con cuidado: los precios de minerales y metales subirían 31,6%, de modo que una parte importante del crecimiento no refleja la evolución de todas las categorías por igual. Un exportador de alimentos, flores o manufactura no debería asumir que el mismo viento sopla a favor de su producto. Además, se trata de una proyección anual de la CEPAL, no de un dato cerrado, y el informe no desglosa qué productos se envían a China.",
+      "La lectura práctica es de estrategia: decidir si China debe ser uno de varios destinos y con qué canal. Linkit no controla los precios internacionales ni la demanda, pero como Growth Partner puede ayudar a una marca latinoamericana a evaluar su categoría, ordenar el registro y el etiquetado, y ejecutar en canal."
+    ],
+    "guia": {
+      "titulo": "3 preguntas para saber si tu categoría está entre las que crecen",
+      "items": [
+        {
+          "titulo": "¿Tu crecimiento viene de volumen o de precio?",
+          "texto": "Separa cuánto de tus ventas al exterior aumentó por más unidades vendidas y cuánto por un mejor precio; según la CEPAL, en el conjunto regional 11 puntos del alza son precio y 9 son volumen."
+        },
+        {
+          "titulo": "¿Qué destinos crecen más para tu categoría?",
+          "texto": "El promedio regional no es tu mercado: compara China con otros destinos antes de asignar tiempo y presupuesto, ya que la CEPAL proyecta 19% para China frente a 32% para Asia sin China."
+        },
+        {
+          "titulo": "¿Tu producto está listo para entrar y sostenerse en China?",
+          "texto": "Revisa registro, etiquetado y canal de venta antes de hablar de volúmenes; un buen dato regional no reemplaza esa preparación."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Las exportaciones de bienes de América Latina y el Caribe crecerían 20% en valor en 2026 (11% por precios y 9% por volumen).",
+        "fuente": "CEPAL, vía Infobae/EFE, 15 de octubre de 2026"
+      },
+      {
+        "dato": "Por destino: Asia sin China +32%, Estados Unidos +24%, Unión Europea +20% y China +19%.",
+        "fuente": "CEPAL, vía Infobae/EFE, 15 de octubre de 2026"
+      },
+      {
+        "dato": "Los precios de minerales y metales subirían 31,6%. Por país: Perú +30%, México +26% y Bolivia +23%; 28 de 33 países aumentarían sus exportaciones y 16 a dos dígitos.",
+        "fuente": "CEPAL, vía Infobae/EFE, 15 de octubre de 2026"
+      },
+      {
+        "dato": "En el primer semestre de 2026, las exportaciones de bienes y servicios crecieron 18% y las importaciones 13%.",
+        "fuente": "CEPAL, vía Infobae/EFE, 15 de octubre de 2026"
+      }
+    ],
+    "impacto": "Que China crezca 19% no significa que tu categoría crezca igual: parte del alza regional viene de precios de minerales y metales, así que el exportador de producto terminado debe comparar destinos y preparar su entrada antes de apostar por un mercado.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China para marcas latinoamericanas",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Te ayudamos a evaluar tu categoría, ordenar el registro y el etiquetado, y ejecutar en canal en China, con equipo en nuestras oficinas de China y Ecuador."
+    },
+    "fuente": {
+      "medio": "Infobae / EFE (informe de la CEPAL)",
+      "url": "https://www.infobae.com/america/agencias/2026/10/15/el-comercio-exterior-de-latinoamerica-crecera-un-20-en-2026-segun-la-cepal/"
+    },
+    "tema": "exportacion",
+    "tituloSeo": "CEPAL: exportaciones de LatAm +20% en 2026"
   }
 ]
