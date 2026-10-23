@@ -1466,5 +1466,82 @@
     },
     "tema": "exportacion",
     "tituloSeo": "CEPAL: exportaciones de LatAm +20% en 2026"
+  },
+  {
+    "slug": "peru-exportaciones-no-tradicionales-3-1-por-ciento-china-46-vs-6-5",
+    "titulo": "Perú exporta US$74.123 millones hasta agosto, pero las no tradicionales crecen solo 3,1%: 46% vs. 6,5% de lo que China compra según el tipo de producto",
+    "tituloCorto": "Perú: exportaciones +34,3%, no tradicionales solo +3,1%",
+    "fecha": "2026-10-23",
+    "categoria": "Exportación",
+    "extracto": "Las exportaciones de Perú suman US$74.123 millones entre enero y agosto de 2026 (+34,3%), pero casi todo el alza viene de la minería. Las no tradicionales crecen apenas 3,1% y China compra 46% de las tradicionales frente a 6,5% de las no tradicionales.",
+    "descripcionSeo": "Perú exportó US$74.123 millones hasta agosto de 2026 (+34,3%), pero las no tradicionales crecen solo 3,1%. Qué significa para vender producto de marca en China.",
+    "palabrasClave": [
+      "exportaciones de Perú 2026",
+      "exportaciones no tradicionales Perú",
+      "vender a China desde Perú",
+      "registro GACC",
+      "etiquetado GB China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1616694906857-2c938fe630bf?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Mina a cielo abierto junto a un lago bajo un cielo azul, imagen de la minería que impulsa las exportaciones tradicionales"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1791976944941-9bb298456679?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Apilador frontal junto a pilas de contenedores de colores en un puerto"
+    },
+    "cuerpo": [
+      "Según la asociación de exportadores ADEX, difundida por EFE e Infobae en octubre de 2026, las exportaciones de Perú sumaron US$74.123 millones entre enero y agosto, un 34,3% más que los US$55.183 millones del mismo período de 2025. El grueso del aumento proviene de las exportaciones tradicionales, que alcanzaron US$59.380 millones (+45,2%) y representan 80,1% del total; solo la minería suma US$53.898 millones, con un alza de 50,6%.",
+      "Las exportaciones no tradicionales, donde se ubican los productos con valor agregado, llegaron a US$14.743 millones y crecieron apenas 3,1%. En la agroindustria, el avance fue de 1,8% en valor y la cifra en volumen cayó 2,3%. Es decir, el dinamismo del conjunto no se reparte de forma pareja entre los tipos de producto.",
+      "El destino también cambia según la categoría: ADEX indica que China recibe 46% de las exportaciones tradicionales, pero solo 6,5% de las no tradicionales. La lectura prudente es que, en estos datos, China aparece mucho más como comprador de materias primas que de producto terminado. La fuente no informa el monto en dólares de las ventas a China ni detalla por producto, por lo que no conviene extrapolar más allá de esas proporciones.",
+      "Para una marca que exporta producto terminado, entonces, un buen dato nacional no basta: entrar a China exige registro, etiquetado y canal de venta. Linkit no controla los precios internacionales ni la demanda, pero como Growth Partner acompaña a marcas latinoamericanas en ese recorrido desde sus oficinas en China y Ecuador."
+    ],
+    "guia": {
+      "titulo": "Qué necesita un producto de marca para entrar a China",
+      "items": [
+        {
+          "titulo": "Registro y requisitos sanitarios o de importación",
+          "texto": "Confirma qué registro exige tu categoría para ingresar a China, incluido el registro GACC cuando corresponda, antes de planificar volúmenes o fechas de embarque."
+        },
+        {
+          "titulo": "Etiquetado conforme a la norma china",
+          "texto": "El empaque debe cumplir el etiquetado GB; revisarlo al final del proceso suele obligar a reprocesar producto, así que conviene validarlo desde el diseño."
+        },
+        {
+          "titulo": "Canal y demanda para tu categoría",
+          "texto": "Define si venderás por plataformas como WeChat, Tmall, Taobao o RED, o por retail, y valida la demanda de tu producto antes de comprometer inventario."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Las exportaciones de Perú sumaron US$74.123 millones entre enero y agosto de 2026, 34,3% más que los US$55.183 millones del mismo período de 2025.",
+        "fuente": "ADEX, vía EFE/Infobae, 7 de octubre de 2026"
+      },
+      {
+        "dato": "Las exportaciones tradicionales alcanzaron US$59.380 millones (+45,2%) y son 80,1% del total; la minería suma US$53.898 millones (+50,6%).",
+        "fuente": "ADEX, vía EFE/Infobae, 7 de octubre de 2026"
+      },
+      {
+        "dato": "Las exportaciones no tradicionales llegaron a US$14.743 millones (+3,1%); la agroindustria creció 1,8% en valor y cayó 2,3% en volumen.",
+        "fuente": "ADEX, vía EFE/Infobae, 7 de octubre de 2026"
+      },
+      {
+        "dato": "China es el destino de 46% de las exportaciones tradicionales y de 6,5% de las no tradicionales.",
+        "fuente": "ADEX, vía EFE/Infobae, 7 de octubre de 2026"
+      }
+    ],
+    "impacto": "Que las exportaciones totales de Perú crezcan 34,3% no significa que el producto de marca las siga: el alza se concentra en minería, y las no tradicionales avanzan 3,1%. Quien venda producto terminado debe preparar registro, etiquetado y canal para China en lugar de apoyarse en el promedio nacional.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China para marcas latinoamericanas",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Te ayudamos a ordenar el registro GACC y el etiquetado GB, y a ejecutar en canal en China, con equipo en nuestras oficinas de China y Ecuador."
+    },
+    "fuente": {
+      "medio": "Infobae / EFE (datos de ADEX)",
+      "url": "https://www.infobae.com/america/agencias/2026/10/07/las-exportaciones-de-peru-sumaron-74123-millones-de-dolares-entre-enero-y-agosto-de-2026/"
+    },
+    "tema": "exportacion",
+    "tituloSeo": "Perú exporta US$74.123 M y las no tradicionales +3,1%"
   }
 ]
