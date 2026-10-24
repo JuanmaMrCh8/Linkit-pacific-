@@ -1,7 +1,7 @@
 import React from 'react';
 
-// Símbolo oficial de Linkit Pacific (degradado verde #00D26A → morado #6236FF),
-// exportado del archivo de marca y guardado en public/logo-mark.svg.
+// Símbolo oficial de Linkit Pacific con puntos (degradado verde #00D26A → morado #6236FF),
+// exportado del archivo de marca (versión con puntos, oct-2026) y guardado en public/logo-mark.svg.
 export function Logo({ className = "w-10 h-10" }: { className?: string; color?: string }) {
   return (
     <img
