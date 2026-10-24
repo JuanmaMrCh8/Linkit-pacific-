@@ -1543,5 +1543,74 @@
     },
     "tema": "exportacion",
     "tituloSeo": "Perú exporta US$74.123 M y las no tradicionales +3,1%"
+  },
+  {
+    "slug": "china-pib-tercer-trimestre-4-5-por-ciento-que-revisar-con-proveedor",
+    "titulo": "El PIB de China crece 4,5% interanual en el tercer trimestre: qué revisar con tu proveedor antes de la próxima orden",
+    "tituloCorto": "PIB de China +4,5% en el tercer trimestre",
+    "fecha": "2026-10-24",
+    "categoria": "Importación",
+    "extracto": "La economía de China creció 1,2% entre julio y septiembre frente al trimestre anterior y 4,5% interanual, por encima de lo previsto. Qué dice el dato y qué conviene cerrar con tu proveedor antes de hacer la próxima orden.",
+    "descripcionSeo": "El PIB de China creció 4,5% interanual y 1,2% trimestral en el tercer trimestre de 2026, por encima de lo previsto. Qué revisar con tu proveedor antes de ordenar.",
+    "palabrasClave": [
+      "PIB de China tercer trimestre 2026",
+      "economía de China 2026",
+      "comprar en China",
+      "cotizar con vigencia",
+      "inspección preembarque"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1734357310900-4b513a3a5ae0?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Interior de una fábrica en China con cajas apiladas y maquinaria"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1742281694879-8769f644bb07?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Trabajadora revisando materiales en una planta de producción"
+    },
+    "cuerpo": [
+      "Según datos difundidos por EFE e Infobae el 19 de octubre de 2026, la economía de China creció 1,2% entre julio y septiembre frente al trimestre anterior, tres décimas más que en el segundo trimestre y por encima del 1,1% que esperaban los analistas. En términos interanuales el avance fue de 4,5%, frente a 4,3% del trimestre previo y a una previsión de 4,4%, de acuerdo con FXStreet.",
+      "Es un dato del conjunto de la economía china: no desglosa sectores ni informa efectos sobre América Latina ni sobre precios. Las fuentes tampoco incluyen cifras acumuladas de enero a septiembre, ventas minoristas ni producción industrial, por lo que no conviene extraer conclusiones sobre productos concretos.",
+      "Aun así, para quien compra en China la lectura prudente es operativa. Cuando una economía acelera, las fábricas tienden a llenar su capacidad y pueden priorizar pedidos grandes o de clientes recurrentes. Si ese fuera el caso de tu proveedor, una orden cotizada tarde o sin fecha de entrega cerrada podría enfrentar plazos más largos. Depende del producto y del proveedor: no es una regla general.",
+      "Linkit no controla la capacidad de las fábricas ni la evolución de la economía china. Lo que sí hace, desde sus oficinas en China y Ecuador, es ayudarte a verificar proveedores, programar la producción y coordinar la inspección antes del embarque."
+    ],
+    "guia": {
+      "titulo": "Tres cosas que revisar con tu proveedor cuando la demanda sube",
+      "items": [
+        {
+          "titulo": "Vigencia de la cotización",
+          "texto": "Pide que la cotización indique por escrito hasta cuándo se mantiene y qué incluye, para no depender de condiciones que pueden cambiar entre la oferta y la orden de compra."
+        },
+        {
+          "titulo": "Calendario de producción y fecha de entrega de fábrica",
+          "texto": "No cierres solo el precio: acuerda por escrito la fecha en que la mercadería estará lista y confirma con el proveedor su disponibilidad de capacidad para tu pedido."
+        },
+        {
+          "titulo": "Fecha de inspección preembarque",
+          "texto": "Programa la inspección con anticipación para que coincida con el fin de la producción y deje margen antes de reservar el espacio de carga."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "PIB de China en el tercer trimestre de 2026: +1,2% frente al trimestre anterior, tres décimas más que en el segundo trimestre; el consenso de analistas esperaba +1,1%.",
+        "fuente": "EFE, vía Infobae (19 de octubre de 2026)"
+      },
+      {
+        "dato": "PIB interanual: +4,5% en el tercer trimestre, frente a +4,3% del trimestre anterior y a una previsión de +4,4%.",
+        "fuente": "EFE, vía Infobae; FXStreet (19 de octubre de 2026)"
+      }
+    ],
+    "impacto": "El dato muestra una economía china que acelera, pero es un indicador general: no mide precios ni plazos de fábrica ni efectos en América Latina. Para quien importa, la señal práctica es cerrar por escrito la vigencia de la cotización, la fecha de entrega y la inspección antes de ordenar.",
+    "servicio": {
+      "nombre": "Sourcing y agencia de compras",
+      "ruta": "/servicios/sourcing",
+      "texto": "Con nuestro servicio de Sourcing y agencia de compras te ayudamos a verificar proveedores, programar la producción y coordinar la inspección preembarque desde nuestras oficinas en China."
+    },
+    "fuente": {
+      "medio": "Infobae/EFE",
+      "url": "https://www.infobae.com/america/agencias/2026/10/19/el-pib-chino-supera-pronosticos-al-subir-el-12-intertrimestral-entre-julio-y-septiembre/"
+    },
+    "tema": "importacion",
+    "tituloSeo": "PIB de China crece 4,5% en el tercer trimestre"
   }
 ]
