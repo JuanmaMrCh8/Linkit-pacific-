@@ -1612,5 +1612,78 @@
     },
     "tema": "importacion",
     "tituloSeo": "PIB de China crece 4,5% en el tercer trimestre"
+  },
+  {
+    "slug": "fletes-wci-sube-3-por-ciento-shanghai-fiabilidad-10-por-ciento-plazo",
+    "titulo": "Fletes: el WCI sube 3% y en Shanghái la fiabilidad de itinerarios cae de 55% a 10%: cómo proteger tu plazo de entrega",
+    "tituloCorto": "WCI +3% y congestión en Shanghái",
+    "fecha": "2026-10-25",
+    "categoria": "Importación",
+    "extracto": "Según Drewry, el índice mundial de contenedores subió 3% en la semana al 15 de octubre y el puerto de Shanghái pasó de 1,6 a 3,9 días de congestión en atraque, con una fiabilidad de itinerarios de 10%. Qué conviene pedir a tu agente de carga para no perder el plazo.",
+    "descripcionSeo": "El WCI de Drewry subió 3% y en Shanghái la fiabilidad de itinerarios cayó de 55% a 10%. Qué pedir a tu agente de carga para proteger el plazo de entrega.",
+    "palabrasClave": [
+      "World Container Index Drewry",
+      "congestión puerto de Shanghái",
+      "fiabilidad de itinerarios",
+      "flete marítimo desde China",
+      "plazo de entrega importación"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1741792003907-11e3bdc2a180?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Buque portacontenedores cargado con contenedores apilados"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1595587637401-83ff822bd63e?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Terminal de contenedores con un buque atracado y grúas"
+    },
+    "cuerpo": [
+      "Según Drewry, citada por MundoMarítimo en su edición del 19 de octubre de 2026, el World Container Index (WCI) subió 3% en la semana al 15 de octubre. En paralelo, la consultora advierte que en el puerto de Shanghái la congestión en los sitios de atraque pasó de aproximadamente 1,6 a 3,9 días y que la fiabilidad de itinerarios cayó de 55% a 10%.",
+      "Conviene leer el dato con cuidado: el WCI es un índice global y las cifras de Shanghái corresponden al puerto de origen. La nota no ofrece valores para la ruta Asia–Sudamérica, por lo que no es posible afirmar que el alza o la congestión se trasladen en la misma medida a un embarque con destino a Latinoamérica.",
+      "Aun así, la lectura útil para un importador es operativa. Un contenedor que espera más días en el puerto de origen puede perder el zarpe previsto, y la fecha de entrega prometida a tu cliente final se mueve. Drewry prevé estabilidad tarifaria para la semana siguiente, pero señala que la fiabilidad de itinerarios y la congestión portuaria probablemente seguirán siendo desafíos importantes.",
+      "Linkit no fija tarifas ni controla a las navieras ni la congestión de los puertos. Lo que sí hace, desde sus oficinas en China y Ecuador, es planificar el zarpe, pedir cotizaciones de flete con vigencia y dar seguimiento a la carga para que el plazo de tu pedido incluya un margen realista."
+    ],
+    "guia": {
+      "titulo": "Tres cosas que pedir a tu agente de carga cuando el puerto de origen está congestionado",
+      "items": [
+        {
+          "titulo": "Fecha límite de entrega a puerto y fecha estimada de zarpe",
+          "texto": "Pide por escrito hasta cuándo debe llegar la carga al puerto y cuál es el zarpe previsto, para que la producción y la inspección terminen con margen antes de esa fecha."
+        },
+        {
+          "titulo": "Vigencia de la cotización de flete",
+          "texto": "Solicita que la cotización indique hasta cuándo se mantiene y qué incluye, en lugar de cerrar tu costo de importación con una tarifa que puede cambiar antes de reservar."
+        },
+        {
+          "titulo": "Naviera, servicio y plan alternativo",
+          "texto": "Confirma en qué naviera y servicio viajará la carga y qué opciones existen si el zarpe se retrasa, para decidir con tiempo y no cuando el buque ya salió."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "World Container Index de Drewry: subió 3% en la semana al 15 de octubre de 2026.",
+        "fuente": "Drewry, vía MundoMarítimo (19 de octubre de 2026)"
+      },
+      {
+        "dato": "Puerto de Shanghái: la congestión en los sitios de atraque pasó de aproximadamente 1,6 a 3,9 días y la fiabilidad de itinerarios cayó de 55% a 10%.",
+        "fuente": "Drewry, vía MundoMarítimo (19 de octubre de 2026)"
+      },
+      {
+        "dato": "Drewry prevé estabilidad tarifaria durante la semana siguiente, advierte por la mayor capacidad en Asia–Europa y por dudas sobre la implementación de nuevas tarifas FAK, y estima que la fiabilidad de itinerarios y la congestión seguirán siendo desafíos importantes.",
+        "fuente": "Drewry, vía MundoMarítimo (19 de octubre de 2026)"
+      }
+    ],
+    "impacto": "El alza del WCI es global y la congestión de Shanghái es un dato del puerto de origen: ninguno mide el costo específico de tu ruta hacia Latinoamérica. Para quien importa, la señal práctica es sumar a su plazo la espera posible en puerto y cerrar por escrito la fecha de entrega a puerto, la vigencia de la cotización y el plan alternativo.",
+    "servicio": {
+      "nombre": "Logística internacional y aduanas",
+      "ruta": "/servicios/logistica",
+      "texto": "Con nuestro servicio de Logística internacional y aduanas planificamos el zarpe, pedimos cotizaciones con vigencia y damos seguimiento a tu carga desde China hasta tu almacén en Latinoamérica."
+    },
+    "fuente": {
+      "medio": "MundoMarítimo",
+      "url": "https://mundomaritimo.cl/noticias/editor/57564"
+    },
+    "tema": "importacion",
+    "tituloSeo": "Fletes: WCI +3% y fiabilidad de 10% en Shanghái"
   }
 ]
