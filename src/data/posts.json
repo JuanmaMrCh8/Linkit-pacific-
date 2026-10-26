@@ -1685,5 +1685,82 @@
     },
     "tema": "importacion",
     "tituloSeo": "Fletes: WCI +3% y fiabilidad de 10% en Shanghái"
+  },
+  {
+    "slug": "china-soja-septiembre-11-88-millones-toneladas-brasil-90-por-ciento",
+    "titulo": "Soja: China importó 11,88 millones de toneladas en septiembre (−7,7%) y 9 de cada 10 vinieron de Brasil: qué aprende quien exporta algo más que un commodity",
+    "tituloCorto": "China, soja y la lección del valor agregado",
+    "fecha": "2026-10-26",
+    "categoria": "Exportación",
+    "extracto": "Según la Aduana de China, las importaciones de soja de septiembre sumaron 11,88 millones de toneladas (−7,7%), con Brasil como proveedor de 10,7 millones y Estados Unidos de vuelta con 360.878. Qué significa para un exportador latinoamericano cuyo producto no es un commodity.",
+    "descripcionSeo": "China importó 11,88 millones de toneladas de soja en septiembre (−7,7%); Brasil aportó 10,7 millones. Qué debe tener un exportador LatAm con valor agregado.",
+    "palabrasClave": [
+      "importaciones de soja de China",
+      "exportar a China desde Latinoamérica",
+      "soja Brasil Estados Unidos China",
+      "exportar productos con valor agregado",
+      "registro GACC"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1758158329346-bed873fb6d9a?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Campo de soja seca lista para la cosecha bajo el sol"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1617952739760-1dcae19a1d93?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Buque de carga navegando en el mar bajo un cielo azul"
+    },
+    "cuerpo": [
+      "Según datos de la Administración General de Aduanas de China, difundidos por La Posta Diario el 20 de octubre de 2026, las importaciones de soja del país en septiembre sumaron 11,88 millones de toneladas, un 7,7% menos que un año antes. Brasil, el mayor proveedor, envió 10,7 millones de toneladas, frente a 10,96 millones de septiembre de 2025 (−2,4%). Estados Unidos reapareció con 360.878 toneladas, tras no registrar envíos en septiembre del año anterior.",
+      "En lo acumulado de enero a septiembre, Brasil suma 65,84 millones de toneladas (+3,4%) y Estados Unidos 11,06 millones (−34%). Con las cifras del mes, el aporte brasileño equivale a cerca de 90% del volumen de septiembre (10,7 de 11,88 millones; cálculo propio a partir de los datos de la nota). El comprador es el mismo; lo que cambia de un año a otro es quién tiene acceso, volumen y precio.",
+      "Conviene leer el dato con cuidado: se trata de la soja, un commodity a granel, y no permite extrapolar el comportamiento a otros alimentos o a productos con marca. La lectura útil para un exportador latinoamericano es otra: quien vende un producto indiferenciado compite por precio y por el ciclo político y de cosecha, mientras que quien vende valor agregado necesita registro, etiquetado y un canal propio en China para no depender solo de eso.",
+      "Linkit no controla los precios internacionales ni las decisiones de compra de China. Lo que sí hace, desde sus oficinas en China y Ecuador, es acompañar a las marcas latinoamericanas con inteligencia de mercado, registro GACC, etiquetado GB y ejecución en canal."
+    ],
+    "guia": {
+      "titulo": "Tres preguntas para un exportador cuyo producto no es un commodity",
+      "items": [
+        {
+          "titulo": "¿Qué te diferencia además del precio?",
+          "texto": "Define qué hace distinto a tu producto (origen, calidad, marca, presentación) y cómo se explicará a un comprador chino, para no entrar a competir únicamente por volumen y precio."
+        },
+        {
+          "titulo": "¿Cumples los requisitos para entrar?",
+          "texto": "Revisa con anticipación el registro ante la aduana china (GACC) cuando tu producto lo exige y el etiquetado en chino conforme a la norma GB, antes de planificar el primer embarque."
+        },
+        {
+          "titulo": "¿Quién compra y por qué canal?",
+          "texto": "Identifica al comprador o distribuidor concreto y el canal por el que llegará tu producto al consumidor. Un acuerdo político puede cambiar la cuota de cada país; un canal propio te da más estabilidad."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Importaciones chinas de soja en septiembre de 2026: 11,88 millones de toneladas, 7,7% menos que en septiembre de 2025.",
+        "fuente": "La Posta Diario, con datos de la Administración General de Aduanas de China (20 de octubre de 2026)"
+      },
+      {
+        "dato": "Desde Brasil llegaron 10,7 millones de toneladas (10,96 millones en septiembre de 2025, −2,4%); desde Estados Unidos, 360.878 toneladas, frente a cero un año antes.",
+        "fuente": "La Posta Diario, con datos de la Administración General de Aduanas de China (20 de octubre de 2026)"
+      },
+      {
+        "dato": "Acumulado de enero a septiembre: Brasil 65,84 millones de toneladas (+3,4%) y Estados Unidos 11,06 millones de toneladas (−34%).",
+        "fuente": "La Posta Diario, con datos de la Administración General de Aduanas de China (20 de octubre de 2026)"
+      },
+      {
+        "dato": "Brasil aportó cerca de 90% del volumen de septiembre (10,7 de 11,88 millones de toneladas). Cálculo propio a partir de los datos de la nota.",
+        "fuente": "La Posta Diario, con datos de la Administración General de Aduanas de China (20 de octubre de 2026)"
+      }
+    ],
+    "impacto": "Las cifras corresponden a la soja, un commodity a granel, y no a alimentos ni a productos con marca. Para un exportador latinoamericano con valor agregado, la señal práctica es no depender solo del precio: tener registro, etiquetado y un canal definido en China antes de planificar el primer embarque.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China para marcas latinoamericanas",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Te ayudamos a ordenar el registro GACC y el etiquetado GB, y a ejecutar en canal en China, con equipo en nuestras oficinas de China y Ecuador."
+    },
+    "fuente": {
+      "medio": "La Posta Diario",
+      "url": "https://lapostadiario.com/china-frena-compras-de-soja-cae-brasil-reaparece-ee-uu-pero-el-volumen-total-se-desploma/"
+    },
+    "tema": "exportacion",
+    "tituloSeo": "China importó 11,88 M t de soja: lección para exportar"
   }
 ]
