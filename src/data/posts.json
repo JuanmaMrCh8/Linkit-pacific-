@@ -1762,5 +1762,82 @@
     },
     "tema": "exportacion",
     "tituloSeo": "China importó 11,88 M t de soja: lección para exportar"
+  },
+  {
+    "slug": "mexico-aranceles-1463-fracciones-chinas-security-shoring-costo-puesto",
+    "titulo": "México y el «security shoring»: según un análisis de la UNAM, 1.463 fracciones chinas pasaron de 15,59% a 28,59% de arancel. Qué revisar antes de comprar",
+    "tituloCorto": "México, aranceles a China y costo puesto en destino",
+    "fecha": "2026-10-27",
+    "categoria": "Regulatorio",
+    "extracto": "Un análisis del académico Enrique Dussel Peters (UNAM), publicado en La Jornada, repasa los aranceles de 15,59% a 28,59% a 1.463 fracciones de importaciones chinas y el decreto sobre bienes de uso dual. Qué revisar si importas a México.",
+    "descripcionSeo": "Análisis UNAM: 1.463 fracciones chinas pasaron de 15,59% a 28,59% de arancel en México y hay un decreto sobre bienes de uso dual. Qué revisar antes de comprar.",
+    "tituloSeo": "México: arancel a 1.463 fracciones chinas, qué revisar",
+    "palabrasClave": [
+      "aranceles México importaciones de China",
+      "fracción arancelaria",
+      "bienes de uso dual",
+      "costo puesto en destino",
+      "security shoring"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1786596774026-d03ec4142e03?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Panorámica de la Ciudad de México con una iglesia de cúpula anaranjada entre los edificios"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1601897690942-bcacbad33e55?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Contenedores intermodales azules, rojos y amarillos apilados en una terminal"
+    },
+    "cuerpo": [
+      "En una columna publicada por La Jornada el 21 de octubre de 2026, el académico Enrique Dussel Peters, de la UNAM, sostiene que México ya quedó integrado de facto a la estrategia de «security shoring» de Estados Unidos frente a China, aunque no se haya sumado formalmente al Escudo de las Américas, creado en marzo de 2026. Es un análisis de opinión, no una decisión oficial nueva, y así conviene leerlo.",
+      "El autor repasa dos decisiones concretas. La primera: según su texto, desde el 1 de enero de 2026 los aranceles a países sin tratado llevan de 15,59% a 28,59% la tasa para 1.463 fracciones de importaciones chinas. La segunda: el decreto del 3 de julio de 2026 de la Secretaría de Economía, publicado en el Diario Oficial de la Federación, sobre bienes de uso dual, software y tecnologías sujetos a control de exportación. La columna aclara que el efecto sobre el promedio ponderado de todo lo que México importa de China es mucho menor, de modo que no se trata de un arancel nuevo para todo lo que llega de ese origen.",
+      "El texto también menciona que, a partir de 2027, las empresas estadounidenses deberán solicitar exenciones para usar proveedores de «naciones extranjeras no aliadas». No hay cifras de comercio ni de inversión entre México y China en la columna, por lo que este artículo no las incluye.",
+      "Para un importador mexicano, la lectura práctica es operativa: el costo puesto en México depende de la fracción arancelaria y del origen, las listas son largas y cambian. Linkit no es consultor legal ni define clasificaciones aduaneras oficiales; lo que sí hace, desde sus oficinas en China y Ecuador, es ayudar a ordenar la información del producto y el cálculo del costo puesto en destino antes de comprar."
+    ],
+    "guia": {
+      "titulo": "Tres pasos antes de comprar a China para importar a México",
+      "items": [
+        {
+          "titulo": "Confirma la fracción arancelaria de tu producto",
+          "texto": "Revisa en qué fracción se clasifica tu mercancía y si aparece entre las que cambiaron de tasa. Valídalo con tu agente aduanal: la clasificación oficial no la define Linkit."
+        },
+        {
+          "titulo": "Recalcula el costo puesto con la tasa vigente",
+          "texto": "No uses el arancel de hace un año. Calcula el costo puesto en México con la tasa actual de la fracción, junto con flete, seguro y gastos de desaduanización, antes de cerrar el precio con el proveedor."
+        },
+        {
+          "titulo": "Pregunta por el uso dual",
+          "texto": "Si tu producto incluye tecnología, software o componentes electrónicos, consulta si puede estar sujeto a controles de bienes de uso dual y qué documentación pediría la aduana."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Según el análisis, desde el 1 de enero de 2026 la tasa pasó de 15,59% a 28,59% para 1.463 fracciones de importaciones chinas; el efecto en el promedio ponderado de lo que México importa de China es mucho menor.",
+        "fuente": "La Jornada, columna de Enrique Dussel Peters (UNAM), 21 de octubre de 2026"
+      },
+      {
+        "dato": "El 3 de julio de 2026 se publicó en el DOF un decreto de la Secretaría de Economía sobre bienes de uso dual, software y tecnologías sujetos a control de exportación.",
+        "fuente": "La Jornada, columna de Enrique Dussel Peters (UNAM), 21 de octubre de 2026"
+      },
+      {
+        "dato": "El Escudo de las Américas se creó en marzo de 2026 y, según la columna, México no se ha sumado formalmente.",
+        "fuente": "La Jornada, columna de Enrique Dussel Peters (UNAM), 21 de octubre de 2026"
+      },
+      {
+        "dato": "Según el texto, a partir de 2027 las empresas estadounidenses deberán solicitar exenciones para usar proveedores de «naciones extranjeras no aliadas».",
+        "fuente": "La Jornada, columna de Enrique Dussel Peters (UNAM), 21 de octubre de 2026"
+      }
+    ],
+    "impacto": "Se trata de un análisis de opinión sobre fracciones específicas, no de una decisión oficial nueva ni de un arancel general a todo lo chino. Para un importador a México, la señal práctica es calcular el costo puesto con la fracción y la tasa vigentes, y validar la clasificación con un agente aduanal antes de comprar.",
+    "servicio": {
+      "nombre": "Aduanas y logística: clasificación y costo puesto en destino",
+      "ruta": "/servicios/aduanas",
+      "texto": "Te ayudamos a ordenar la información de tu producto, revisar la documentación y calcular el costo puesto en destino antes de comprar, con equipo en nuestras oficinas de China y Ecuador. La clasificación arancelaria oficial se valida con tu agente aduanal."
+    },
+    "fuente": {
+      "medio": "La Jornada",
+      "url": "https://www.jornada.com.mx/2026/10/21/economia/019a1eco?partner=rss"
+    },
+    "tema": "regulatorio"
   }
 ]
