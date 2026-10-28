@@ -1839,5 +1839,82 @@
       "url": "https://www.jornada.com.mx/2026/10/21/economia/019a1eco?partner=rss"
     },
     "tema": "regulatorio"
+  },
+  {
+    "slug": "uruguay-carne-china-cuota-36-por-ciento-200-mil-toneladas",
+    "titulo": "Carne vacuna: Uruguay usó 36% de su cuota a China (117 mil de 324 mil toneladas) y le quedan más de 200 mil. Qué enseña a los exportadores de alimentos",
+    "tituloCorto": "Uruguay, carne y cuota a China: tener cupo no es vender",
+    "fecha": "2026-10-28",
+    "categoria": "Exportación",
+    "extracto": "Según Blasina y Asociados, hasta septiembre Uruguay usó 36% de su cuota de 324 mil toneladas de carne vacuna a China y aún tiene más de 200 mil disponibles, mientras Brasil y Australia ya pagan un arancel adicional de 55%. La lección: el cupo no vende solo.",
+    "descripcionSeo": "Uruguay usó 36% de su cuota de carne a China (117 mil de 324 mil t); Brasil y Australia pagan 55% adicional. Qué necesita un exportador para aprovechar un cupo.",
+    "tituloSeo": "Carne a China: Uruguay usó 36% de su cuota",
+    "palabrasClave": [
+      "cuota de carne vacuna China",
+      "exportar carne a China",
+      "Uruguay carne China",
+      "arancel adicional 55%",
+      "registro GACC"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1566310203664-bb0828838943?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Vacas pastando en un campo verde"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1634646809203-f3b4adff9127?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Contenedores de carga apilados en una terminal portuaria"
+    },
+    "cuerpo": [
+      "China administra la importación de carne vacuna con cuotas por país: dentro del cupo rige el arancel normal y, por encima, se suma un arancel adicional de 55%. Según un informe de Blasina y Asociados publicado el 21 de octubre de 2026, con datos de China hasta septiembre, Uruguay había usado 36% de su cuota de 324 mil toneladas, es decir, unas 117 mil, y le quedaban más de 200 mil toneladas disponibles.",
+      "El mismo informe describe un reparto muy desigual entre proveedores. Argentina había embarcado 67% de su contingente de 511 mil toneladas en los primeros nueve meses, con un repunte fuerte en agosto y septiembre. Brasil superó su cuota de 1,1 millones de toneladas en 9%, unas 100 mil toneladas por encima, y Australia la excedió en 15%. Según la nota, el arancel adicional de 55% ya rige para las exportaciones de Brasil y de Australia.",
+      "El informe también señala que las importaciones chinas de carne vacuna de septiembre cayeron a 143 mil toneladas, el nivel más bajo desde mayo de 2020, después de que se agotaran las cuotas de Australia y Brasil. Son datos de un solo sector, la carne vacuna, y no deben extrapolarse a otros alimentos.",
+      "Para un exportador de alimentos de Latinoamérica, la lectura práctica es que tener cupo no equivale a tener ventas: hace falta contar con planta habilitada, registro ante las autoridades de China, etiquetado que cumpla la norma y un comprador. Linkit no controla las cuotas ni las decisiones de compra de China; lo que sí hace, desde sus oficinas en China y Ecuador, es ayudar a las marcas a ordenar ese camino de acceso."
+    ],
+    "guia": {
+      "titulo": "Tres preguntas antes de apostar por un cupo o una ventana de acceso a China",
+      "items": [
+        {
+          "titulo": "¿Tu planta y tu producto están habilitados y registrados?",
+          "texto": "Un cupo disponible no sirve si la planta no está habilitada o el producto no está registrado ante las autoridades chinas. Revisa estos requisitos con anticipación, porque los trámites toman tiempo."
+        },
+        {
+          "titulo": "¿Tu etiqueta cumple la norma china?",
+          "texto": "El etiquetado debe ajustarse a la normativa de China (estándares GB). Confirma con tu equipo y tus asesores qué debe llevar tu producto antes de embarcar."
+        },
+        {
+          "titulo": "¿Tienes un comprador y un canal definidos?",
+          "texto": "El volumen disponible no se convierte en venta por sí solo. Define quién comprará, a través de qué canal y con qué calendario, y no esperes a fin de año para empezar."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Hasta septiembre, Uruguay usó 36% de su cuota de 324 mil toneladas de carne vacuna a China (unas 117 mil t) y tiene más de 200 mil t disponibles.",
+        "fuente": "Blasina y Asociados, 21 de octubre de 2026, con datos de China"
+      },
+      {
+        "dato": "Argentina embarcó 67% de su contingente de 511 mil toneladas en los primeros nueve meses de 2026.",
+        "fuente": "Blasina y Asociados, 21 de octubre de 2026"
+      },
+      {
+        "dato": "Brasil superó su cuota de 1,1 millones de toneladas en 9% y Australia la suya en 15%; el arancel adicional de 55% ya rige para ambos.",
+        "fuente": "Blasina y Asociados, 21 de octubre de 2026"
+      },
+      {
+        "dato": "Las importaciones chinas de carne vacuna de septiembre fueron de 143 mil toneladas, el nivel más bajo desde mayo de 2020.",
+        "fuente": "Blasina y Asociados, 21 de octubre de 2026"
+      }
+    ],
+    "impacto": "Es un informe sobre un sector específico, la carne vacuna, con datos de China hasta septiembre de 2026. Para un exportador de alimentos, la señal práctica es que el acceso a China depende de cupos, registro, etiquetado y calendario, y que un volumen disponible solo se aprovecha si hay planta habilitada y un comprador.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China para marcas de Latinoamérica",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Te acompañamos con inteligencia de mercado, registro ante las autoridades de China, etiquetado y ejecución en canal, con equipo en nuestras oficinas de China y Ecuador. Linkit no controla las cuotas ni las decisiones de compra de China."
+    },
+    "fuente": {
+      "medio": "Blasina y Asociados",
+      "url": "https://blasinayasociados.com/a-uruguay-le-queda-el-64-de-la-cuota-de-exportacion-de-carne-a-china/"
+    },
+    "tema": "exportacion"
   }
 ]
