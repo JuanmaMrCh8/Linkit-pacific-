@@ -1916,5 +1916,82 @@
       "url": "https://blasinayasociados.com/a-uruguay-le-queda-el-64-de-la-cuota-de-exportacion-de-carne-a-china/"
     },
     "tema": "exportacion"
+  },
+  {
+    "slug": "peru-chancay-422-mil-teu-2026-10-por-ciento-contenedores",
+    "titulo": "Chancay: el megapuerto podría superar 422.000 TEU en 2026 (+82,5%) y ya mueve 10,1% de los contenedores de Perú. Cómo elegir el puerto de entrada",
+    "tituloCorto": "Chancay supera 10% de los contenedores de Perú: cómo elegir puerto",
+    "fecha": "2026-10-29",
+    "categoria": "Importación",
+    "extracto": "Según la Cámara de Comercio de Lima, Chancay movilizó 246.452 TEU entre enero y julio de 2026 (+74,8%) y podría superar 422.000 TEU al cierre del año. Ya concentra 10,1% de los contenedores de Perú. Qué revisar antes de elegir tu puerto de entrada.",
+    "descripcionSeo": "Chancay movió 246.452 TEU hasta julio de 2026 y ya es 10,1% de los contenedores de Perú, según la CCL. Qué revisar para elegir el puerto de entrada de tu importación.",
+    "tituloSeo": "Puerto de Chancay: 10,1% de los contenedores de Perú",
+    "palabrasClave": [
+      "puerto de Chancay",
+      "Chancay TEU 2026",
+      "importar de China a Perú",
+      "elegir puerto de entrada",
+      "logística de importación"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1784913107783-e308623f8b7b?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Buques de carga bajo grandes grúas en un puerto de contenedores"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1770710000993-6a75881ec618?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Buques portacontenedores atracados en un puerto con grúas"
+    },
+    "cuerpo": [
+      "Según la Cámara de Comercio de Lima (CCL), el puerto de Chancay movilizó 246.452 TEU entre enero y julio de 2026, un 74,8% más que en el mismo período de 2025, cuando registró unos 141.000 TEU. Si mantiene ese ritmo, la CCL estima que podría cerrar el año con más de 422.000 TEU, un 82,5% más que los 231.478 TEU de 2025. Son estimaciones del gremio, no resultados finales.",
+      "El puerto ya pesa en el mapa logístico del país: pasó de representar 5,6% del movimiento nacional de contenedores en 2025 a 10,1% entre enero y julio de 2026. La CCL estima el tránsito marítimo con China en unos 25 días.",
+      "El gremio también advierte que el crecimiento depende de condiciones que siguen pendientes: accesos viales exclusivos para carga, antepuertos para ordenar el tránsito de camiones, conexiones ferroviarias, la aplicación de la Ley N.° 32049 para impulsar el cabotaje y una mejor coordinación entre las 15 entidades de control que intervienen en el comercio exterior.",
+      "Para un importador, la lectura práctica es que un puerto nuevo amplía las opciones, pero no define por sí solo el mejor camino. La nota no informa tarifas ni plazos de entrega comparados con otros puertos, así que la decisión conviene tomarla con cotizaciones reales. Linkit no opera puertos ni fija tarifas; desde sus oficinas en China y Ecuador, acompaña la planificación de la ruta de la carga."
+    ],
+    "guia": {
+      "titulo": "Tres preguntas antes de elegir tu puerto de entrada",
+      "items": [
+        {
+          "titulo": "¿Dónde está tu destino final?",
+          "texto": "Calcula el recorrido completo hasta tu bodega o tus clientes, no solo el tramo marítimo. Un puerto con buen tránsito desde China puede no ser el más conveniente si los accesos terrestres hasta tu destino son limitados."
+        },
+        {
+          "titulo": "¿Qué naviera y qué servicio llegan a ese puerto?",
+          "texto": "Pide a tu agente de carga que confirme naviera, servicio y fecha estimada de arribo, y cotiza con vigencia. Compara las opciones con cotizaciones reales y no con promedios del mercado."
+        },
+        {
+          "titulo": "¿Cómo será la desaduanización y la entrega final?",
+          "texto": "Revisa con tu agente aduanal los requisitos de documentos, inspecciones y transporte local. La coordinación entre las entidades de control sigue siendo, según la CCL, un punto pendiente."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Chancay movilizó 246.452 TEU entre enero y julio de 2026, 74,8% más que en el mismo período de 2025 (unos 141.000 TEU).",
+        "fuente": "Cámara de Comercio de Lima, vía Perú Retail y Forbes Perú, 19 de octubre de 2026"
+      },
+      {
+        "dato": "La CCL estima que el puerto podría superar 422.000 TEU en 2026, un 82,5% más que los 231.478 TEU de 2025, si se mantiene el ritmo.",
+        "fuente": "Cámara de Comercio de Lima, vía Perú Retail y Forbes Perú, 19 de octubre de 2026"
+      },
+      {
+        "dato": "Chancay concentra 10,1% del movimiento nacional de contenedores entre enero y julio de 2026, frente a 5,6% en 2025.",
+        "fuente": "Cámara de Comercio de Lima, vía Perú Retail, 19 de octubre de 2026"
+      },
+      {
+        "dato": "El tránsito marítimo entre China y Chancay se estima en unos 25 días.",
+        "fuente": "Cámara de Comercio de Lima, vía Perú Retail, 19 de octubre de 2026"
+      }
+    ],
+    "impacto": "Las cifras de 2026 son estimaciones del gremio y se refieren a Perú y a las rutas conectadas con Chancay. No son una tarifa ni una promesa de plazo, y no deben extrapolarse a otros países. Para un importador, la señal es que hay una opción de puerto en crecimiento, cuya conveniencia depende del destino final, de los accesos y de la coordinación aduanera.",
+    "servicio": {
+      "nombre": "Logística y desaduanización para tu importación desde China",
+      "ruta": "/servicios/logistica",
+      "texto": "Te ayudamos a planificar la ruta y el puerto de entrada, la cotización con vigencia, la consolidación, la desaduanización y el seguimiento de tu carga, con equipo en nuestras oficinas de China y Ecuador. Linkit no opera puertos ni fija tarifas."
+    },
+    "fuente": {
+      "medio": "Perú Retail (Cámara de Comercio de Lima)",
+      "url": "https://www.peru-retail.com/puerto-de-chancay-podria-superar-los-422-000-teu-en-2026-que-impulsa-su-crecimiento/"
+    },
+    "tema": "importacion"
   }
 ]
