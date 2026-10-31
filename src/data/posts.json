@@ -2070,5 +2070,82 @@
       "url": "https://sinobusinesspartner.com/insights/canton-fair-2026-guide"
     },
     "tema": "importacion"
+  },
+  {
+    "slug": "tlc-peru-china-protocolo-1-noviembre-origen-transporte-directo",
+    "titulo": "TLC Perú–China: el protocolo de optimización rige desde el 1 de noviembre. Qué revisar en tu próxima orden",
+    "tituloCorto": "TLC Perú–China: qué revisar desde el 1 de noviembre",
+    "fecha": "2026-10-31",
+    "categoria": "Regulatorio",
+    "extracto": "El Protocolo de Optimización del TLC entre Perú y China entra en vigor el 1 de noviembre de 2026: actualiza siete capítulos, suma cinco nuevos y mejora las disposiciones sobre certificados de origen y transporte directo. Tres documentos que conviene revisar antes del embarque.",
+    "descripcionSeo": "El protocolo del TLC Perú–China rige desde el 1 de noviembre de 2026. Qué cambia en reglas de origen y aduanas y qué documentos revisar antes de embarcar.",
+    "tituloSeo": "TLC Perú–China desde el 1 de noviembre: qué revisar",
+    "palabrasClave": [
+      "TLC Perú China",
+      "protocolo de optimización",
+      "certificado de origen",
+      "transporte directo",
+      "importar de China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1597334948330-38795f25d05d?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Buque portacontenedores azul y rojo en el puerto"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1619418602850-35ad20aa1700?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Sello de goma sobre un documento con la marca de revisado"
+    },
+    "cuerpo": [
+      "El Protocolo de Optimización del Tratado de Libre Comercio entre Perú y China entra en vigor el 1 de noviembre de 2026, según informó Radio Nacional el 28 de octubre, atribuyendo los datos al Ministerio de Comercio Exterior y Turismo (Mincetur). La norma que lo oficializa es el Decreto Supremo N.º 012-2026-MINCETUR, publicado el 27 de octubre. El protocolo fue suscrito en Lima el 14 de noviembre de 2024.",
+      "El texto actualiza siete capítulos: reglas de origen, procedimientos aduaneros y facilitación del comercio, comercio de servicios, entrada temporal de personas de negocios, inversión, propiedad intelectual y medidas sanitarias y fitosanitarias. Además incorpora cinco capítulos nuevos: política de competencia, comercio electrónico, cadena global de suministro, cooperación en normas y evaluación de la conformidad, y medio ambiente. La nota indica que se mejoran las disposiciones sobre certificados de origen y transporte directo, pero no detalla en qué consisten los cambios.",
+      "China es el primer socio comercial de Perú: representó cerca de 35% del comercio exterior peruano en 2025, según el ministro de Comercio Exterior y Turismo citado por Radio Nacional. La lectura práctica para quien importa o exporta es de procedimiento: las notas consultadas hablan de reglas y trámites, no de un cronograma de desgravación ni de una lista de productos, así que no conviene asumir rebajas de arancel.",
+      "Si tu próxima orden sale después del 1 de noviembre, el riesgo es armar el expediente con las reglas de ayer y equivocar el certificado de origen o la prueba de transporte directo, con el costo de perder el trato preferencial o demorar el despacho. Linkit no es consultor legal ni define clasificaciones oficiales; desde sus oficinas en China y Ecuador ayuda a ordenar la documentación antes del embarque, y los requisitos vigentes se validan con tu agente aduanal."
+    ],
+    "guia": {
+      "titulo": "Tres documentos que revisar antes del embarque",
+      "items": [
+        {
+          "titulo": "Certificado de origen",
+          "texto": "Confirma con tu agente aduanal qué formato y qué datos se exigen desde el 1 de noviembre, y revisa que coincidan con la factura y el producto embarcado antes de que salga la carga."
+        },
+        {
+          "titulo": "Prueba de transporte directo",
+          "texto": "Pregunta a tu agente de carga qué documentos acreditan la ruta de la mercancía y si hay escalas o transbordos que deban justificarse según las reglas vigentes."
+        },
+        {
+          "titulo": "Factura comercial",
+          "texto": "Verifica que la descripción, el origen declarado y los datos del proveedor sean consistentes con el certificado, para evitar observaciones en aduana."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "El Protocolo de Optimización del TLC Perú–China entra en vigor el 1 de noviembre de 2026, mediante el Decreto Supremo N.º 012-2026-MINCETUR, publicado el 27 de octubre de 2026; fue suscrito en Lima el 14 de noviembre de 2024.",
+        "fuente": "Radio Nacional, 28 de octubre de 2026 (atribuyendo a Mincetur)"
+      },
+      {
+        "dato": "El protocolo actualiza siete capítulos (entre ellos reglas de origen y procedimientos aduaneros) e incorpora cinco nuevos.",
+        "fuente": "Radio Nacional, 28 de octubre de 2026"
+      },
+      {
+        "dato": "Incluye mejoras en las disposiciones sobre certificados de origen y transporte directo; la nota no detalla los cambios.",
+        "fuente": "Radio Nacional, 28 de octubre de 2026"
+      },
+      {
+        "dato": "China es el primer socio comercial de Perú, con cerca de 35% del comercio exterior peruano en 2025, según el ministro de Comercio Exterior y Turismo.",
+        "fuente": "Radio Nacional, 28 de octubre de 2026"
+      }
+    ],
+    "impacto": "Las notas consultadas describen cambios de reglas y procedimientos, no un cronograma de desgravación ni cifras por producto: no asumas rebajas de arancel. Aplica al comercio con Perú; no lo extrapoles a otros países. Antes de embarcar, valida los requisitos vigentes con tu agente aduanal.",
+    "servicio": {
+      "nombre": "Aduanas y logística: documentación y costo puesto en destino",
+      "ruta": "/servicios/aduanas",
+      "texto": "Te ayudamos a ordenar la documentación del embarque (certificado de origen, transporte directo y factura) y a calcular el costo puesto en destino antes de comprar, con equipo en nuestras oficinas de China y Ecuador. Los requisitos vigentes se validan con tu agente aduanal."
+    },
+    "tema": "regulatorio",
+    "fuente": {
+      "medio": "Radio Nacional",
+      "url": "https://www.radionacional.gob.pe/noticias/economia/tlc-entre-peru-y-china-se-actualiza-desde-el-1-de-noviembre-de-2026"
+    }
   }
 ]
