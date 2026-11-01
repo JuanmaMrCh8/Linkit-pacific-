@@ -2147,5 +2147,82 @@
       "medio": "Radio Nacional",
       "url": "https://www.radionacional.gob.pe/noticias/economia/tlc-entre-peru-y-china-se-actualiza-desde-el-1-de-noviembre-de-2026"
     }
+  },
+  {
+    "slug": "colombia-importaciones-agosto-31-7-por-ciento-china-28-3-por-ciento",
+    "titulo": "Colombia importó 31,7% más en agosto y China aporta 28,3%: cómo planificar tu carga cuando la región compra más",
+    "tituloCorto": "Colombia importó 31,7% más en agosto: planifica tu carga",
+    "fecha": "2026-11-01",
+    "categoria": "Importación",
+    "extracto": "Según el DANE, Colombia importó US$7.702,5 millones en agosto de 2026, 31,7% más que un año antes, y China fue el primer proveedor con 28,3% del total. Qué pedir a tu agente para no perder turno de carga.",
+    "descripcionSeo": "Colombia importó US$7.702,5 millones en agosto de 2026 (+31,7%) y China aportó 28,3%. Qué hacer para no perder turno de carga cuando la región importa más.",
+    "tituloSeo": "Colombia importó 31,7% más en agosto: planifica tu carga",
+    "palabrasClave": [
+      "importaciones Colombia",
+      "importar de China",
+      "DANE agosto 2026",
+      "planificar carga",
+      "logística de importación"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1774929107892-567999e21042?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Buque portacontenedores cargado de contenedores de colores atracado en un muelle"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1784913107945-97564508afd4?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Dos grúas pórtico en un muelle portuario bajo un cielo azul"
+    },
+    "cuerpo": [
+      "Colombia importó US$7.702,5 millones en agosto de 2026, 31,7% más que en agosto de 2025, según el DANE, en datos publicados por La República el 21 de octubre. Es la cifra más alta del año, aunque 3,3% menor que la de julio. En los ocho primeros meses de 2026 las compras externas suman US$53.746,4 millones, 17,2% más que en el mismo periodo de 2025.",
+      "China fue el principal proveedor del país: vendió US$2.178,6 millones en el mes, 28,3% del total importado, con un aumento anual de 26,6%. Por tipo de producto, las manufacturas sumaron US$5.439,6 millones (+18,9%), con maquinaria y equipo de transporte (+22,8%) y químicos (+22,2%) entre los rubros que más crecieron. El grupo de agropecuarios, alimentos y bebidas llegó a US$1.064,8 millones (+24,8%).",
+      "Para quien compra a China, la lectura es práctica: cuando un país importa bastante más, hay más carga compitiendo por los mismos cupos de buque, depósitos y despacho aduanero, y quien deja la planificación para última hora puede ver su mercancía esperar turno. La nota no explica el motivo del repunte y se trata de cifras de Colombia, no de toda la región, por lo que conviene no extrapolarlas a otros países ni dar por hecho que los plazos se alargarán.",
+      "Linkit no controla puertos ni aduanas ni garantiza plazos. Lo que sí puede hacer, desde sus oficinas en China y Ecuador, es ayudarte a ordenar la compra, la producción y la documentación con antelación para que tu embarque no dependa de decisiones de último minuto."
+    ],
+    "guia": {
+      "titulo": "Tres preguntas para hacerle a tu agente antes de embarcar",
+      "items": [
+        {
+          "titulo": "¿Cuándo debe estar lista la producción?",
+          "texto": "Pide una fecha de término de producción y de inspección realista, y deja margen antes de la fecha en que necesitas la carga en tu bodega."
+        },
+        {
+          "titulo": "¿Quién reserva el espacio de carga y cuándo?",
+          "texto": "Confirma con tu agente de carga cuándo se reserva el espacio y qué ocurre si el buque se llena; pregunta si hay una ruta o una salida alternativa."
+        },
+        {
+          "titulo": "¿Qué documentos tienes listos antes del arribo?",
+          "texto": "Ten la factura, la lista de empaque y los datos del embarque en orden antes de que la carga llegue, para que el despacho no espere por papeles."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Las importaciones de Colombia en agosto de 2026 sumaron US$7.702,5 millones, 31,7% más que en agosto de 2025 y la cifra más alta del año; fueron 3,3% menores que las de julio.",
+        "fuente": "DANE, vía La República, 21 de octubre de 2026"
+      },
+      {
+        "dato": "En enero–agosto de 2026 las importaciones suman US$53.746,4 millones, 17,2% más que en el mismo periodo de 2025.",
+        "fuente": "DANE, vía La República, 21 de octubre de 2026"
+      },
+      {
+        "dato": "China fue el principal proveedor en agosto: US$2.178,6 millones, 28,3% del total, con un alza anual de 26,6%.",
+        "fuente": "DANE, vía La República, 21 de octubre de 2026"
+      },
+      {
+        "dato": "Las manufacturas sumaron US$5.439,6 millones (+18,9%); maquinaria y equipo de transporte crecieron 22,8% y los químicos, 22,2%. Agropecuarios, alimentos y bebidas: US$1.064,8 millones (+24,8%).",
+        "fuente": "DANE, vía La República, 21 de octubre de 2026"
+      }
+    ],
+    "impacto": "Las cifras son de Colombia en agosto de 2026 y no deben extrapolarse a otros países ni a otros meses. La nota no explica el motivo del repunte, así que no lo atribuyas. Si compras a China, planificar producción, reserva de carga y documentos con antelación reduce el riesgo de que tu mercancía espere turno.",
+    "servicio": {
+      "nombre": "Sourcing e importación: compras, producción y logística",
+      "ruta": "/servicios/logistica",
+      "texto": "Te ayudamos a programar la producción, coordinar la logística y ordenar la documentación de tu importación con antelación, con equipo en nuestras oficinas de China y Ecuador. No controlamos puertos ni aduanas ni garantizamos plazos."
+    },
+    "tema": "importacion",
+    "fuente": {
+      "medio": "La República",
+      "url": "https://www.larepublica.co/economia/balance-de-importaciones-de-agosto-de-2026-4507793"
+    }
   }
 ]
