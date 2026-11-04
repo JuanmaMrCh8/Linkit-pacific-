@@ -2374,5 +2374,78 @@
       "medio": "Prensa Latina",
       "url": "https://www.prensa-latina.cu/2026/10/29/china-amplia-sus-importaciones-y-refuerza-apertura-comercial/"
     }
+  },
+  {
+    "slug": "fletes-wci-4585-segunda-alza-seguida-cotizacion-vigencia",
+    "titulo": "Fletes: el WCI sube a US$4.585 por contenedor de 40 pies, segunda alza seguida: qué pedir en tu cotización para que el flete no te sorprenda",
+    "tituloCorto": "El WCI sube a US$4.585 y encadena dos alzas",
+    "fecha": "2026-11-04",
+    "categoria": "Importación",
+    "extracto": "El índice mundial de contenedores de Drewry subió 2% hasta US$4.585 por contenedor de 40 pies, su segunda alza semanal seguida: qué pedir en tu cotización de flete y por qué este índice no es la tarifa a Sudamérica.",
+    "descripcionSeo": "El WCI de Drewry subió 2% a US$4.585 por 40 pies, segunda alza seguida. Qué pedir en tu cotización: vigencia, naviera y fecha límite de entrega a puerto.",
+    "tituloSeo": "WCI sube a US$4.585: qué pedir en tu cotización",
+    "palabrasClave": [
+      "World Container Index",
+      "flete marítimo",
+      "cotización de flete",
+      "Drewry",
+      "importar desde China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1623486175858-81e03b95b677?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Buque portacontenedores cargado de contenedores navegando en el mar"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1715198749916-3fab2a14074f?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Buque de carga navegando en medio del océano"
+    },
+    "cuerpo": [
+      "Según Drewry, citado por Shipping Telegraph el 23 de octubre, el World Container Index (WCI) compuesto subió 2% en la semana al 22 de octubre de 2026 y llegó a US$4.585 por contenedor de 40 pies. Una semana antes, según IndexBox, el índice había subido 3% hasta US$4.485. Son dos alzas semanales consecutivas.",
+      "Por ruta, la mayor subida fue Shanghái–Génova, con 5% hasta US$4.152, seguida de Shanghái–Róterdam, con 3% hasta US$3.632. Shanghái–Los Ángeles se ubicó en US$8.007 (+2%) y Shanghái–Nueva York en US$10.166 (+1%). Son referencias globales para rutas hacia Europa y Estados Unidos.",
+      "Conviene leerlo con cuidado: las notas no traen datos de la ruta Asia–Sudamérica, así que el índice no es la tarifa que paga un importador latinoamericano. Sirve como señal de hacia dónde se mueve el mercado, no como precio de tu embarque. Además, las cifras son al 22 de octubre y el índice se publica cada semana, por lo que antes de decidir conviene revisar el dato más reciente.",
+      "Lo práctico: una cotización de flete es una foto de un momento, y quien la toma como un precio fijo puede encontrar un costo distinto al embarcar. Linkit no fija tarifas ni controla a las navieras; lo que sí hace, desde sus oficinas en China y Ecuador, es ayudarte a ordenar la cotización, la consolidación y el seguimiento de tu carga."
+    ],
+    "guia": {
+      "titulo": "Tres cosas que pedir junto con tu cotización de flete",
+      "items": [
+        {
+          "titulo": "Hasta cuándo vale la cotización",
+          "texto": "Pide por escrito la vigencia y pregunta qué pasa si la carga sale después de esa fecha; una cotización vencida puede cambiar de valor."
+        },
+        {
+          "titulo": "Naviera y tipo de servicio",
+          "texto": "Confirma qué naviera y qué servicio incluye la cotización, y si el precio cubre solo el flete o también otros cargos, para poder comparar ofertas en igualdad de condiciones."
+        },
+        {
+          "titulo": "Fecha límite de entrega de la carga en puerto",
+          "texto": "Pregunta cuál es la fecha límite para que la carga llegue al puerto o terminal; si la fábrica se retrasa, la cotización y el espacio en el buque pueden dejar de aplicar."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "World Container Index compuesto al 22 de octubre de 2026: US$4.585 por contenedor de 40 pies, 2% más que la semana anterior.",
+        "fuente": "Drewry, vía Shipping Telegraph, 23 de octubre de 2026"
+      },
+      {
+        "dato": "World Container Index compuesto al 15 de octubre de 2026: US$4.485 por contenedor de 40 pies, 3% más que la semana anterior.",
+        "fuente": "Drewry, vía IndexBox, 17 de octubre de 2026"
+      },
+      {
+        "dato": "Shanghái–Génova: US$4.152 (+5%); Shanghái–Róterdam: US$3.632 (+3%); Shanghái–Los Ángeles: US$8.007 (+2%); Shanghái–Nueva York: US$10.166 (+1%). Referencias globales, no de la ruta a Sudamérica.",
+        "fuente": "Drewry, vía Shipping Telegraph, 23 de octubre de 2026"
+      }
+    ],
+    "impacto": "Las cifras son del índice global de Drewry al 22 de octubre y de rutas hacia Europa y Estados Unidos; la nota no incluye datos de la ruta Asia–Sudamérica, por lo que no equivalen a la tarifa que paga un importador latinoamericano. Revisa siempre el índice más reciente. Linkit no fija tarifas ni controla a las navieras.",
+    "servicio": {
+      "nombre": "Logística y desaduanización",
+      "ruta": "/servicios/logistica",
+      "texto": "Te ayudamos a pedir cotizaciones con vigencia clara, a consolidar tu carga y a seguirla hasta destino, con equipo en nuestras oficinas de China y Ecuador. Linkit no fija tarifas ni controla a las navieras."
+    },
+    "tema": "importacion",
+    "fuente": {
+      "medio": "Shipping Telegraph (Drewry)",
+      "url": "https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-increased-2-this-week-43-2026/"
+    }
   }
 ]
