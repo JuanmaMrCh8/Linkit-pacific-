@@ -2447,5 +2447,74 @@
       "medio": "Shipping Telegraph (Drewry)",
       "url": "https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-increased-2-this-week-43-2026/"
     }
+  },
+  {
+    "slug": "china-ganancias-industriales-14-4-por-ciento-proveedor-fabrica",
+    "titulo": "Las ganancias industriales de China suben 14,4% en septiembre: 3 señales para saber si tu proveedor es fábrica y no un intermediario",
+    "tituloCorto": "Ganancias industriales de China +14,4%: ¿tu proveedor es fábrica?",
+    "fecha": "2026-11-05",
+    "categoria": "Importación",
+    "extracto": "Las ganancias de las empresas industriales de China subieron 14,4% interanual en septiembre. Es una buena noticia para la fábrica china, pero no dice nada de tu proveedor: tres señales para saber si compras a una fábrica o a un intermediario.",
+    "descripcionSeo": "Las ganancias industriales de China subieron 14,4% en septiembre. Tres señales para saber si tu proveedor es fábrica y no un intermediario.",
+    "tituloSeo": "Ganancias industriales de China +14,4%: tu proveedor",
+    "palabrasClave": [
+      "ganancias industriales China",
+      "verificar proveedor en China",
+      "fábrica o intermediario",
+      "muestra de preproducción",
+      "importar desde China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Trabajadores en una línea de producción dentro de una fábrica"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1700727448575-6f1680cd7d75?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Supervisor con una carpeta revisando el interior de una planta de producción"
+    },
+    "cuerpo": [
+      "Según InvestingLive, que cita datos oficiales de la Oficina Nacional de Estadísticas de China publicados el 27 de octubre de 2026, las ganancias de las empresas industriales del país subieron 14,4% interanual en septiembre. En agosto el avance había sido de 4,2%, de modo que el dato de septiembre es un repunte marcado.",
+      "En el acumulado de enero a septiembre, las ganancias industriales suben 15,5%, frente a 15,7% en el acumulado hasta agosto. La nota no ofrece un desglose por sector ni cifras de exportaciones o de América Latina, así que no es posible atribuir el resultado a una industria concreta.",
+      "Para un importador latinoamericano, la lectura útil es de contexto: las fábricas chinas operan en un entorno de ganancias crecientes. Pero este dato agregado no dice nada sobre el precio, el plazo o la capacidad de un proveedor en particular, y conviene no darle un efecto que la nota no sostiene.",
+      "Lo que sí está en tus manos es saber con quién compras. En una empresa de comercio es frecuente que quien te cotiza no sea quien fabrica; no es necesariamente un problema, pero cambia quién responde por la calidad y por la fecha de entrega. Desde sus oficinas en China y Ecuador, Linkit te ayuda a verificarlo antes de pagar."
+    ],
+    "guia": {
+      "titulo": "Tres señales para saber si tu proveedor es fábrica",
+      "items": [
+        {
+          "titulo": "Documentos de la empresa que coincidan con la planta",
+          "texto": "Pide la licencia comercial y comprueba que su actividad incluya fabricar el producto y que la dirección coincida con la de la planta; si solo aparece como comercializadora, es probable que sea un intermediario."
+        },
+        {
+          "titulo": "Una auditoría o visita a la planta",
+          "texto": "Una visita, presencial o por video en vivo, permite ver las máquinas, las líneas de producción y la mercadería en proceso; si el proveedor la evita o la posterga sin razón, toma nota."
+        },
+        {
+          "titulo": "Muestra de preproducción antes de pagar el saldo",
+          "texto": "Pide una muestra tomada de la producción y revísala contra tu especificación antes de liberar el pago final; es la forma más directa de confirmar qué te van a entregar."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Ganancias de las empresas industriales de China en septiembre de 2026: +14,4% interanual, frente a +4,2% en agosto.",
+        "fuente": "InvestingLive, citando datos oficiales, 27 de octubre de 2026"
+      },
+      {
+        "dato": "Ganancias industriales acumuladas de enero a septiembre de 2026: +15,5% interanual, frente a +15,7% de enero a agosto.",
+        "fuente": "InvestingLive, citando datos oficiales, 27 de octubre de 2026"
+      }
+    ],
+    "impacto": "El dato es un agregado de las empresas industriales de China; la nota no trae desglose por sector ni cifras de América Latina, y no permite afirmar nada sobre precios o plazos de un proveedor en particular. Linkit no controla la capacidad ni los plazos de las fábricas.",
+    "servicio": {
+      "nombre": "Sourcing, agencia de compras e inspección preembarque",
+      "ruta": "/servicios/sourcing",
+      "texto": "Con nuestro servicio de Sourcing verificamos si tu proveedor es fábrica, revisamos sus documentos, coordinamos la auditoría y la muestra de preproducción, y hacemos la inspección preembarque con el equipo de Linkit en China."
+    },
+    "tema": "importacion",
+    "fuente": {
+      "medio": "InvestingLive",
+      "url": "https://investinglive.com/news/china-september-industrial-profits-jump-14-4-y-y-rebounding-from-4-2-in-august/"
+    }
   }
 ]
