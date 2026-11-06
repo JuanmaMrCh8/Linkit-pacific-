@@ -2516,5 +2516,78 @@
       "medio": "InvestingLive",
       "url": "https://investinglive.com/news/china-september-industrial-profits-jump-14-4-y-y-rebounding-from-4-2-in-august/"
     }
+  },
+  {
+    "slug": "uruguay-china-primer-destino-410-millones-septiembre-diversificar",
+    "titulo": "Uruguay exportó US$410,4 millones a China en septiembre: por qué conviene abrir canal propio y no depender de un solo comprador",
+    "tituloCorto": "Uruguay a China: US$410 millones en un mes y la lección del canal propio",
+    "fecha": "2026-11-06",
+    "categoria": "Exportación",
+    "extracto": "China fue el primer destino de las exportaciones de Uruguay en septiembre, con US$410,4 millones. Las ventas totales del mes subieron 9,7%, pero en el acumulado del año apenas crecen 1,3%: una lección sobre depender de un solo comprador.",
+    "descripcionSeo": "China fue el primer destino de las exportaciones de Uruguay en septiembre, con US$410,4 millones. Tres cosas que una marca necesita para vender a China con canal propio.",
+    "tituloSeo": "Uruguay exporta US$410 millones a China: canal propio",
+    "palabrasClave": [
+      "exportaciones de Uruguay a China",
+      "vender a China",
+      "registro GACC",
+      "etiquetado GB",
+      "diversificar compradores"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1758158286655-f0d93d86e174?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Campo de soja seca listo para la cosecha bajo un cielo despejado"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1613690399151-65ea69478674?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Vista aérea de un buque de carga en el mar"
+    },
+    "cuerpo": [
+      "Según el Monitor de Comercio Exterior de la Universidad Católica del Uruguay (informe COEX-UY, del INI), citado por Reporte Asia el 21 de octubre de 2026, Uruguay exportó US$1.458,8 millones en septiembre, 9,7% más que un año antes. China encabezó la lista de destinos del mes con US$410,4 millones.",
+      "El panorama del año es menos vistoso: entre enero y septiembre las exportaciones uruguayas suman US$10.600 millones, solo 1,3% más que en el mismo período de 2025. Reporte Asia describe septiembre como un mes impulsado por la soja, lo que muestra cuánto puede pesar un producto a granel en el resultado de un solo mes.",
+      "La lectura útil para un exportador es de contexto, no de causa: cuando las ventas dependen de un comprador grande o de un producto de cosecha, el resultado sigue a la cosecha y a las decisiones de ese cliente. La nota no desglosa productos ni empresas, así que no permite extrapolar el dato a otros sectores ni a otros países.",
+      "Para una marca con producto propio, el reto es distinto: abrir un canal que no dependa de un solo intermediario. Desde sus oficinas en China y Ecuador, Linkit acompaña a las marcas latinoamericanas en ese camino, de la preparación del producto a la venta."
+    ],
+    "guia": {
+      "titulo": "Tres cosas que una marca necesita antes de vender a China con canal propio",
+      "items": [
+        {
+          "titulo": "Registro ante la aduana china (GACC)",
+          "texto": "Según la categoría del producto, el registro de la empresa o de la planta ante la aduana china puede ser un requisito para entrar; confirma cuál aplica a tu producto antes de buscar comprador."
+        },
+        {
+          "titulo": "Etiqueta en regla (GB)",
+          "texto": "El producto debe llegar con la etiqueta que exigen las normas chinas; revísala antes del embarque, porque un error en la etiqueta puede retrasar el ingreso."
+        },
+        {
+          "titulo": "Un comprador o un canal definido",
+          "texto": "Define si vas a vender a un importador, a un distribuidor o directo al consumidor por plataformas como WeChat, Tmall, Taobao o RED, y qué demanda hay para tu producto."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Exportaciones de Uruguay en septiembre de 2026: US$1.458,8 millones, +9,7% interanual.",
+        "fuente": "Monitor de Comercio Exterior (COEX-UY), INI-UCU, vía Reporte Asia, 21 de octubre de 2026"
+      },
+      {
+        "dato": "Exportaciones de Uruguay de enero a septiembre de 2026: US$10.600 millones, +1,3% interanual.",
+        "fuente": "Monitor de Comercio Exterior (COEX-UY), INI-UCU, vía Reporte Asia, 21 de octubre de 2026"
+      },
+      {
+        "dato": "China fue el primer destino de las exportaciones uruguayas en septiembre de 2026, con US$410,4 millones.",
+        "fuente": "Monitor de Comercio Exterior (COEX-UY), INI-UCU, vía Reporte Asia, 21 de octubre de 2026"
+      }
+    ],
+    "impacto": "Los datos son los de Uruguay en un mes impulsado por la soja; la nota no desglosa productos ni empresas y no permite extrapolar a otros países o sectores. Linkit no controla los precios ni las decisiones de compra de China, ni garantiza ventas.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Con nuestro servicio Growth Partner te ayudamos a entrar a China: inteligencia de mercado, registro GACC, etiquetado GB, demanda en WeChat, Tmall, Taobao y RED, y ejecución en el canal, con el equipo de Linkit en China."
+    },
+    "tema": "exportacion",
+    "fuente": {
+      "medio": "Reporte Asia",
+      "url": "https://reporteasia.com/america/mercosur/2026/10/21/uruguay-exporta-mas-impulsado-soja-china-sigue-frente/"
+    }
   }
 ]
