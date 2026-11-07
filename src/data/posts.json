@@ -2589,5 +2589,86 @@
       "medio": "Reporte Asia",
       "url": "https://reporteasia.com/america/mercosur/2026/10/21/uruguay-exporta-mas-impulsado-soja-china-sigue-frente/"
     }
+  },
+  {
+    "slug": "ano-nuevo-chino-2027-confirmar-pedidos-antes-20-25-noviembre",
+    "titulo": "Año Nuevo Chino 2027 cae el 6 de febrero: por qué los pedidos de 30 días de producción se confirman antes del 20-25 de noviembre",
+    "tituloCorto": "Año Nuevo Chino 2027: confirma tu pedido antes del cierre",
+    "fecha": "2026-11-07",
+    "categoria": "Importación",
+    "extracto": "El Año Nuevo Chino de 2027 empieza el 6 de febrero y las fábricas bajan el ritmo desde mediados de enero. Según agentes de compras, un pedido de 30 días de producción debe confirmarse con depósito antes del 20-25 de noviembre.",
+    "descripcionSeo": "El Año Nuevo Chino 2027 cae el 6 de febrero. Calendario para importar de China: cuándo confirmar el pedido, inspeccionar y embarcar antes del cierre de fábricas.",
+    "tituloSeo": "Año Nuevo Chino 2027: calendario para tus pedidos",
+    "palabrasClave": [
+      "Año Nuevo Chino 2027",
+      "cierre de fábricas en China",
+      "confirmar pedido antes del Año Nuevo Chino",
+      "inspección preembarque",
+      "importar desde China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1741176505800-caaa3a52631a?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Trabajadores cosiendo textiles en una fábrica grande"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1792317155783-4192a852143e?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Vista aérea de un puerto con contenedores y dos buques de carga"
+    },
+    "cuerpo": [
+      "El Año Nuevo Chino de 2027 empieza el 6 de febrero. Según dos agentes de compras que atienden a importadores de España y del Reino Unido, TuSocioEnChina y Easy Imex, las fábricas bajan el ritmo desde mediados de enero y recuperan el ritmo completo entre fines de febrero y principios o mediados de marzo.",
+      "TuSocioEnChina calcula que un pedido de 30 días de producción debe confirmarse con depósito antes del 20-25 de noviembre de 2026, y uno de 15-20 días antes del 10-15 de diciembre. Su regla práctica: para recibir mercadería antes de marzo de 2027, confirmar el pedido antes del 15 de diciembre de 2026. Son guías de calendario de agentes de compras, no una estadística oficial.",
+      "El cierre de fábricas dura entre 2 y 4 semanas según TuSocioEnChina, con reapertura gradual hasta el 10 de marzo, y las dos fuentes mencionan que entre 10% y 30% de los trabajadores no regresa tras el feriado. Las fuentes no coinciden en la duración exacta del cierre ni en los días del feriado oficial, así que conviene no apoyarse en un solo número.",
+      "Los cálculos de las fuentes usan tiempos de tránsito a Europa. Un importador de Ecuador o de otro país de Latinoamérica debe rehacer la cuenta con su tránsito real, y recordar que Linkit no garantiza plazos de fábricas ni de navieras. Desde sus oficinas en China y Ecuador, Linkit acompaña a los importadores en la programación de la producción y la inspección antes del cierre."
+    ],
+    "guia": {
+      "titulo": "Calendario para importar antes del cierre (fechas de las fuentes)",
+      "items": [
+        {
+          "titulo": "Confirma la producción con depósito",
+          "texto": "Según TuSocioEnChina, un pedido de 30 días de producción se confirma antes del 20-25 de noviembre de 2026; uno de 15-20 días, antes del 10-15 de diciembre."
+        },
+        {
+          "titulo": "Programa las inspecciones",
+          "texto": "Easy Imex recomienda completar las inspecciones antes de mediados de enero de 2027. Una inspección de la mercadería terminada antes de pagar el saldo permite revisar la calidad con la producción ya hecha."
+        },
+        {
+          "titulo": "Rehaz el calendario con tu tránsito",
+          "texto": "Suma producción, inspección y tránsito hasta tu puerto: las fuentes calculan con tránsito a Europa, y el de tu ruta puede ser distinto."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "El Año Nuevo Chino de 2027 es el 6 de febrero de 2027.",
+        "fuente": "TuSocioEnChina y Easy Imex"
+      },
+      {
+        "dato": "Cierre de fábricas de 2 a 4 semanas, con reapertura gradual hasta el 10 de marzo de 2027.",
+        "fuente": "TuSocioEnChina"
+      },
+      {
+        "dato": "Pedido de 30 días de producción: confirmar con depósito antes del 20-25 de noviembre de 2026; de 15-20 días: antes del 10-15 de diciembre de 2026.",
+        "fuente": "TuSocioEnChina"
+      },
+      {
+        "dato": "Entre 10% y 30% de los trabajadores no regresa tras el feriado.",
+        "fuente": "TuSocioEnChina y Easy Imex"
+      },
+      {
+        "dato": "Inspecciones: completarlas antes de mediados de enero de 2027.",
+        "fuente": "Easy Imex"
+      }
+    ],
+    "impacto": "Las fechas son guías de agentes de compras que atienden a España y al Reino Unido, no estadísticas oficiales; las fuentes difieren en los días del feriado y en la duración del cierre, por eso no se publican días exactos. Linkit no garantiza plazos de fábricas ni de navieras.",
+    "servicio": {
+      "nombre": "Inspección preembarque y control de calidad",
+      "ruta": "/inspecciones",
+      "texto": "Con el equipo de Linkit en China programamos la producción y la inspección de tu pedido antes del cierre de fábricas, y revisamos la mercadería terminada antes de que pagues el saldo y embarques."
+    },
+    "tema": "importacion",
+    "fuente": {
+      "medio": "TuSocioEnChina y Easy Imex",
+      "url": "https://tusocioenchina.com/importar/ano-nuevo-chino-2027-fechas-pedidos/"
+    }
   }
 ]
