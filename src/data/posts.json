@@ -2670,5 +2670,82 @@
       "medio": "TuSocioEnChina y Easy Imex",
       "url": "https://tusocioenchina.com/importar/ano-nuevo-chino-2027-fechas-pedidos/"
     }
+  },
+  {
+    "slug": "comercio-china-latam-19-1-por-ciento-exportaciones-25-9-ciie-cierra",
+    "titulo": "Comercio China–América Latina crece 19,1% hasta agosto y las exportaciones de la región suben 25,9%: qué hacer cuando cierra la CIIE",
+    "tituloCorto": "Comercio China–LatAm +19,1%: qué hacer tras la CIIE",
+    "fecha": "2026-11-08",
+    "categoria": "Exportación",
+    "extracto": "Según Xinhua, el comercio entre China y América Latina y el Caribe creció 19,1% entre enero y agosto de 2026, y las exportaciones de la región a China subieron 25,9%. La CIIE cierra el 10 de noviembre: el trabajo de canal empieza después.",
+    "descripcionSeo": "El comercio China–América Latina creció 19,1% de enero a agosto de 2026. Qué revisar (registro GACC, etiquetado GB, canal) cuando cierra la CIIE.",
+    "tituloSeo": "Comercio China–Latinoamérica +19,1%: tras la CIIE",
+    "palabrasClave": [
+      "comercio China América Latina 2026",
+      "exportar a China",
+      "CIIE 2026",
+      "registro GACC",
+      "etiquetado GB"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1545893835-abaa50cbe628?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Horizonte del distrito de Lujiazui reflejado en el río Huangpu desde el Bund, en Shanghái"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1761195696518-6384573549ea?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Visitantes recorriendo los stands de una exposición comercial"
+    },
+    "cuerpo": [
+      "Xinhua, medio estatal chino, informó el 4 de noviembre que el comercio entre China y América Latina y el Caribe creció 19,1% interanual entre enero y agosto de 2026 y sumó unos US$422.640 millones. Las exportaciones de la región a China llegaron a US$201.270 millones, 25,9% más que un año antes.",
+      "El dato llega mientras la Exposición Internacional de Importaciones de China (CIIE) se celebra en Shanghái del 5 al 10 de noviembre. Según EFE, Argentina llevó 63 expositores, frente a 42 el año pasado, y China es el destino de cerca del 70% de la carne vacuna que exporta ese país.",
+      "La lectura para una marca latinoamericana es doble: la demanda china de productos de la región crece, pero una feria que cierra no es una venta cerrada. Una marca puede ver las cifras, ir a la exposición y volver sin registro, sin etiqueta adecuada y sin comprador.",
+      "Conviene leer las cifras con cuidado. Son de un medio estatal, no traen desglose por producto ni por país exportador de la región, y la cifra de EFE sobre expositores corresponde a un solo país. Linkit no garantiza ventas ni lugares en ferias; desde sus oficinas en China y Ecuador acompaña a las marcas en lo que viene después de la feria."
+    ],
+    "guia": {
+      "titulo": "Qué revisar cuando cierra la feria",
+      "items": [
+        {
+          "titulo": "Registro y requisitos de acceso",
+          "texto": "Antes de buscar comprador, confirma si tu producto necesita registro ante la Aduana china (GACC) y qué permisos de acceso al mercado exige."
+        },
+        {
+          "titulo": "Etiquetado según la norma china (GB)",
+          "texto": "Revisa que el etiquetado cumpla la norma china antes de cerrar el contenedor; es una de las revisiones que más se dejan para el final."
+        },
+        {
+          "titulo": "Un canal para vender",
+          "texto": "Define cómo llegará tu producto al consumidor: distribución, plataformas como WeChat, Tmall, Taobao o RED, y quién atiende la venta y la logística en China."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "El comercio entre China y América Latina y el Caribe sumó unos US$422.640 millones entre enero y agosto de 2026, 19,1% más que un año antes.",
+        "fuente": "Xinhua en español, 4 de noviembre de 2026"
+      },
+      {
+        "dato": "Las exportaciones de la región a China fueron de US$201.270 millones entre enero y agosto de 2026, 25,9% más que un año antes.",
+        "fuente": "Xinhua en español, 4 de noviembre de 2026"
+      },
+      {
+        "dato": "La CIIE, en su novena edición, se celebra del 5 al 10 de noviembre de 2026; Argentina participa con 63 expositores, frente a 42 el año anterior.",
+        "fuente": "EFE vía Infobae, 5 de noviembre de 2026"
+      },
+      {
+        "dato": "China es el destino de cerca del 70% de la carne vacuna que exporta Argentina.",
+        "fuente": "EFE vía Infobae, 5 de noviembre de 2026"
+      }
+    ],
+    "impacto": "Las cifras de comercio son de un medio estatal chino y no tienen desglose por producto ni por país exportador de la región; la de expositores corresponde solo a Argentina. No hay datos de contratos firmados en esta edición de la CIIE. Linkit no garantiza ventas ni lugares en ferias.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China para marcas latinoamericanas",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Con el equipo de Linkit en China y en Ecuador te ayudamos con inteligencia de mercado, registro GACC, etiquetado GB, ventas y logística en China, y con la demanda en WeChat, Tmall, Taobao y RED, para que el trabajo de canal empiece cuando la feria termina."
+    },
+    "tema": "exportacion",
+    "fuente": {
+      "medio": "Xinhua en español y EFE vía Infobae",
+      "url": "http://spanish.xinhuanet.com/20261104/3615d3d14da54110aaf1f7aca6719f54/c.html"
+    }
   }
 ]
