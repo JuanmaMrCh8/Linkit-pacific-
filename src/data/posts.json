@@ -2670,5 +2670,82 @@
       "medio": "TuSocioEnChina y Easy Imex",
       "url": "https://tusocioenchina.com/importar/ano-nuevo-chino-2027-fechas-pedidos/"
     }
+  },
+  {
+    "slug": "china-rechazo-546-lotes-alimentos-septiembre-ecuador-105-etiquetado",
+    "titulo": "China rechazó 546 lotes de alimentos importados en septiembre: Ecuador encabeza la lista con 105 y las causas principales son normas de seguridad y etiquetado",
+    "tituloCorto": "China rechazó 546 lotes de alimentos en septiembre",
+    "fecha": "2026-11-11",
+    "categoria": "Exportación",
+    "extracto": "Según el registro mensual de ChemLinked, la Aduana de China rechazó 546 lotes de alimentos importados de 38 países en septiembre de 2026. Ecuador tuvo 105 (19,2%) y las causas más frecuentes fueron normas de seguridad alimentaria y etiquetado.",
+    "descripcionSeo": "China rechazó 546 lotes de alimentos importados en septiembre de 2026; Ecuador tuvo 105. Las 5 causas de rechazo y qué revisar antes de embarcar.",
+    "tituloSeo": "China rechazó 546 lotes de alimentos en septiembre",
+    "palabrasClave": [
+      "rechazo de alimentos en aduana china",
+      "exportar alimentos a China",
+      "etiquetado para China",
+      "registro GACC",
+      "exportar desde Ecuador a China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1587149185211-28a2ef4c9a10?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Contenedores de carga rojos y azules apilados en una terminal portuaria"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1664382953403-fc1ac77073a0?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Dos personas con una carpeta recorriendo un pasillo de almacén con estanterías"
+    },
+    "cuerpo": [
+      "ChemLinked, un portal de consultoría regulatoria, lleva un registro mensual de los lotes de alimentos importados que la Aduana de China rechaza. En septiembre de 2026 fueron 546 lotes de 38 países. Ecuador tuvo 105 (19,2%) y Estados Unidos 100 (18,3%). Los datos de la Aduana china se publicaron el 20 de octubre y ChemLinked los actualizó el 25.",
+      "La causa más frecuente fue el incumplimiento de normas nacionales de seguridad alimentaria, con 221 lotes (40,5%). Le siguieron el etiquetado, con 138 lotes (25,3%), la discrepancia entre la carga y el certificado, con 61 (11,2%), las enfermedades animales, con 49 (9,0%), y la falta de permisos de acceso al mercado, con 37 (6,8%).",
+      "Para un exportador latinoamericano la lectura práctica es la lista de lo que hay que revisar antes de cerrar el contenedor. Etiquetado y discrepancia entre carga y certificado suman 199 lotes, el 36,4% de los rechazos (cálculo propio con las cifras de ChemLinked), y son problemas de documentación y empaque que se pueden verificar antes de embarcar.",
+      "La nota no dice qué productos fueron los de Ecuador ni explica por qué, así que no corresponde atribuir el resultado a un producto ni a un exportador. Es el consolidado de un portal de consultoría y conviene contrastarlo con la fuente aduanera antes de tomar decisiones. Linkit no garantiza que una carga sea aceptada: acompaña a las marcas desde sus oficinas en China y Ecuador en el registro, el etiquetado y la logística."
+    ],
+    "guia": {
+      "titulo": "Qué revisar antes de cerrar el contenedor",
+      "items": [
+        {
+          "titulo": "Normas de seguridad alimentaria",
+          "texto": "Fue la causa de 221 lotes en septiembre. Confirma con tu comprador y con la fuente aduanera qué normas aplican a tu producto antes de producir."
+        },
+        {
+          "titulo": "Etiquetado y certificado",
+          "texto": "El etiquetado (138 lotes) y la discrepancia entre carga y certificado (61) fueron causas de rechazo. Verifica que la etiqueta y los documentos coincidan con lo que realmente viaja."
+        },
+        {
+          "titulo": "Permisos de acceso al mercado",
+          "texto": "37 lotes fueron rechazados por falta de permisos de acceso al mercado. Comprueba que tu producto y tu planta estén habilitados antes del embarque."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "En septiembre de 2026 la Aduana de China rechazó 546 lotes de alimentos importados de 38 países.",
+        "fuente": "ChemLinked (REACH24H), 25-oct-2026"
+      },
+      {
+        "dato": "Ecuador tuvo 105 lotes rechazados (19,2%) y Estados Unidos 100 (18,3%).",
+        "fuente": "ChemLinked (REACH24H)"
+      },
+      {
+        "dato": "Causas: normas nacionales de seguridad alimentaria 221 lotes (40,5%); etiquetado 138 (25,3%); discrepancia carga/certificado 61 (11,2%); enfermedades animales 49 (9,0%); falta de permisos de acceso al mercado 37 (6,8%).",
+        "fuente": "ChemLinked (REACH24H)"
+      },
+      {
+        "dato": "Etiquetado y discrepancia carga/certificado juntos: 199 lotes, 36,4% de los rechazos (cálculo propio).",
+        "fuente": "Cálculo propio con cifras de ChemLinked"
+      }
+    ],
+    "impacto": "Un contenedor rechazado en China cuesta el producto, el flete y el acceso, y puede afectar el registro del exportador. La nota no da detalle por producto ni por causa y país, así que no se puede inferir qué falló en cada caso. Lo prudente es revisar etiquetado, documentos y permisos antes de embarcar.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Si exportas alimentos a China, con el equipo de Linkit en China y en Ecuador revisamos registro GACC, etiquetado GB y logística antes del embarque, y coordinamos la inspección preembarque de tu carga."
+    },
+    "tema": "exportacion",
+    "fuente": {
+      "medio": "ChemLinked (REACH24H)",
+      "url": "https://food.chemlinked.com/news/food-news/2026-china-customs-rejection-data-629-batches-of-imported-food-in-january"
+    }
   }
 ]
