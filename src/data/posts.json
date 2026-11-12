@@ -2670,5 +2670,78 @@
       "medio": "TuSocioEnChina y Easy Imex",
       "url": "https://tusocioenchina.com/importar/ano-nuevo-chino-2027-fechas-pedidos/"
     }
+  },
+  {
+    "slug": "maersk-espera-puerto-16-6-horas-flota-96-utilizacion",
+    "titulo": "Maersk reporta 16,6 horas de espera media en puerto, la más larga desde enero de 2023, con la flota al 96% de utilización",
+    "tituloCorto": "Maersk: 16,6 horas de espera en puerto y flota al 96%",
+    "fecha": "2026-11-12",
+    "categoria": "Importación",
+    "extracto": "Según IndexBox, que cita a Splash, Maersk elevó por tercera vez su previsión de 2026 y reportó una espera media en puerto de 16,6 horas, la más larga desde enero de 2023, con la flota al 96% de utilización.",
+    "descripcionSeo": "Maersk reporta 16,6 horas de espera media en puerto y flota al 96%. Qué significa para tu importación y cómo dejar margen entre producción, cupo y embarque.",
+    "tituloSeo": "Maersk: 16,6 horas de espera en puerto y flota al 96%",
+    "palabrasClave": [
+      "Maersk espera en puerto",
+      "utilización de flota 96%",
+      "margen de entrega en puerto",
+      "cierre de cupo naviera",
+      "importar desde China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1764082261579-09d3f61561b3?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Buque portacontenedores atracado en un puerto concurrido con grúas"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1772009444404-25680043a19a?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Remolcadores asisten a un gran buque de carga en un puerto con mucho movimiento"
+    },
+    "cuerpo": [
+      "Maersk elevó por tercera vez su previsión de 2026, según IndexBox, que cita a Splash: espera un EBITDA subyacente de US$14.000 a 14.500 millones, frente a los US$10.500-12.500 millones anteriores. En el tercer trimestre facturó US$18.100 millones, 27% más que un año antes.",
+      "Entre los datos operativos, la flota trabajó al 96% de utilización y el tiempo medio de espera en puerto fue de 16,6 horas, el más largo desde enero de 2023. Es una señal de mercado apretado: poca holgura de capacidad y más espera en los puertos.",
+      "Para un importador de Latinoamérica la lectura es de calendario. Con la flota casi llena y esperas más largas en puerto, un plazo calculado «justo» se vuelve optimista: quien no deja margen entre la fecha de producción, el cierre de cupo y el embarque puede perder el buque.",
+      "Las cifras son globales y de Maersk: la nota no trae datos de rutas hacia Sudamérica, así que no deben atribuirse a ellas. Linkit no controla puertos ni navieras y no garantiza plazos de entrega; desde sus oficinas en China y Ecuador acompaña a los importadores en la coordinación de la carga antes del embarque."
+    ],
+    "guia": {
+      "titulo": "Cómo dejar margen entre producción, cupo y embarque",
+      "items": [
+        {
+          "titulo": "Entrega a puerto antes del cierre de cupo",
+          "texto": "Coordina la entrega de la carga con holgura respecto al cierre de cupo de la naviera, no el último día, para no perder el buque si el puerto tiene espera."
+        },
+        {
+          "titulo": "Separa las fechas en tu calendario",
+          "texto": "Anota por separado la fecha de producción lista, el cierre de cupo y el embarque, y deja días de colchón entre cada una."
+        },
+        {
+          "titulo": "Llega a puerto con la carga lista",
+          "texto": "Confirma con tu agente que la mercadería esté consolidada, documentada e inspeccionada antes de llegar a puerto, para no gastar el margen en pendientes."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Previsión 2026 de Maersk: EBITDA subyacente de US$14.000 a 14.500 millones, frente a los US$10.500-12.500 millones anteriores.",
+        "fuente": "IndexBox, 5 de noviembre de 2026"
+      },
+      {
+        "dato": "Tercer trimestre de 2026: ingresos de US$18.100 millones, 27% más que un año antes.",
+        "fuente": "IndexBox, 5 de noviembre de 2026"
+      },
+      {
+        "dato": "Flota al 96% de utilización y espera media en puerto de 16,6 horas, la más larga desde enero de 2023.",
+        "fuente": "IndexBox, citando a Splash"
+      }
+    ],
+    "impacto": "Las cifras son de Maersk y de alcance global; la nota no trae datos de rutas hacia Sudamérica ni plazos concretos, y la nota original de Splash no se pudo abrir. Linkit no controla puertos ni navieras y no garantiza plazos de entrega.",
+    "servicio": {
+      "nombre": "Logística y desaduanización",
+      "ruta": "/servicios/logistica",
+      "texto": "Con el equipo de Linkit en China coordinamos la entrega de tu carga a puerto antes del cierre de cupo y damos seguimiento a la consolidación y a la documentación del embarque."
+    },
+    "tema": "logistica",
+    "fuente": {
+      "medio": "IndexBox",
+      "url": "https://indexbox.io/blog/maersk-raises-full-year-guidance-for-third-time-in-2026"
+    }
   }
 ]
