@@ -2670,5 +2670,82 @@
       "medio": "TuSocioEnChina y Easy Imex",
       "url": "https://tusocioenchina.com/importar/ano-nuevo-chino-2027-fechas-pedidos/"
     }
+  },
+  {
+    "slug": "china-licencia-exportar-drones-18-noviembre-pedirla-antes-de-pagar",
+    "titulo": "China exigirá licencia especial para exportar drones de largo alcance, motores y componentes desde el 18 de noviembre: pídela al proveedor antes de pagar",
+    "tituloCorto": "Drones desde China: pide la licencia antes de pagar",
+    "tituloSeo": "China exige licencia para exportar drones (18 nov)",
+    "fecha": "2026-11-13",
+    "categoria": "Regulatorio",
+    "extracto": "Desde el 18 de noviembre, China exigirá una licencia especial para exportar drones de largo alcance, motores, hélices, equipos de radiocomunicación y tecnologías de navegación avanzada. Qué documentos pedir al proveedor antes de pagar.",
+    "descripcionSeo": "China exigirá desde el 18 de noviembre licencia especial para exportar drones, motores y componentes. Qué documentos pedir al proveedor antes de pagar el pedido.",
+    "palabrasClave": [
+      "licencia exportación drones China",
+      "controles de exportación China",
+      "importar drones desde China",
+      "18 de noviembre China drones",
+      "productos de doble uso China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1713952160156-bb59cac789a9?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Dron fumigando un campo de cultivo verde"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Dron blanco en pleno vuelo"
+    },
+    "cuerpo": [
+      "China endurece desde el 18 de noviembre de 2026 los controles a la exportación de drones y de sus componentes por razones de seguridad nacional. Según la agencia EFE, quien venda al exterior drones con un alcance igual o superior a 300 km, que operen fuera del alcance visual, con autonomía prolongada o preparados para la pulverización de gran capacidad, necesitará una licencia especial.",
+      "La misma exigencia alcanza a motores, hélices, equipos de radiocomunicación y tecnologías de navegación avanzada. Europa Press, en una nota difundida por Infobae, informa que el 18 de noviembre también entra en vigor el control sobre tuneladoras y dragas. Las notas citan la Ley de Control de Exportaciones y el Reglamento de Control de Exportación de Artículos de Doble Uso.",
+      "Para un importador de América Latina que compre drones (por ejemplo, para agricultura o topografía), motores o componentes de navegación, el cambio es práctico: si el proveedor no tiene la licencia en regla, la orden puede quedar detenida en China. Las notas no dan plazos de trámite ni una lista de productos por partida arancelaria, y tampoco dicen que el cambio afecte a Latinoamérica en particular, así que no conviene asumir plazos ni efectos sobre precios.",
+      "Linkit no tramita licencias de exportación chinas ni clasifica productos. Lo que sí hacemos, desde nuestras oficinas en China y Ecuador, es ayudarte a verificar al proveedor y la documentación antes del pago y del embarque."
+    ],
+    "guia": {
+      "titulo": "3 documentos a pedir al proveedor antes de pagar un producto de doble uso",
+      "items": [
+        {
+          "titulo": "La licencia de exportación",
+          "texto": "Si tu producto puede caer en las categorías anunciadas (drones de largo alcance, motores, hélices, radiocomunicación o navegación avanzada), pregunta por escrito si requiere licencia especial y pide una copia antes de pagar."
+        },
+        {
+          "titulo": "La factura comercial detallada",
+          "texto": "Que describa el producto con modelo y especificaciones concretas, para poder comparar lo que se compra con lo que dicen las categorías sujetas a control."
+        },
+        {
+          "titulo": "La ficha técnica",
+          "texto": "Alcance, autonomía y capacidad de carga o de pulverización figuran entre los criterios citados por EFE; la ficha técnica permite verlos y confirmarlos con el proveedor."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Los nuevos controles de exportación de drones y de sus componentes entran en vigor el 18 de noviembre de 2026.",
+        "fuente": "Revista Mercado (EFE) e Infobae (Europa Press), 19 de octubre de 2026"
+      },
+      {
+        "dato": "La licencia especial aplica a drones con alcance igual o superior a 300 km, fuera del alcance visual, de autonomía prolongada o preparados para pulverización de gran capacidad.",
+        "fuente": "Revista Mercado (EFE)"
+      },
+      {
+        "dato": "También requieren licencia motores, hélices, equipos de radiocomunicación y tecnologías de navegación avanzada.",
+        "fuente": "Revista Mercado (EFE)"
+      },
+      {
+        "dato": "El 18 de noviembre entra en vigor el mismo control para tuneladoras y dragas.",
+        "fuente": "Infobae (Europa Press)"
+      }
+    ],
+    "impacto": "Quien compre drones, motores o componentes de navegación a un proveedor chino debe pedir la licencia, la factura detallada y la ficha técnica antes de pagar. Las notas no indican plazos de trámite ni una lista por partida arancelaria, y Linkit no tramita licencias de exportación chinas ni clasifica productos.",
+    "servicio": {
+      "nombre": "Sourcing e Importación",
+      "ruta": "/servicios/sourcing",
+      "texto": "Con el equipo de Linkit en China verificamos al proveedor y revisamos la documentación del producto (licencia, factura y ficha técnica) antes del pago y del embarque."
+    },
+    "fuente": {
+      "medio": "Revista Mercado (EFE)",
+      "url": "https://revistamercado.do/internacional/china-restricciones-exportacion-drones-tecnologias-noviembre-2026/"
+    },
+    "tema": "regulatorio"
   }
 ]
