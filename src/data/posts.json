@@ -2751,5 +2751,82 @@
       "medio": "E-Aduana (cita al Consejo Empresarial Brasil-China, CEBC)",
       "url": "https://www.eaduana.com/articulos/brasil-y-china-baten-record-comercial-en-2026"
     }
+  },
+  {
+    "slug": "china-registro-alimentos-anuncio-150-formulario-10-campos-3-dias",
+    "titulo": "China simplifica el registro de importadores y exportadores de alimentos: el Anuncio 150 reduce el formulario de 20 a 10 campos y la revisión a 3 días hábiles",
+    "tituloCorto": "China simplifica el registro de alimentos: Anuncio 150",
+    "fecha": "2026-11-15",
+    "categoria": "Regulatorio",
+    "extracto": "La Aduana de China publicó el 23 de octubre de 2026 el Anuncio 150, que reemplaza la norma de 2012 sobre el registro de importadores y exportadores de alimentos: formulario más corto y revisión en 3 días hábiles. Qué revisar antes de exportar.",
+    "descripcionSeo": "El Anuncio 150 de 2026 de la Aduana de China simplifica el registro de importadores y exportadores de alimentos. Qué cambió y qué revisar antes de exportar.",
+    "tituloSeo": "China simplifica el registro de importadores de alimentos",
+    "palabrasClave": [
+      "Anuncio 150 aduana China",
+      "registro GACC alimentos",
+      "exportar alimentos a China",
+      "registro de importadores de alimentos China",
+      "regulación aduanera China 2026"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1653656120510-b800119e5b73?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Mujer revisando documentos y trabajando con una laptop sobre una mesa"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1573014089159-8ee711dc5a8e?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Buque de carga navegando en alta mar visto desde el puente"
+    },
+    "cuerpo": [
+      "Según ChemLinked y Vietnam News, la Aduana de China (GACC) publicó el 23 de octubre de 2026 el Anuncio 150, que regula el registro de los importadores y exportadores de alimentos importados y reemplaza la norma de 2012. ChemLinked informa que entró en vigor desde su publicación; Vietnam News no menciona la fecha de entrada en vigor.",
+      "Entre los cambios que reportan las fuentes: el formulario de registro pasa de 20 a 10 campos de información (Vietnam News); la revisión de una solicitud completa baja de 5 a 3 días hábiles (ChemLinked y Vietnam News); y la autoridad competente deja de ser la antigua AQSIQ y sus oficinas locales para ser la GACC y las aduanas locales (ChemLinked). Para el importador chino, ChemLinked indica que el registro se resume en un único formulario que puede completarse junto con el registro de consignatario y consignador de la aduana.",
+      "Los trámites de registro, modificación y cancelación pueden presentarse en línea, a través de la Ventanilla Única de Comercio Internacional de China o del portal de servicios públicos de la aduana (Vietnam News). Las empresas registradas deben avisar a la aduana de los cambios en sus datos en un plazo de 60 días.",
+      "La simplificación no elimina el control. Según Vietnam News, los exportadores extranjeros y sus agentes son responsables de la autenticidad, exactitud e integridad de la información que presentan, y la aduana puede hacer inspecciones in situ, verificar los datos y cruzarlos en los puntos de despacho; quien declare información falsa o que no coincida con la realidad puede tener que corregirla o enfrentar la cancelación de su registro. Las fuentes son notas de prensa especializada y no el texto oficial del Anuncio 150, así que conviene confirmar los detalles en la fuente primaria antes de actuar. Linkit no tramita el registro por cuenta de la aduana china; desde sus oficinas en China y Ecuador acompaña a las marcas de Latinoamérica que quieren entrar a ese mercado."
+    ],
+    "guia": {
+      "titulo": "3 revisiones antes de exportar alimentos a China con el nuevo registro",
+      "items": [
+        {
+          "titulo": "Confirma qué exige la norma vigente para tu producto",
+          "texto": "Las fuentes resumen el Anuncio 150, pero no sustituyen el texto oficial. Verifica con la aduana china o con un asesor qué registro aplica a tu empresa y a tu categoría de producto."
+        },
+        {
+          "titulo": "Que lo declarado coincida con la realidad",
+          "texto": "La aduana puede verificar los datos y cruzarlos en frontera, y una declaración inexacta puede llevar a corregirla o a perder el registro. Revisa que los datos de tu empresa, tu agente y tu producto estén completos y sean ciertos."
+        },
+        {
+          "titulo": "Mantén tus datos al día y presenta por el canal oficial",
+          "texto": "Los cambios en la información registrada se notifican a la aduana en un plazo de 60 días, y los trámites se hacen en línea. Define quién en tu equipo (o en tu agente) vigila los cambios y guarda los comprobantes."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Anuncio 150 de 2026 de la Aduana de China (GACC), publicado el 23 de octubre de 2026; reemplaza la norma de 2012 sobre el registro de importadores y exportadores de alimentos importados.",
+        "fuente": "ChemLinked"
+      },
+      {
+        "dato": "El formulario de registro pasa de 20 a 10 campos de información.",
+        "fuente": "Vietnam News"
+      },
+      {
+        "dato": "La revisión de una solicitud completa baja de 5 a 3 días hábiles.",
+        "fuente": "ChemLinked y Vietnam News"
+      },
+      {
+        "dato": "Las empresas registradas deben avisar a la aduana de los cambios en su información en un plazo de 60 días.",
+        "fuente": "Vietnam News"
+      }
+    ],
+    "impacto": "Las fuentes son notas de prensa especializada (ChemLinked y Vietnam News) y no el texto oficial del Anuncio 150; difieren en que ChemLinked indica vigencia desde la publicación y Vietnam News no da fecha. La nota no detalla los campos del formulario ni requisitos por producto. Linkit no define requisitos de la aduana china ni garantiza la aprobación de un registro ni plazos de trámite.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Con nuestro servicio Growth Partner te ayudamos a entrar a China: inteligencia de mercado, registro GACC, etiquetado GB, demanda en WeChat, Tmall, Taobao y RED, y ejecución en el canal, con el equipo de Linkit en China."
+    },
+    "tema": "regulatorio",
+    "fuente": {
+      "medio": "ChemLinked y Vietnam News",
+      "url": "https://food.chemlinked.com/news/food-news/china-amends-filing-rules-for-food-importers-and-exporters"
+    }
   }
 ]
