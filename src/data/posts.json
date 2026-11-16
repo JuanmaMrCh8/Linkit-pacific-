@@ -2828,5 +2828,82 @@
       "medio": "ChemLinked y Vietnam News",
       "url": "https://food.chemlinked.com/news/food-news/china-amends-filing-rules-for-food-importers-and-exporters"
     }
+  },
+  {
+    "slug": "china-precios-productor-5-7-por-ciento-octubre-cotizacion-proveedor",
+    "titulo": "Los precios al productor de China suben 5,7% interanual en octubre, el mayor alza en casi 4,5 años: qué revisar en la cotización de tu proveedor",
+    "tituloCorto": "Precios al productor de China: +5,7% en octubre",
+    "fecha": "2026-11-16",
+    "categoria": "Importación",
+    "extracto": "El índice de precios al productor de China subió 5,7% interanual en octubre, su mayor alza en casi 4,5 años según Reuters. Qué significa para quien importa y qué revisar antes de confirmar una cotización.",
+    "descripcionSeo": "Los precios al productor de China subieron 5,7% interanual en octubre de 2026, el mayor alza en casi 4,5 años. Qué revisar en la cotización de tu proveedor.",
+    "tituloSeo": "Precios al productor de China suben 5,7% en octubre",
+    "palabrasClave": [
+      "precios al productor China",
+      "IPP China octubre 2026",
+      "cotización proveedor China",
+      "importar desde China",
+      "costos de fábrica China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1787422429941-b1966d776195?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Persona caminando por una fábrica con maquinaria industrial"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1664382953403-fc1ac77073a0?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Dos mujeres recorriendo el pasillo de un almacén con estanterías azules, una de ellas con una carpeta"
+    },
+    "cuerpo": [
+      "Según datos de la Oficina Nacional de Estadísticas de China citados por Reuters, el índice de precios al productor (IPP) subió 5,7% interanual en octubre de 2026, frente a 5,0% en septiembre. La cifra superó el 5,3% que esperaba un sondeo de Reuters y es, según datos de LSEG que cita la agencia, el mayor aumento anual desde junio de 2022, cuando llegó a 6,1%.",
+      "Reuters atribuye parte de la presión a la energía: indica que la guerra en Medio Oriente ha mantenido altos sus precios y que eso eleva los costos de la minería de carbón, la extracción de petróleo y gas, los químicos y otros sectores intensivos en energía. Al mismo tiempo, los precios al consumidor casi no se mueven: el IPC subió 0,7% interanual en octubre, tras 0,9% en septiembre, y la agencia explica que la débil demanda de los hogares limita que esa presión llegue al consumidor.",
+      "Para quien importa desde China, el IPP mide los precios en la puerta de la fábrica a nivel agregado; no dice cuánto cambiará el precio de un producto concreto ni de un proveedor concreto. Lo que sí es una observación práctica de Linkit, y no un dato de la fuente, es que cuando los costos de producción suben aumenta el riesgo de que una cotización cambie entre la oferta y el pedido, o de que cambie lo que se entrega sin que el precio lo refleje. Por eso conviene dejar por escrito qué se compra y a qué precio, y comprobar al recibir que coincide.",
+      "Las fuentes que citamos son una nota de Reuters y no el texto de la oficina de estadísticas, y las proyecciones que recoge Reuters, como la de Capital Economics de que el efecto se atenuará el próximo año, son opiniones de analistas, no hechos. Linkit no predice precios ni garantiza que un proveedor mantenga una cotización; desde sus oficinas en China y Ecuador acompaña a importadores de Latinoamérica en la verificación de proveedores, la producción y la inspección antes del embarque."
+    ],
+    "guia": {
+      "titulo": "3 revisiones antes de confirmar una cotización con un proveedor en China",
+      "items": [
+        {
+          "titulo": "Fija la vigencia de la cotización",
+          "texto": "Pregunta hasta qué fecha vale el precio y qué pasa si el pedido se confirma después. Deja la fecha de vigencia por escrito en la oferta o en la orden de compra."
+        },
+        {
+          "titulo": "Pide la especificación por escrito",
+          "texto": "Materiales, acabados, medidas y empaque deben quedar detallados y firmados antes de producir. Así tienes una referencia clara para comparar con lo que se fabrica."
+        },
+        {
+          "titulo": "Compara lo producido con lo pedido antes de pagar el saldo",
+          "texto": "Revisa la mercadería terminada contra la especificación antes de embarcar. Define también en qué moneda se factura y en qué fecha se paga cada parte."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "El IPP de China subió 5,7% interanual en octubre de 2026, frente a 5,0% en septiembre; el sondeo de Reuters esperaba 5,3%.",
+        "fuente": "Oficina Nacional de Estadísticas de China, vía Reuters"
+      },
+      {
+        "dato": "Es el mayor aumento anual desde junio de 2022 (6,1%), el más rápido en casi 4,5 años.",
+        "fuente": "Reuters, con datos de LSEG"
+      },
+      {
+        "dato": "El IPC subió 0,7% interanual en octubre (0,9% en septiembre); la inflación subyacente fue 0,8% (1,0% en septiembre).",
+        "fuente": "Reuters"
+      },
+      {
+        "dato": "Reuters señala que los precios altos de la energía elevan los costos de la minería de carbón, el petróleo y gas, los químicos y otros sectores intensivos en energía.",
+        "fuente": "Reuters"
+      }
+    ],
+    "impacto": "La fuente es una nota de Reuters y no el texto oficial de la oficina de estadísticas. El IPP es un indicador agregado y no informa el precio de ningún producto ni proveedor concreto; la nota no analiza el efecto sobre los importadores. La observación sobre el riesgo de cambios en una cotización es de Linkit, no de la fuente. Linkit no predice precios ni garantiza que un proveedor mantenga una cotización.",
+    "servicio": {
+      "nombre": "Inspección preembarque y control de calidad",
+      "ruta": "/inspecciones",
+      "texto": "Con el equipo de Linkit en China revisamos la producción y la mercadería terminada contra tu especificación antes de que pagues el saldo y embarques."
+    },
+    "tema": "importacion",
+    "fuente": {
+      "medio": "Reuters, vía Business Recorder",
+      "url": "https://www.brecorder.com/news/amp/40448099"
+    }
   }
 ]
