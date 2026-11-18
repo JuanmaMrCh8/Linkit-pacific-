@@ -2905,5 +2905,78 @@
       "medio": "Reuters, vía Business Recorder",
       "url": "https://www.brecorder.com/news/amp/40448099"
     }
+  },
+  {
+    "slug": "ecuador-autos-chinos-56-8-por-ciento-ventas-verificar-proveedor",
+    "titulo": "Los autos de fabricación china ya son el 56,8% de las ventas de vehículos nuevos en Ecuador: qué comprobar cuando dependes de proveedores en China",
+    "tituloCorto": "Autos chinos: 56,8% de las ventas en Ecuador",
+    "fecha": "2026-11-18",
+    "categoria": "Importación",
+    "extracto": "Entre enero y septiembre de 2026, el 56,8% de los vehículos nuevos vendidos en Ecuador fue de fabricación china, según E-Aduana con datos de Aeade y Cinae. Qué enseña la cifra a quien compra a proveedores en China.",
+    "descripcionSeo": "El 56,8% de los vehículos nuevos vendidos en Ecuador hasta septiembre de 2026 fue de fabricación china. Qué revisar si compras a proveedores en China.",
+    "tituloSeo": "Autos chinos: 56,8% de las ventas en Ecuador",
+    "palabrasClave": [
+      "autos chinos Ecuador",
+      "vehículos fabricación china 2026",
+      "importar desde China",
+      "verificar proveedor China",
+      "comprar a proveedores en China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1777175013302-eaf4b3ef785a?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Varios autos nuevos estacionados en una sala de exhibición"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Contenedores de carga apilados en un puerto"
+    },
+    "cuerpo": [
+      "Según un artículo de E-Aduana publicado el 22 de octubre de 2026, los vehículos de fabricación china representaron el 56,8% de las ventas de vehículos nuevos en Ecuador entre enero y septiembre de este año. La nota atribuye el porcentaje a un informe de la Aeade y aclara que corresponde a esos nueve meses, no al primer semestre.",
+      "En unidades, E-Aduana cita a la Cinae para señalar que se vendieron 70.383 vehículos fabricados en China, sobre un total de 123.927 vehículos nuevos vendidos en el país según la Aeade. Son los datos que recoge la fuente; no incluye cifras de importaciones desde China ni de otros productos, y por eso este artículo no las menciona.",
+      "Para quien importa, la cifra ilustra algo que ya se ve en la práctica: cuando una parte grande de lo que se compra depende de fábricas en China, la calidad y la coherencia entre lo pedido y lo recibido pasan a ser decisivas. Esta lectura es una observación de Linkit, no una conclusión de la fuente: el dato trata de vehículos y no dice nada sobre la calidad de ningún proveedor ni producto concreto.",
+      "Las fuentes que citamos son un artículo de E-Aduana y los datos de Aeade y Cinae que ese artículo recoge; no consultamos directamente los informes originales. Linkit no predice el mercado ni garantiza resultados con ningún proveedor; desde sus oficinas en China y Ecuador acompaña a importadores de Latinoamérica en la verificación de proveedores, la producción y la inspección antes del embarque."
+    ],
+    "guia": {
+      "titulo": "3 comprobaciones al depender de un proveedor en China",
+      "items": [
+        {
+          "titulo": "Verifica quién fabrica realmente",
+          "texto": "Pide el nombre y los datos de la fábrica y confirma que corresponden a quien te cotiza. Distinguir entre fábrica e intermediario te ayuda a saber con quién estás acordando."
+        },
+        {
+          "titulo": "Deja la especificación por escrito",
+          "texto": "Materiales, medidas, acabados y empaque deben quedar detallados y firmados antes de producir. Esa especificación es tu referencia para revisar lo fabricado."
+        },
+        {
+          "titulo": "Compara lo producido con lo pedido antes de embarcar",
+          "texto": "Revisa la mercadería terminada contra la especificación antes de pagar el saldo y cargar. Si algo no coincide, es más fácil corregirlo en la fábrica que al llegar."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Los vehículos de fabricación china fueron el 56,8% de las ventas de vehículos nuevos en Ecuador entre enero y septiembre de 2026.",
+        "fuente": "Aeade, vía E-Aduana (22-oct-2026)"
+      },
+      {
+        "dato": "Se vendieron 70.383 vehículos fabricados en China entre enero y septiembre de 2026.",
+        "fuente": "Cinae, vía E-Aduana"
+      },
+      {
+        "dato": "El total de vehículos nuevos vendidos en Ecuador en ese período fue de 123.927.",
+        "fuente": "Aeade, vía E-Aduana"
+      }
+    ],
+    "impacto": "La fuente es un artículo de E-Aduana que cita a Aeade y Cinae; no consultamos los informes originales. El dato se refiere solo a vehículos nuevos y no informa sobre importaciones desde China ni sobre otros productos. La lectura sobre la importancia de verificar lo pedido frente a lo recibido es de Linkit, no de la fuente. Linkit no predice el mercado ni garantiza resultados con un proveedor.",
+    "servicio": {
+      "nombre": "Inspección preembarque y control de calidad",
+      "ruta": "/inspecciones",
+      "texto": "Con el equipo de Linkit en China revisamos la producción y la mercadería terminada contra tu especificación antes de que pagues el saldo y embarques."
+    },
+    "tema": "importacion",
+    "fuente": {
+      "medio": "E-Aduana, con datos de Aeade y Cinae",
+      "url": "https://www.eaduana.com/articulos/los-autos-chinos-conquistan-ecuador"
+    }
   }
 ]
