@@ -3055,5 +3055,82 @@
       "medio": "E-Aduana, con datos de ADEX / CIEN-ADEX",
       "url": "https://www.eaduana.com/articulos/peru-se-acerca-a-un-nuevo-record-de-exportaciones-a-china-en-2026"
     }
+  },
+  {
+    "slug": "colombia-china-potencial-1300-millones-797-sin-aprovechar",
+    "titulo": "Colombia tiene un potencial de US$1.300 millones en China y cerca de US$797 millones sin aprovechar: qué pedir al comprador antes de aceptar un lote",
+    "tituloCorto": "Colombia–China: US$797 millones de potencial sin aprovechar",
+    "fecha": "2026-11-20",
+    "categoria": "Exportación",
+    "extracto": "Según Analdex y el Export Potential Map del ITC, Colombia tiene un potencial exportador a China de unos US$1.300 millones, con cerca de US$797 millones sin aprovechar. Qué pedir al comprador antes de aceptar un lote.",
+    "descripcionSeo": "Colombia tiene un potencial de US$1.300 millones en China, con cerca de US$797 millones sin aprovechar (Analdex/ITC). Qué pedir al comprador antes de enviar.",
+    "tituloSeo": "Colombia–China: US$797 millones sin aprovechar",
+    "palabrasClave": [
+      "exportar de Colombia a China",
+      "potencial exportador Colombia China",
+      "vender a China desde Colombia",
+      "requisitos comprador China",
+      "exportaciones colombianas a China 2026"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1769144256207-bc4bb75b29db?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Vista aérea de un buque portacontenedores cargado en un puerto"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1559297434-fae8a1916a79?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Vehículos guiados automáticos transportando contenedores en una terminal portuaria"
+    },
+    "cuerpo": [
+      "Según el documento \"Comercio exterior con China\" publicado por Analdex en noviembre de 2026, que usa el Export Potential Map del Centro de Comercio Internacional (ITC), el potencial de exportación de Colombia hacia China es de aproximadamente US$1.300 millones, de los cuales cerca de US$797 millones siguen sin aprovecharse.",
+      "El mismo documento recoge que las exportaciones colombianas a China sumaron US$1.645 millones en 2025, con una variación de -30,8% frente a 2024. En sentido contrario, las importaciones desde China fueron de US$19.376 millones (+21,6%), lo que deja un déficit comercial de US$16.509 millones. Analdex indica además que Colombia y China no tienen un acuerdo comercial con preferencias arancelarias; el arancel promedio aplicado por China en 2025 fue de 7,5% en total y de 14,0% para bienes agrícolas.",
+      "Un potencial calculado para el país no describe la situación de ninguna empresa en particular. Esta lectura es una observación de Linkit, no una conclusión de la fuente: sin un tratado que ordene las condiciones, cada envío depende de lo que acuerde el exportador con su comprador y de lo que China exija para ese producto.",
+      "Por eso, antes de aceptar un lote conviene dejar claro, por escrito, qué espera el comprador. Linkit no predice el mercado ni garantiza ventas; desde sus oficinas en China y Ecuador acompaña a exportadores de Latinoamérica en la verificación y la preparación de sus envíos."
+    ],
+    "guia": {
+      "titulo": "3 cosas que pedir al comprador en China antes de aceptar un lote",
+      "items": [
+        {
+          "titulo": "Requisitos de ingreso de tu producto",
+          "texto": "Pregunta qué registro, certificados y etiquetado exige China para tu categoría, y quién será responsable de cada trámite, antes de fijar volumen y fecha de embarque."
+        },
+        {
+          "titulo": "Datos y documentos del comprador",
+          "texto": "Pide el nombre legal de la empresa, su registro y quién firma, y confirma si es el comprador final o un intermediario."
+        },
+        {
+          "titulo": "Condiciones comerciales por escrito",
+          "texto": "Especificación del producto, Incoterm, forma y plazo de pago y documentos de embarque deben quedar acordados antes de producir o enviar."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "El potencial de exportación de Colombia a China es de aproximadamente US$1.300 millones, con cerca de US$797 millones sin aprovechar.",
+        "fuente": "Analdex, con datos del Export Potential Map del ITC (analdex.org, nov-2026)"
+      },
+      {
+        "dato": "Las exportaciones de Colombia a China en 2025 fueron de US$1.645 millones, con una variación de -30,8% frente a 2024.",
+        "fuente": "Analdex, \"Comercio exterior con China\" (nov-2026)"
+      },
+      {
+        "dato": "Las importaciones desde China fueron de US$19.376 millones en 2025 (+21,6%) y el déficit comercial fue de US$16.509 millones.",
+        "fuente": "Analdex, \"Comercio exterior con China\" (nov-2026)"
+      },
+      {
+        "dato": "Colombia y China no tienen un acuerdo comercial con preferencias arancelarias; el arancel promedio aplicado por China en 2025 fue de 7,5% en total y de 14,0% para bienes agrícolas.",
+        "fuente": "Analdex, \"Comercio exterior con China\" (nov-2026)"
+      }
+    ],
+    "impacto": "La fuente es un documento de Analdex que cita el Export Potential Map del ITC. Las cifras son del país en su conjunto y no describen a ningún exportador ni producto concreto. La lectura sobre qué pedir al comprador es de Linkit, no de la fuente. Linkit no predice el mercado ni garantiza ventas.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China para marcas de Latinoamérica",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Te acompañamos con inteligencia de mercado, registro ante las autoridades de China, etiquetado y ejecución en canal, con equipo en nuestras oficinas de China y Ecuador. Linkit no garantiza ventas."
+    },
+    "tema": "exportacion",
+    "fuente": {
+      "medio": "Analdex, con datos del Export Potential Map del ITC",
+      "url": "https://analdex.org/wp-content/uploads/2026/11/261103-Comex-con-China.pdf"
+    }
   }
 ]
