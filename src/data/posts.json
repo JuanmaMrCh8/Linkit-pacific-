@@ -3132,5 +3132,82 @@
       "medio": "Analdex, con datos del Export Potential Map del ITC",
       "url": "https://analdex.org/wp-content/uploads/2026/11/261103-Comex-con-China.pdf"
     }
+  },
+  {
+    "slug": "argentina-exportaciones-record-10-061-millones-superavit-3-394",
+    "titulo": "Argentina exportó un récord de US$10.061 millones en octubre y el superávit comercial fue de US$3.394 millones: qué revisar antes de cada envío",
+    "tituloCorto": "Argentina: exportaciones récord de US$10.061 millones en octubre",
+    "fecha": "2026-11-21",
+    "categoria": "Exportación",
+    "extracto": "Según el INDEC, las exportaciones de Argentina llegaron a US$10.061 millones en octubre de 2026, un máximo histórico mensual, y el superávit comercial fue de US$3.394 millones. Qué revisar antes de cada envío.",
+    "descripcionSeo": "Argentina exportó US$10.061 millones en octubre de 2026 (+26,4%) y tuvo un superávit de US$3.394 millones, según el INDEC. Qué revisar antes de cada envío.",
+    "tituloSeo": "Argentina: exportaciones récord de US$10.061 millones",
+    "palabrasClave": [
+      "exportaciones Argentina octubre 2026",
+      "superávit comercial Argentina INDEC",
+      "exportar desde Argentina",
+      "documentación de exportación",
+      "comercio Argentina China 2026"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1700716465891-9e5e9f501d7d?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Camión con un contenedor frente a contenedores de colores apilados en una terminal de carga"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1587149185211-28a2ef4c9a10?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Contenedores de carga azules y rojos apilados en un puerto"
+    },
+    "cuerpo": [
+      "Según el INDEC, las exportaciones de Argentina sumaron US$10.061 millones en octubre de 2026, un 26,4% más que un año antes y un máximo histórico mensual, de acuerdo con Bloomberg Línea. Las importaciones fueron de US$6.668 millones (-6,7%), por lo que el superávit comercial del mes llegó a US$3.394 millones y el intercambio total a US$16.729 millones (+10,7%).",
+      "Por rubros, los productos primarios exportaron US$2.328 millones (+22,3%), las manufacturas de origen agropecuario US$3.314 millones (+18,8%), las manufacturas de origen industrial US$2.685 millones (+13,1%) y los combustibles y energía US$1.734 millones (+93,9%). En el acumulado de enero a octubre, las exportaciones crecieron 22,1% interanual.",
+      "En el detalle por socios, China registró un intercambio de US$3.052 millones con un déficit de US$400 millones para Argentina, el único saldo negativo entre las principales zonas relevadas, según la misma fuente. La nota no desglosa las exportaciones a China ni a otros destinos de Latinoamérica.",
+      "Un récord nacional no describe la situación de ninguna empresa en particular. Esta lectura es una observación de Linkit, no una conclusión de la fuente: con más volumen circulando, cada envío sigue dependiendo de que los documentos, las especificaciones y las condiciones acordadas con el comprador estén en orden antes de cargar. Linkit no predice el mercado ni garantiza ventas; desde sus oficinas en China y Ecuador acompaña a exportadores de Latinoamérica en la verificación y la preparación de sus envíos."
+    ],
+    "guia": {
+      "titulo": "3 revisiones antes de cada envío de exportación",
+      "items": [
+        {
+          "titulo": "Documentos que coincidan entre sí",
+          "texto": "Verifica que la factura, la lista de empaque y los documentos de embarque describan lo mismo: producto, cantidades, pesos y datos de las partes."
+        },
+        {
+          "titulo": "Requisitos del país de destino",
+          "texto": "Confirma por escrito qué certificados, registros y etiquetado exige el destino para tu producto, y quién se encarga de cada trámite."
+        },
+        {
+          "titulo": "Condiciones comerciales acordadas",
+          "texto": "Especificación del producto, Incoterm, forma y plazo de pago deben quedar por escrito con el comprador antes de producir o embarcar."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Las exportaciones de Argentina fueron de US$10.061 millones en octubre de 2026 (+26,4% interanual), un máximo histórico mensual.",
+        "fuente": "Bloomberg Línea, con datos del INDEC (19-nov-2026)"
+      },
+      {
+        "dato": "Las importaciones fueron de US$6.668 millones (-6,7%); el superávit comercial fue de US$3.394 millones y el intercambio total de US$16.729 millones (+10,7%).",
+        "fuente": "Bloomberg Línea, con datos del INDEC (19-nov-2026)"
+      },
+      {
+        "dato": "Con China, el intercambio fue de US$3.052 millones y el déficit de US$400 millones, el único saldo negativo entre las principales zonas relevadas.",
+        "fuente": "Bloomberg Línea, con datos del INDEC (19-nov-2026)"
+      },
+      {
+        "dato": "En el acumulado de enero a octubre de 2026, las exportaciones crecieron 22,1% interanual.",
+        "fuente": "Bloomberg Línea, con datos del INDEC (19-nov-2026)"
+      }
+    ],
+    "impacto": "La fuente es Bloomberg Línea, que reproduce datos del INDEC. Las cifras describen al país en su conjunto y no a ningún exportador ni producto concreto. La lectura sobre qué revisar antes de cada envío es de Linkit, no de la fuente. Linkit no predice el mercado ni garantiza ventas.",
+    "servicio": {
+      "nombre": "Growth Partner: entrada a China para marcas de Latinoamérica",
+      "ruta": "/servicios/entrada-china",
+      "texto": "Te acompañamos con inteligencia de mercado, registro ante las autoridades de China, etiquetado y ejecución en canal, con equipo en nuestras oficinas de China y Ecuador. Linkit no garantiza ventas."
+    },
+    "tema": "exportacion",
+    "fuente": {
+      "medio": "Bloomberg Línea, con datos del INDEC",
+      "url": "https://www.bloomberglinea.com/latinoamerica/argentina/exportaciones-argentinas-marcaron-record-en-octubre-y-el-superavit-comercial-supero-los-us3000-millones/"
+    }
   }
 ]
