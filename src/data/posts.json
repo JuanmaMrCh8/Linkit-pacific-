@@ -3209,5 +3209,86 @@
       "medio": "Bloomberg Línea, con datos del INDEC",
       "url": "https://www.bloomberglinea.com/latinoamerica/argentina/exportaciones-argentinas-marcaron-record-en-octubre-y-el-superavit-comercial-supero-los-us3000-millones/"
     }
+  },
+  {
+    "slug": "ecuador-compro-china-6-989-millones-26-por-ciento-revisar-antes-pagar",
+    "titulo": "Ecuador compró US$6.989 millones a China entre enero y septiembre (+26%) y le vendió US$5.388 millones: qué revisar antes de pagar cada lote",
+    "tituloCorto": "Ecuador–China: compras por US$6.989 millones hasta septiembre",
+    "fecha": "2026-11-22",
+    "categoria": "Importación",
+    "extracto": "Según Primicias, con datos del Banco Central, Ecuador importó US$6.989,3 millones desde China entre enero y septiembre de 2026 (+26%) y exportó US$5.388,3 millones (+25%). Qué revisar antes de pagar cada lote.",
+    "descripcionSeo": "Ecuador importó US$6.989 millones desde China hasta septiembre de 2026 (+26%) y exportó US$5.388 millones, según Primicias. Qué revisar antes de pagar un lote.",
+    "tituloSeo": "Ecuador–China: compras por US$6.989 millones",
+    "palabrasClave": [
+      "comercio Ecuador China 2026",
+      "importaciones desde China Ecuador",
+      "inspección antes de pagar",
+      "verificación de proveedores China",
+      "balanza comercial Ecuador China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1722413890417-67b8ce3f4005?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Buque portacontenedores cargado de contenedores de colores navegando en mar abierto"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1672552226604-4ab36b7e5ca6?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Bodega llena de cajas de cartón apiladas en estanterías"
+    },
+    "cuerpo": [
+      "Según Primicias, con datos del Banco Central del Ecuador, entre enero y septiembre de 2026 Ecuador importó US$6.989,3 millones desde China, un 26% más que en el mismo período de 2025. En el sentido contrario, las exportaciones ecuatorianas a China sumaron US$5.388,3 millones, un 25% más, y el saldo comercial con ese país fue negativo en US$1.601 millones para Ecuador.",
+      "Entre lo que Ecuador vende a China, el camarón fue el principal producto, con US$3.006 millones, seguido del cobre y concentrados, con US$1.448,5 millones. Entre lo que compra, la nota destaca los autos, con US$1.009 millones, y los celulares, con US$437,8 millones. Según la misma fuente, China es el segundo socio comercial de Ecuador, detrás de Estados Unidos, y el primero en intercambio de productos no petroleros; el acuerdo comercial entró en vigencia en mayo de 2024.",
+      "Para quien importa, un volumen grande no cambia lo esencial de cada compra: lo que llega debe coincidir con lo que se pidió. Esta lectura es una observación de Linkit, no una conclusión de la fuente: las cifras describen el comercio del país en su conjunto y no dicen nada sobre la calidad de ningún proveedor ni producto concreto.",
+      "Linkit no predice el mercado ni garantiza resultados con ningún proveedor; desde sus oficinas en China y Ecuador acompaña a importadores de Latinoamérica en la verificación de proveedores, la producción y la inspección antes del embarque."
+    ],
+    "guia": {
+      "titulo": "3 revisiones antes de pagar el saldo de un lote",
+      "items": [
+        {
+          "titulo": "Especificación escrita y firmada",
+          "texto": "Materiales, medidas, acabados, empaque y etiquetado deben estar detallados por escrito antes de producir. Esa especificación es tu referencia para revisar lo fabricado."
+        },
+        {
+          "titulo": "Compara la mercadería con lo pedido",
+          "texto": "Antes de pagar el saldo, revisa una muestra de la producción terminada contra la especificación: cantidades, medidas, acabados y empaque."
+        },
+        {
+          "titulo": "Documentos que coincidan entre sí",
+          "texto": "Verifica que la factura, la lista de empaque y los documentos de embarque describan lo mismo: producto, cantidades, pesos y datos de las partes."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Entre enero y septiembre de 2026, Ecuador importó US$6.989,3 millones desde China, un 26% más que en el mismo período de 2025.",
+        "fuente": "Primicias, con datos del Banco Central del Ecuador (18-nov-2026)"
+      },
+      {
+        "dato": "En el mismo período, las exportaciones de Ecuador a China fueron de US$5.388,3 millones (+25%) y el saldo comercial con China fue negativo en US$1.601 millones.",
+        "fuente": "Primicias, con datos del Banco Central del Ecuador (18-nov-2026)"
+      },
+      {
+        "dato": "El camarón fue el principal producto vendido a China (US$3.006 millones), seguido del cobre y concentrados (US$1.448,5 millones).",
+        "fuente": "Primicias, con datos del Banco Central del Ecuador (18-nov-2026)"
+      },
+      {
+        "dato": "Entre los productos importados desde China figuran los autos (US$1.009 millones) y los celulares (US$437,8 millones).",
+        "fuente": "Primicias, con datos del Banco Central del Ecuador (18-nov-2026)"
+      },
+      {
+        "dato": "China es el segundo socio comercial de Ecuador, detrás de Estados Unidos, y el primero en productos no petroleros; el acuerdo comercial está vigente desde mayo de 2024.",
+        "fuente": "Primicias, con datos del Banco Central del Ecuador (18-nov-2026)"
+      }
+    ],
+    "impacto": "La fuente es Primicias, que cita datos del Banco Central del Ecuador. Las cifras describen el comercio del país en su conjunto y no a ningún proveedor ni producto concreto. La lectura sobre qué revisar antes de pagar un lote es de Linkit, no de la fuente. Linkit no predice el mercado ni garantiza resultados con un proveedor.",
+    "servicio": {
+      "nombre": "Inspección preembarque y control de calidad",
+      "ruta": "/inspecciones",
+      "texto": "Con el equipo de Linkit en China revisamos la producción y la mercadería terminada contra tu especificación antes de que pagues el saldo y embarques."
+    },
+    "tema": "importacion",
+    "fuente": {
+      "medio": "Primicias, con datos del Banco Central del Ecuador",
+      "url": "https://www.primicias.ec/economia/comercio-ecuador-estados-unidos-petroleo-china-camaron-oro-exportaciones-importaciones-137347/"
+    }
   }
 ]
