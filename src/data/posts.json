@@ -3290,5 +3290,82 @@
       "medio": "Primicias, con datos del Banco Central del Ecuador",
       "url": "https://www.primicias.ec/economia/comercio-ecuador-estados-unidos-petroleo-china-camaron-oro-exportaciones-importaciones-137347/"
     }
+  },
+  {
+    "slug": "china-exportaciones-35-2-por-ciento-octubre-superavit-1-billon",
+    "titulo": "Las exportaciones de China subieron 35,2% interanual en octubre y el superávit acumulado superó US$1 billón: qué revisar en la línea de producción",
+    "tituloCorto": "Exportaciones de China: +35,2% en octubre",
+    "fecha": "2026-11-23",
+    "categoria": "Importación",
+    "extracto": "Según Euronews, con datos de la Aduana de China, las exportaciones chinas sumaron US$412.300 millones en octubre (+35,2% interanual). Qué revisar cuando la fábrica tiene mucho trabajo.",
+    "descripcionSeo": "Las exportaciones de China subieron 35,2% interanual en octubre de 2026, según Euronews con datos de la Aduana china. Qué revisar en la línea antes de embarcar.",
+    "tituloSeo": "Exportaciones de China +35,2% en octubre",
+    "palabrasClave": [
+      "exportaciones de China 2026",
+      "superávit comercial China",
+      "inspección en fábrica China",
+      "control de calidad antes del embarque",
+      "importar desde China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1748944079305-8d2a86e7ad32?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Trabajadores supervisando la producción en una fábrica moderna"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1700165644892-3dd6b67b25bc?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Muchas cajas de cartón marrón abiertas"
+    },
+    "cuerpo": [
+      "Según Euronews (10-nov-2026), con datos de la Administración General de Aduanas de China, las exportaciones chinas llegaron a US$412.300 millones en octubre de 2026, un 35,2% más que en el mismo mes de 2025. Entre enero y octubre, el superávit comercial acumulado fue de US$1,04 billones; en 2025 el récord anual fue de US$1,2 billones.",
+      "La misma fuente indica que las ventas a Estados Unidos subieron 32,9% en octubre y atribuye parte del impulso a la demanda global de productos ligados a la inteligencia artificial, como chips, servidores de centros de datos y equipos de red. Estas cifras describen el comercio de China en su conjunto; no dicen nada sobre las exportaciones hacia Ecuador ni hacia Latinoamérica.",
+      "Para quien importa, una observación de Linkit, no de la fuente: cuando una fábrica recibe más pedidos, aumenta la presión por entregar rápido y pueden aumentar los errores de cantidad y de armado. Por eso conviene contar y abrir al azar una caja de la producción terminada y compararla con la orden de compra antes de pagar el saldo.",
+      "Linkit no predice el mercado ni garantiza resultados con ningún proveedor; desde sus oficinas en China y Ecuador acompaña a importadores de Latinoamérica en la verificación de proveedores, la producción y la inspección antes del embarque."
+    ],
+    "guia": {
+      "titulo": "3 revisiones en la línea cuando la fábrica tiene mucho trabajo",
+      "items": [
+        {
+          "titulo": "Cuenta las unidades contra la orden de compra",
+          "texto": "Antes de pagar el saldo, verifica que la cantidad terminada y empacada coincida con la orden de compra, modelo por modelo."
+        },
+        {
+          "titulo": "Abre una caja al azar",
+          "texto": "Elige una caja sin avisar al proveedor, ábrela y compara su contenido, el armado y el empaque con la especificación firmada."
+        },
+        {
+          "titulo": "Confirma que los documentos describan lo mismo",
+          "texto": "Revisa que la factura, la lista de empaque y los datos de embarque coincidan con lo que realmente hay en las cajas."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "Las exportaciones de China fueron de US$412.300 millones en octubre de 2026, un 35,2% más que en octubre de 2025.",
+        "fuente": "Euronews (10-nov-2026), con datos de la Administración General de Aduanas de China"
+      },
+      {
+        "dato": "El superávit comercial acumulado de enero a octubre fue de US$1,04 billones; en 2025 el récord anual fue de US$1,2 billones.",
+        "fuente": "Euronews (10-nov-2026), con datos de la Administración General de Aduanas de China"
+      },
+      {
+        "dato": "Las exportaciones chinas a Estados Unidos subieron 32,9% en octubre.",
+        "fuente": "Euronews (10-nov-2026), con datos de la Administración General de Aduanas de China"
+      },
+      {
+        "dato": "Euronews atribuye parte del impulso a la demanda de chips, servidores de centros de datos y equipos de red ligados a la inteligencia artificial.",
+        "fuente": "Euronews (10-nov-2026), con datos de la Administración General de Aduanas de China"
+      }
+    ],
+    "impacto": "La fuente es Euronews, que cita datos de la Administración General de Aduanas de China. Las cifras describen el comercio de China en su conjunto y no dicen nada sobre Ecuador ni Latinoamérica. La lectura sobre qué revisar en la línea es de Linkit, no de la fuente. Linkit no predice el mercado ni garantiza resultados con un proveedor.",
+    "servicio": {
+      "nombre": "Inspección preembarque y control de calidad",
+      "ruta": "/inspecciones",
+      "texto": "Con el equipo de Linkit en China contamos y revisamos la producción terminada contra tu orden de compra y tu especificación antes de que pagues el saldo y embarques."
+    },
+    "tema": "importacion",
+    "fuente": {
+      "medio": "Euronews, con datos de la Administración General de Aduanas de China",
+      "url": "https://es.euronews.com/2026/11/10/china-dispara-sus-exportaciones-por-la-demanda-de-ia-y-logra-un-superavit-de-1-billon-de-d"
+    }
   }
 ]
