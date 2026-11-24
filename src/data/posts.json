@@ -3367,5 +3367,79 @@
       "medio": "Euronews, con datos de la Administración General de Aduanas de China",
       "url": "https://es.euronews.com/2026/11/10/china-dispara-sus-exportaciones-por-la-demanda-de-ia-y-logra-un-superavit-de-1-billon-de-d"
     }
+  },
+  {
+    "slug": "peru-sunat-proyecto-control-del-valor-15-dias-comentarios",
+    "titulo": "Perú publicó para consulta el proyecto de Procedimiento Especial de Control del Valor de la SUNAT: qué documentos guardar por cada compra",
+    "tituloCorto": "SUNAT: proyecto de control del valor",
+    "fecha": "2026-11-24",
+    "categoria": "Regulatorio",
+    "extracto": "La SUNAT publicó el 11 de noviembre, para comentarios, el proyecto del procedimiento DESPA-PE.01.40 y una relación de subpartidas de alto riesgo. Aún no es la norma final.",
+    "descripcionSeo": "La SUNAT publicó el proyecto del Procedimiento Especial de Control del Valor (DESPA-PE.01.40) con 15 días de comentarios. Qué documentos guardar al importar.",
+    "tituloSeo": "SUNAT: proyecto de control del valor",
+    "palabrasClave": [
+      "SUNAT control del valor",
+      "DESPA-PE.01.40",
+      "importar a Perú",
+      "valor declarado aduanas",
+      "documentos de importación"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1632152053640-da3a8b3ee812?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Pila de documentos y papeles sobre una mesa de madera"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1769837496184-32831581c55a?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Buque portacontenedores y grúas en un puerto"
+    },
+    "cuerpo": [
+      "Según El Peruano, la Resolución de Superintendencia N° 000223-2026/SUNAT, fechada el 9 de noviembre de 2026 y publicada el 11 de noviembre, dispone publicar en la sede digital de la SUNAT el proyecto del procedimiento específico «Procedimiento especial de control del valor» (DESPA-PE.01.40, versión 1), junto con su exposición de motivos. El proyecto incluye además una relación de subpartidas nacionales de mercancías consideradas de alto riesgo.",
+      "La resolución abre un plazo de 15 días calendario, contados desde el día siguiente de su publicación, para que operadores y público presenten comentarios. Se apoya en el Decreto Legislativo N° 1721 y en su reglamento, aprobado por el Decreto Supremo N° 143-2026-EF, que regulan el control del valor en la importación para el consumo; según Deloitte Perú, ese reglamento se publicó el 22 de julio de 2026.",
+      "Importante: es un proyecto para consulta, no la norma final. Según El Peruano, el reglamento entra en vigor cuando se publique la resolución final de la SUNAT. Este artículo no cita subpartidas ni plazos de aplicación, porque no se leyó la relación completa.",
+      "Para quien importa, una observación de Linkit, no de la fuente: no hace falta esperar la norma final para ordenar la carpeta de cada compra. Si el valor declarado se puede respaldar con documentos que cuenten la misma historia, cualquier revisión posterior es más sencilla de atender.",
+      "Linkit no interpreta la norma ni garantiza resultados ante la aduana; desde sus oficinas en China y Ecuador acompaña a importadores de Latinoamérica en la verificación documental antes del embarque."
+    ],
+    "guia": {
+      "titulo": "3 documentos que conviene guardar por cada compra",
+      "items": [
+        {
+          "titulo": "Factura y orden de compra que coincidan",
+          "texto": "Guarda la orden de compra, la proforma y la factura final, y confirma que describan los mismos productos, cantidades y condiciones de venta."
+        },
+        {
+          "titulo": "Contrato y comunicaciones con el proveedor",
+          "texto": "Conserva el contrato o los acuerdos escritos y los mensajes donde se confirmaron cambios de producto, cantidad o plazo."
+        },
+        {
+          "titulo": "Comprobantes de pago coherentes",
+          "texto": "Archiva las transferencias y recibos y verifica que los montos y los beneficiarios correspondan con la factura del proveedor."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "La Resolución de Superintendencia N° 000223-2026/SUNAT, del 9 de noviembre de 2026, se publicó en El Peruano el 11 de noviembre de 2026.",
+        "fuente": "El Peruano (11-nov-2026)"
+      },
+      {
+        "dato": "Ordena publicar el proyecto del procedimiento DESPA-PE.01.40 (versión 1) y una relación de subpartidas de alto riesgo, con 15 días calendario para comentarios.",
+        "fuente": "El Peruano (11-nov-2026)"
+      },
+      {
+        "dato": "El Decreto Supremo N° 143-2026-EF, reglamento del control del valor, se publicó el 22 de julio de 2026.",
+        "fuente": "Deloitte Perú, flash del 24-jul-2026"
+      }
+    ],
+    "impacto": "La fuente es El Peruano (Resolución 000223-2026/SUNAT), con apoyo de Deloitte Perú para el reglamento. Se trata de un proyecto para comentarios, no de la norma final. La lectura sobre qué documentos guardar es de Linkit, no de la fuente. Linkit no interpreta la norma ni garantiza resultados ante la aduana.",
+    "servicio": {
+      "nombre": "Aduanas y verificación documental",
+      "ruta": "/servicios/aduanas",
+      "texto": "Con el equipo de Linkit en China y Ecuador revisamos que factura, contrato, pagos y lista de empaque describan lo mismo antes de que embarques."
+    },
+    "tema": "regulatorio",
+    "fuente": {
+      "medio": "El Peruano, Resolución de Superintendencia N° 000223-2026/SUNAT",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/2573244-1"
+    }
   }
 ]
