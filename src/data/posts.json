@@ -3441,5 +3441,75 @@
       "medio": "El Peruano, Resolución de Superintendencia N° 000223-2026/SUNAT",
       "url": "https://busquedas.elperuano.pe/dispositivo/NL/2573244-1"
     }
+  },
+  {
+    "slug": "fletes-wci-4176-cuarta-baja-seguida-no-es-tarifa-a-sudamerica",
+    "titulo": "Fletes: el WCI de Drewry baja 3% a US$4.176 por contenedor de 40 pies, su cuarta caída seguida: qué revisar antes de decidir tu embarque",
+    "tituloCorto": "El WCI baja a US$4.176, cuarta caída seguida",
+    "fecha": "2026-11-25",
+    "categoria": "Importación",
+    "extracto": "El índice mundial de contenedores de Drewry cayó 3% hasta US$4.176 por contenedor de 40 pies, su cuarta baja semanal consecutiva: por qué un flete más bajo no reemplaza la revisión de tu mercancía y qué no dice este índice sobre Sudamérica.",
+    "descripcionSeo": "El WCI de Drewry bajó 3% a US$4.176 por 40 pies, cuarta caída seguida. Qué mide, qué no dice sobre Sudamérica y qué revisar antes de embarcar.",
+    "tituloSeo": "WCI baja a US$4.176: qué revisar antes de embarcar",
+    "palabrasClave": [
+      "World Container Index",
+      "flete marítimo",
+      "Drewry",
+      "costo de importación",
+      "importar desde China"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1724597500306-a4cbb7d1324e?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Vista aérea de un buque portacontenedores navegando en el océano"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1636545256808-c2f40f2b6cdb?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Gran buque portacontenedores cargado en medio del océano"
+    },
+    "cuerpo": [
+      "Según Drewry, el World Container Index (WCI) compuesto bajó 3% en la semana y se ubicó en US$4.176 por contenedor de 40 pies al 19 de noviembre de 2026. Es la cuarta caída semanal consecutiva del índice.",
+      "El WCI es un promedio global de varias rutas marítimas desde y hacia grandes puertos. Sirve para ver hacia dónde se mueve el mercado de fletes en general, pero no es la tarifa de una ruta concreta. La página de Drewry no entrega aquí el detalle de la ruta Asia–Sudamérica, así que este dato no equivale a lo que pagaría un importador en Ecuador o en otro país de la región.",
+      "Conviene leerlo con cuidado: que el índice global baje no significa que tu cotización vaya a bajar en la misma proporción, ni que vaya a seguir bajando. Este artículo no hace predicciones sobre las próximas semanas.",
+      "Una observación de Linkit, no de la fuente: un flete más barato no cambia el costo de una mercancía mal revisada. Si la caja sale con cantidades distintas, empaque dañado o producto que no coincide con la orden de compra, el problema aparece igual en destino. Por eso conviene separar dos decisiones: cuándo embarcar y qué se embarca.",
+      "Linkit no fija tarifas ni controla a las navieras. Desde sus oficinas en China y Ecuador acompaña a importadores de Latinoamérica en la inspección de la producción y de la carga antes de que el contenedor salga."
+    ],
+    "guia": {
+      "titulo": "Tres cosas que revisar antes de decidir tu embarque",
+      "items": [
+        {
+          "titulo": "Compara con tu cotización, no con el índice",
+          "texto": "Pide la cotización de tu ruta por escrito, con su vigencia, y úsala como referencia. El WCI solo te dice la tendencia global."
+        },
+        {
+          "titulo": "Confirma que la producción esté lista",
+          "texto": "No reserves espacio solo porque el flete bajó: verifica con el proveedor las fechas reales de terminación y de entrega de la carga en el puerto."
+        },
+        {
+          "titulo": "Inspecciona antes de cargar",
+          "texto": "Revisa cantidades, empaque y que el producto coincida con la orden de compra. Una inspección antes del embarque evita descubrir el error cuando el contenedor ya viaja."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "World Container Index compuesto al 19 de noviembre de 2026: US$4.176 por contenedor de 40 pies, 3% menos que la semana anterior.",
+        "fuente": "Drewry, World Container Index (consultado el 25 de noviembre de 2026)"
+      },
+      {
+        "dato": "Es la cuarta caída semanal consecutiva del índice compuesto.",
+        "fuente": "Drewry, World Container Index (consultado el 25 de noviembre de 2026)"
+      }
+    ],
+    "impacto": "La cifra es el índice global compuesto de Drewry al 19 de noviembre; no incluye datos de la ruta Asia–Sudamérica ni de Ecuador, por lo que no equivale a la tarifa que paga un importador latinoamericano. Revisa siempre el índice más reciente. La lectura sobre inspeccionar antes de embarcar es de Linkit, no de la fuente. Linkit no fija tarifas ni controla a las navieras.",
+    "servicio": {
+      "nombre": "Inspecciones",
+      "ruta": "/inspecciones",
+      "texto": "Con el equipo de Linkit en China y Ecuador revisamos la producción y la carga antes del embarque, para que lo que sale del puerto coincida con lo que compraste. Linkit no fija tarifas ni controla a las navieras."
+    },
+    "tema": "importacion",
+    "fuente": {
+      "medio": "Drewry, World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry"
+    }
   }
 ]
