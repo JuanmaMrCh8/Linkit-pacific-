@@ -3511,5 +3511,78 @@
       "medio": "Drewry, World Container Index",
       "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry"
     }
+  },
+  {
+    "slug": "mexico-china-grupo-de-trabajo-aranceles-cotizar-arancel-vigente",
+    "titulo": "China pide a México prudencia con los aranceles y ambos crean un grupo de trabajo: por qué conviene cotizar con el arancel vigente",
+    "tituloCorto": "México y China crean un grupo de trabajo",
+    "fecha": "2026-11-28",
+    "categoria": "Regulatorio",
+    "extracto": "China pidió a México usar con prudencia sus medidas de defensa comercial y ambos países acordaron un grupo de trabajo. La noticia no anuncia cambios de arancel: qué conviene revisar antes de ordenar mercancía china.",
+    "descripcionSeo": "China y México acuerdan un grupo de trabajo sin anunciar cambios de arancel. Qué revisar antes de ordenar mercancía china para importar a México.",
+    "tituloSeo": "Aranceles México–China: cotiza con la tasa vigente",
+    "palabrasClave": [
+      "aranceles México China",
+      "importar de China a México",
+      "fracción arancelaria",
+      "grupo de trabajo México China",
+      "costo de importación"
+    ],
+    "imagen": {
+      "src": "https://images.unsplash.com/photo-1578163677454-b3933804a354?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Contenedores marítimos de colores apilados"
+    },
+    "imagen2": {
+      "src": "https://images.unsplash.com/photo-1626266061368-46a8f578ddd6?q=80&w=1400&auto=format&fit=crop",
+      "alt": "Mano de una persona usando una calculadora sobre un escritorio"
+    },
+    "cuerpo": [
+      "El Ministerio de Comercio de China pidió a México abordar el desequilibrio comercial entre ambos de forma «racional, objetiva e integral» y usar sus medidas de defensa comercial «con prudencia», según informó la agencia EFE el 26 de noviembre de 2026. Su portavoz, He Yadong, señaló además que Pekín se opone a los aumentos unilaterales de aranceles.",
+      "El pronunciamiento llegó tras la undécima reunión del Grupo de Alto Nivel México-China, encabezada por el ministro chino de Comercio, Wang Wentao, y el secretario mexicano de Economía, Marcelo Ebrard. Ambos países acordaron crear un grupo de trabajo para impulsar su relación económica y comercial. México, por su parte, pidió acelerar los protocolos para exportar productos agroalimentarios a China.",
+      "El punto práctico para quien importa: la noticia no anuncia ningún cambio de arancel. EFE recuerda que en diciembre de 2025 México aprobó aranceles de hasta 50% a unos 1.400 productos de países sin tratado de libre comercio, entre ellos China, una medida que la agencia enmarca en la revisión del T-MEC.",
+      "Una observación de Linkit, no de la fuente: un grupo de trabajo no es una rebaja. Conviene calcular cada compra con el arancel que rige hoy para tu producto y no dar por hecho que bajará antes de que llegue la carga. Linkit acompaña a importadores de Latinoamérica, desde sus oficinas en China y Ecuador, en la revisión documental antes del embarque."
+    ],
+    "guia": {
+      "titulo": "Tres cosas que revisar antes de ordenar",
+      "items": [
+        {
+          "titulo": "Confirma la fracción arancelaria",
+          "texto": "Define con tu agente aduanal en qué fracción entra tu producto y qué arancel le corresponde hoy. No todos los productos están alcanzados por la misma tasa."
+        },
+        {
+          "titulo": "Calcula con el arancel vigente",
+          "texto": "Arma tu costo puesto en destino con la tasa actual. Si más adelante cambia, será un ajuste; no lo incluyas como un ahorro ya conseguido."
+        },
+        {
+          "titulo": "Alinea los documentos antes del embarque",
+          "texto": "Verifica que la descripción, las cantidades y el origen coincidan en la factura comercial, la lista de empaque y los demás documentos antes de que la carga salga."
+        }
+      ]
+    },
+    "datos": [
+      {
+        "dato": "China pidió a México usar sus medidas de defensa comercial con prudencia y ambos países acordaron crear un grupo de trabajo económico y comercial.",
+        "fuente": "EFE, publicado por Infobae (26 de noviembre de 2026)"
+      },
+      {
+        "dato": "En diciembre de 2025 México aprobó aranceles de hasta 50% a unos 1.400 productos de países sin tratado de libre comercio, incluida China.",
+        "fuente": "EFE, publicado por Infobae (26 de noviembre de 2026)"
+      },
+      {
+        "dato": "Ebrard estimó que las ventas de China a México superarán los US$130.000 millones este año; las exportaciones mexicanas a China rondan los US$10.000 millones.",
+        "fuente": "EFE, publicado por Infobae (26 de noviembre de 2026)"
+      }
+    ],
+    "impacto": "No se anunció ningún cambio de arancel y la noticia no indica plazos ni resultados esperados del grupo de trabajo. La medida mencionada corresponde a México y no describe lo que aplica en otros países de la región. Antes de decidir, confirma la tasa de tu producto en la fuente oficial o con tu agente aduanal. La recomendación de cotizar con el arancel vigente es de Linkit, no de la fuente.",
+    "servicio": {
+      "nombre": "Aduanas y logística: clasificación y costo puesto en destino",
+      "ruta": "/servicios/aduanas",
+      "texto": "Te ayudamos a ordenar la información de tu producto, revisar la documentación y calcular el costo puesto en destino antes de comprar, con equipo en nuestras oficinas de China y Ecuador. La clasificación arancelaria oficial se valida con tu agente aduanal."
+    },
+    "tema": "regulatorio",
+    "fuente": {
+      "medio": "EFE vía Infobae",
+      "url": "https://www.infobae.com/america/agencias/2026/11/26/china-pide-a-mexico-abordar-de-forma-objetiva-el-desequilibrio-comercial-bilateral/"
+    }
   }
 ]
